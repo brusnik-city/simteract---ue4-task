@@ -90,4 +90,14 @@
       <Filter>Source\Sumteract_UE4</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\Sumteract_UE4\Car.h">
+      <Filter>Source\Sumteract_UE4</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\Sumteract_UE4\Car.cpp">
+      <Filter>Source\Sumteract_UE4</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>

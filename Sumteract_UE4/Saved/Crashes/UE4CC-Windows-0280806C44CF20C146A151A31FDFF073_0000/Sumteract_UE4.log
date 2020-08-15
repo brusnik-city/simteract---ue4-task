@@ -1,0 +1,1360 @@
+﻿Log file open, 08/15/20 20:05:11
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Sumteract_UE4
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.274400
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.08.15-18.05.11:773][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.08.15-18.05.11:773][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.08.15-18.05.11:773][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/Config/Windows/Engine.ini]
+[2020.08.15-18.05.11:773][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.08.15-18.05.11:773][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.08.15-18.05.11:773][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/Config/Windows/Engine.ini]
+[2020.08.15-18.05.11:773][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/Config/Windows/Engine.ini]
+[2020.08.15-18.05.11:773][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.08.15-18.05.11:773][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.08.15-18.05.11:773][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.08.15-18.05.11:773][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.08.15-18.05.11:773][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.08.15-18.05.11:773][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.08.15-18.05.11:773][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.08.15-18.05.11:773][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.08.15-18.05.11:773][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.08.15-18.05.11:773][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.08.15-18.05.11:773][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.08.15-18.05.11:773][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.08.15-18.05.11:773][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.08.15-18.05.11:773][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/Config/Windows/Engine.ini]
+[2020.08.15-18.05.11:773][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.08.15-18.05.11:773][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.08.15-18.05.11:773][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.08.15-18.05.11:773][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.08.15-18.05.11:773][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.08.15-18.05.11:773][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.08.15-18.05.11:773][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.08.15-18.05.11:773][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.08.15-18.05.11:773][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.08.15-18.05.11:773][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.08.15-18.05.11:773][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.08.15-18.05.11:773][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.08.15-18.05.11:773][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.08.15-18.05.11:773][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/Config/Windows/Engine.ini]
+[2020.08.15-18.05.11:773][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/Config/Windows/Engine.ini]
+[2020.08.15-18.05.11:776][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/Config/Windows/Scalability.ini]
+[2020.08.15-18.05.11:776][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.08.15-18.05.11:776][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.08.15-18.05.11:776][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/Config/Windows/Scalability.ini]
+[2020.08.15-18.05.11:776][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.08.15-18.05.11:776][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/Config/Windows/Scalability.ini]
+[2020.08.15-18.05.11:776][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.08.15-18.05.11:776][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.08.15-18.05.11:776][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.08.15-18.05.11:776][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.08.15-18.05.11:776][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.08.15-18.05.11:776][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.08.15-18.05.11:776][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.08.15-18.05.11:776][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.08.15-18.05.11:776][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.08.15-18.05.11:776][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.08.15-18.05.11:776][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.08.15-18.05.11:776][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.08.15-18.05.11:776][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.08.15-18.05.11:776][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.08.15-18.05.11:776][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.08.15-18.05.11:776][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.08.15-18.05.11:776][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.08.15-18.05.11:776][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.08.15-18.05.11:776][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/Config/Windows/Scalability.ini]
+[2020.08.15-18.05.11:776][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.08.15-18.05.11:776][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.08.15-18.05.11:776][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.08.15-18.05.11:776][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.08.15-18.05.11:776][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.08.15-18.05.11:776][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.08.15-18.05.11:776][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.08.15-18.05.11:776][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.08.15-18.05.11:777][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.08.15-18.05.11:777][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.08.15-18.05.11:777][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.08.15-18.05.11:777][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.08.15-18.05.11:777][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.08.15-18.05.11:777][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.08.15-18.05.11:777][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.08.15-18.05.11:777][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.08.15-18.05.11:777][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.08.15-18.05.11:777][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.08.15-18.05.11:777][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.08.15-18.05.11:777][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.08.15-18.05.11:777][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.08.15-18.05.11:777][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.08.15-18.05.11:777][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.08.15-18.05.11:777][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.08.15-18.05.11:777][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.08.15-18.05.11:777][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.08.15-18.05.11:777][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.08.15-18.05.11:777][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.08.15-18.05.11:777][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.08.15-18.05.11:777][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.08.15-18.05.11:777][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/Config/Windows/Scalability.ini]
+[2020.08.15-18.05.11:777][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.08.15-18.05.11:777][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.08.15-18.05.11:777][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.08.15-18.05.11:777][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.08.15-18.05.11:777][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.08.15-18.05.11:777][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.08.15-18.05.11:777][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.08.15-18.05.11:777][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.08.15-18.05.11:777][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/Config/Windows/Scalability.ini]
+[2020.08.15-18.05.11:777][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.08.15-18.05.11:777][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.08.15-18.05.11:777][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.08.15-18.05.11:777][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.08.15-18.05.11:777][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.08.15-18.05.11:777][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.08.15-18.05.11:777][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.08.15-18.05.11:777][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.08.15-18.05.11:777][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.08.15-18.05.11:777][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.08.15-18.05.11:777][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.08.15-18.05.11:777][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.08.15-18.05.11:777][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.08.15-18.05.11:777][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/Config/Windows/Scalability.ini]
+[2020.08.15-18.05.11:777][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.08.15-18.05.11:777][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.08.15-18.05.11:777][  0]LogInit: Selected Device Profile: [Windows]
+[2020.08.15-18.05.11:777][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.08.15-18.05.11:781][  0]LogHAL: Display: Platform has ~ 8 GB [8459030528 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.08.15-18.05.11:781][  0]LogInit: Going up to parent DeviceProfile []
+[2020.08.15-18.05.11:781][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/Config/Windows/Scalability.ini]
+[2020.08.15-18.05.11:781][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.08.15-18.05.11:781][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.08.15-18.05.11:781][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/Config/Windows/Scalability.ini]
+[2020.08.15-18.05.11:781][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.08.15-18.05.11:781][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/Config/Windows/Scalability.ini]
+[2020.08.15-18.05.11:781][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.08.15-18.05.11:781][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.08.15-18.05.11:781][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.08.15-18.05.11:781][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.08.15-18.05.11:781][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.08.15-18.05.11:781][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.08.15-18.05.11:781][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.08.15-18.05.11:781][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.08.15-18.05.11:781][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.08.15-18.05.11:781][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.08.15-18.05.11:781][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.08.15-18.05.11:781][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.08.15-18.05.11:781][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.08.15-18.05.11:781][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.08.15-18.05.11:781][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.08.15-18.05.11:781][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.08.15-18.05.11:781][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.08.15-18.05.11:781][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.08.15-18.05.11:781][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/Config/Windows/Scalability.ini]
+[2020.08.15-18.05.11:782][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.08.15-18.05.11:782][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.08.15-18.05.11:782][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.08.15-18.05.11:782][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.08.15-18.05.11:782][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.08.15-18.05.11:782][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.08.15-18.05.11:782][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.08.15-18.05.11:782][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.08.15-18.05.11:782][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.08.15-18.05.11:782][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.08.15-18.05.11:782][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.08.15-18.05.11:782][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.08.15-18.05.11:782][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.08.15-18.05.11:782][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.08.15-18.05.11:782][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.08.15-18.05.11:782][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.08.15-18.05.11:782][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.08.15-18.05.11:782][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.08.15-18.05.11:782][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.08.15-18.05.11:782][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.08.15-18.05.11:782][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.08.15-18.05.11:782][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.08.15-18.05.11:782][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.08.15-18.05.11:782][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.08.15-18.05.11:782][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.08.15-18.05.11:782][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.08.15-18.05.11:782][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.08.15-18.05.11:782][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.08.15-18.05.11:782][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.08.15-18.05.11:782][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.08.15-18.05.11:782][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/Config/Windows/Scalability.ini]
+[2020.08.15-18.05.11:782][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.08.15-18.05.11:782][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.08.15-18.05.11:782][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.08.15-18.05.11:782][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.08.15-18.05.11:782][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.08.15-18.05.11:782][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.08.15-18.05.11:782][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.08.15-18.05.11:782][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.08.15-18.05.11:782][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/Config/Windows/Scalability.ini]
+[2020.08.15-18.05.11:782][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.08.15-18.05.11:782][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.08.15-18.05.11:782][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.08.15-18.05.11:782][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.08.15-18.05.11:782][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.08.15-18.05.11:782][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.08.15-18.05.11:782][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.08.15-18.05.11:782][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.08.15-18.05.11:782][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.08.15-18.05.11:782][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.08.15-18.05.11:782][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.08.15-18.05.11:782][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.08.15-18.05.11:782][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.08.15-18.05.11:782][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/Config/Windows/Scalability.ini]
+[2020.08.15-18.05.11:782][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.08.15-18.05.11:782][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.08.15-18.05.11:782][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.08.15-18.05.11:783][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.08.15-18.05.11:783][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.08.15-18.05.11:783][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/Config/Windows/Engine.ini]
+[2020.08.15-18.05.11:783][  0]LogInit: Computer: DESKTOP-HGEI2AA
+[2020.08.15-18.05.11:783][  0]LogInit: User: bru
+[2020.08.15-18.05.11:783][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.08.15-18.05.11:783][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.08.15-18.05.11:783][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.08.15-18.05.11:784][  0]LogMemory: Platform Memory Stats for Windows
+[2020.08.15-18.05.11:784][  0]LogMemory: Process Physical Memory: 102.89 MB used, 102.90 MB peak
+[2020.08.15-18.05.11:784][  0]LogMemory: Process Virtual Memory: 98.57 MB used, 98.57 MB peak
+[2020.08.15-18.05.11:784][  0]LogMemory: Physical Memory: 4133.05 MB used,  3934.11 MB free, 8067.16 MB total
+[2020.08.15-18.05.11:784][  0]LogMemory: Virtual Memory: 4654.54 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2020.08.15-18.05.11:787][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.08.15-18.05.11:840][  0]LogInit: Using OS detected language (pl-PL).
+[2020.08.15-18.05.11:840][  0]LogInit: Using OS detected locale (pl-PL).
+[2020.08.15-18.05.11:841][  0]LogTextLocalizationManager: No specific localization for 'pl-PL' exists, so the 'pl' localization will be used.
+[2020.08.15-18.05.11:842][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/pl/Editor.locres' could not be opened for reading!
+[2020.08.15-18.05.11:842][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/pl/EditorTutorials.locres' could not be opened for reading!
+[2020.08.15-18.05.11:842][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/pl/Keywords.locres' could not be opened for reading!
+[2020.08.15-18.05.11:842][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/pl/Category.locres' could not be opened for reading!
+[2020.08.15-18.05.11:842][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/pl/ToolTips.locres' could not be opened for reading!
+[2020.08.15-18.05.11:843][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/pl/PropertyNames.locres' could not be opened for reading!
+[2020.08.15-18.05.11:843][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/pl/Engine.locres' could not be opened for reading!
+[2020.08.15-18.05.11:845][  0]LogInit: Setting process to per monitor DPI aware
+[2020.08.15-18.05.11:889][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.08.15-18.05.11:889][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.08.15-18.05.12:216][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.08.15-18.05.12:216][  0]LogD3D11RHI: D3D11 adapters:
+[2020.08.15-18.05.12:263][  0]LogD3D11RHI:    0. 'AMD Radeon(TM) RX 560' (Feature Level 11_0)
+[2020.08.15-18.05.12:263][  0]LogD3D11RHI:       4044/0/4033 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2020.08.15-18.05.12:286][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2020.08.15-18.05.12:286][  0]LogD3D11RHI:       128/0/4033 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.08.15-18.05.12:294][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.08.15-18.05.12:294][  0]LogD3D11RHI:       0/0/4033 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.08.15-18.05.12:294][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.08.15-18.05.12:302][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.08.15-18.05.12:302][  0]LogD3D11RHI:     GPU DeviceId: 0x67ef (for the marketing name, search the web for "GPU Device Id")
+[2020.08.15-18.05.12:302][  0]LogWindows: EnumDisplayDevices:
+[2020.08.15-18.05.12:303][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2020.08.15-18.05.12:303][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.08.15-18.05.12:303][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.08.15-18.05.12:303][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.08.15-18.05.12:303][  0]LogD3D11RHI:     Adapter Name: AMD Radeon(TM) RX 560
+[2020.08.15-18.05.12:303][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.08.15-18.05.12:303][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.08.15-18.05.12:304][  0]LogRHI: Texture pool is 2831 MB (70% of 4044 MB)
+[2020.08.15-18.05.12:370][  0]LogD3D11RHI: Async texture creation enabled
+[2020.08.15-18.05.12:385][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2020.08.15-18.05.12:749][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.08.15-18.05.12:757][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.08.15-18.05.12:765][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.08.15-18.05.12:773][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.08.15-18.05.12:782][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.08.15-18.05.12:790][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.08.15-18.05.12:798][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.08.15-18.05.12:806][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.08.15-18.05.12:810][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.08.15-18.05.12:846][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.08.15-18.05.12:846][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.08.15-18.05.12:846][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.08.15-18.05.12:846][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.08.15-18.05.12:846][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.08.15-18.05.12:846][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.08.15-18.05.12:846][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.08.15-18.05.12:846][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.08.15-18.05.12:846][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.08.15-18.05.12:846][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.08.15-18.05.12:846][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.08.15-18.05.12:846][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.08.15-18.05.12:846][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.08.15-18.05.12:846][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.08.15-18.05.12:846][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.08.15-18.05.12:846][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.08.15-18.05.12:846][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.08.15-18.05.12:846][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.08.15-18.05.12:847][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.08.15-18.05.12:867][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.08.15-18.05.12:867][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.08.15-18.05.12:881][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.08.15-18.05.12:881][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.08.15-18.05.12:889][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.08.15-18.05.12:896][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.08.15-18.05.12:904][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.08.15-18.05.12:912][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.08.15-18.05.12:937][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.08.15-18.05.12:937][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.08.15-18.05.12:937][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.08.15-18.05.12:946][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.08.15-18.05.13:025][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Intermediate/Shaders/WorkingDirectory/16288/).
+[2020.08.15-18.05.13:025][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/bru/AppData/Local/Temp/UnrealShaderWorkingDir/1176288E4FD6BD8DB99AA5B420ACD392/'.
+[2020.08.15-18.05.13:029][  0]LogXGEController: Cleaning working directory: C:/Users/bru/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.08.15-18.05.13:029][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.08.15-18.05.13:029][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.08.15-18.05.13:029][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.08.15-18.05.13:812][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.08.15-18.05.14:027][  0]LogDerivedDataCache: Loaded boot cache 0.21s 73MB C:/Users/bru/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.08.15-18.05.14:027][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/bru/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.08.15-18.05.14:027][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.08.15-18.05.14:028][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.08.15-18.05.14:028][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.08.15-18.05.14:028][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.08.15-18.05.14:044][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.08.15-18.05.14:045][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.08.15-18.05.14:045][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.08.15-18.05.14:046][  0]LogDerivedDataCache: Using Local data cache path C:/Users/bru/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.08.15-18.05.14:046][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.08.15-18.05.14:046][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.08.15-18.05.14:070][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.08.15-18.05.14:075][  0]LogSlate: Using FreeType 2.6.0
+[2020.08.15-18.05.14:076][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.08.15-18.05.14:150][  0]LogAssetRegistry: FAssetRegistry took 0.0028 seconds to start up
+[2020.08.15-18.05.14:537][  0]LogInit: Selected Device Profile: [Windows]
+[2020.08.15-18.05.14:730][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.08.15-18.05.14:730][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.08.15-18.05.14:730][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.08.15-18.05.14:730][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.08.15-18.05.14:731][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.08.15-18.05.14:743][  0]LogNetVersion: Sumteract_UE4 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2866633504)
+[2020.08.15-18.05.15:273][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.038417 seconds
+[2020.08.15-18.05.15:280][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2020.08.15-18.05.15:280][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2020.08.15-18.05.15:280][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.08.15-18.05.17:106][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.08.15-18.05.17:111][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.08.15-18.05.17:153][  0]LogLinker: Warning: Failed to load '/Game/meshes/Chevrolet_Camaro_lataria': Can't find file.
+[2020.08.15-18.05.17:153][  0]LogLinker: Warning: Failed to load '/Game/meshes/Chevrolet_Camaro_lataria': Can't find file.
+[2020.08.15-18.05.17:153][  0]LogUObjectGlobals: Warning: Failed to find object 'StaticMesh /Game/meshes/Chevrolet_Camaro_lataria.Chevrolet_Camaro_lataria'
+[2020.08.15-18.05.17:153][  0]Error: CDO Constructor (Car): Failed to find /Game/meshes/Chevrolet_Camaro_lataria.Chevrolet_Camaro_lataria
+
+[2020.08.15-18.05.17:153][  0]LogUObjectBase: Warning: -------------- Default Property warnings and errors:
+[2020.08.15-18.05.17:153][  0]LogUObjectBase: Warning: Error: CDO Constructor (Car): Failed to find /Game/meshes/Chevrolet_Camaro_lataria.Chevrolet_Camaro_lataria
+
+[2020.08.15-18.05.21:407][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.08.15-18.05.21:408][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.08.15-18.05.21:485][  0]SourceControl: Source control is disabled
+[2020.08.15-18.05.21:486][  0]SourceControl: Source control is disabled
+[2020.08.15-18.05.21:497][  0]SourceControl: Source control is disabled
+[2020.08.15-18.05.21:501][  0]SourceControl: Source control is disabled
+[2020.08.15-18.05.21:668][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.08.15-18.05.21:912][  0]LogOcInput: OculusInput pre-init called
+[2020.08.15-18.05.21:923][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.08.15-18.05.21:923][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.08.15-18.05.22:027][  0]LogEngine: Initializing Engine...
+[2020.08.15-18.05.22:029][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.08.15-18.05.22:033][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2020.08.15-18.05.22:286][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.08.15-18.05.22:309][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.08.15-18.05.22:349][  0]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.08.15-18.05.22:379][  0]LogInit: FAudioDevice initialized.
+[2020.08.15-18.05.22:379][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.08.15-18.05.22:523][  0]LogDerivedDataCache: Saved boot cache 0.14s 73MB C:/Users/bru/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.08.15-18.05.22:528][  0]LogInit: Texture streaming: Enabled
+[2020.08.15-18.05.22:548][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.08.15-18.05.22:548][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={264E9FB8-4BE4-94F2-5E5C-2FABE4FF24E4}
+[2020.08.15-18.05.22:590][  0]LogInit: Transaction tracking system initialized
+[2020.08.15-18.05.22:644][  0]BlueprintLog: New page: Editor Load
+[2020.08.15-18.05.22:751][  0]LocalizationService: Localization service is disabled
+[2020.08.15-18.05.23:046][  0]LogFileCache: Scanning file cache for directory 'D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/' took 0.00s
+[2020.08.15-18.05.23:046][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.08.15-18.05.23:046][  0]LogCook: Display: Mobile HDR setting 1
+[2020.08.15-18.05.23:334][  0]SourceControl: Source control is disabled
+[2020.08.15-18.05.23:431][  0]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.08.15-18.05.29:032][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2020.08.15-18.05.29:033][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.08.15-18.05.29:036][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.08.15-18.05.32:286][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2020.08.15-18.05.32:286][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.08.15-18.05.32:290][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.08.15-18.05.32:298][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.08.15-18.05.32:299][  0]LightingResults: New page: Lighting Build
+[2020.08.15-18.05.32:303][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.08.15-18.05.32:304][  0]MapCheck: New page: Map Check
+[2020.08.15-18.05.32:304][  0]LightingResults: New page: Lighting Build
+[2020.08.15-18.05.32:334][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.08.15-18.05.32:455][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2020.08.15-18.05.32:475][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.08.15-18.05.32:507][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.08.15-18.05.32:508][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.15-18.05.32:508][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,121ms to complete.
+[2020.08.15-18.05.32:508][  0]LogFileHelpers: Loading map 'Template_Default' took 0.210
+[2020.08.15-18.05.32:567][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.15-18.05.32:580][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.15-18.05.32:587][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.15-18.05.32:595][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.15-18.05.32:603][  0]LogCollectionManager: Loaded 0 collections in 0.001045 seconds
+[2020.08.15-18.05.32:614][  0]LogFileCache: Scanning file cache for directory 'D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/Collections/' took 0.00s
+[2020.08.15-18.05.32:614][  0]LogFileCache: Scanning file cache for directory 'D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/Developers/bru/Collections/' took 0.00s
+[2020.08.15-18.05.32:614][  0]LogFileCache: Scanning file cache for directory 'D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/Collections/' took 0.00s
+[2020.08.15-18.05.32:614][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2020.08.15-18.05.32:624][  0]LogContentBrowser: Native class hierarchy populated in 0.0093 seconds. Added 2865 classes and 682 folders.
+[2020.08.15-18.05.32:636][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.08.15-18.05.32:753][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.08.15-18.05.32:760][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.08.15-18.05.32:838][  0]LogSlate: Took 0.000145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.08.15-18.05.32:844][  0]LogSlate: Took 0.000773 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.08.15-18.05.32:891][  0]LogRenderer: Reallocating scene render targets to support 1200x512 Format 10 NumSamples 1 (Frame:1).
+[2020.08.15-18.05.33:076][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2020.08.15-18.05.33:077][  0]LogLoad: (Engine Initialization) Total time: 22.65 seconds
+[2020.08.15-18.05.33:077][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.08.15-18.05.33:148][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.08.15-18.05.33:156][  0]LogSlate: Took 0.000900 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.08.15-18.05.33:201][  1]LogAssetRegistry: Asset discovery search completed in 19.0514 seconds
+[2020.08.15-18.05.33:204][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000005 seconds (found 0 objects)
+[2020.08.15-18.05.33:204][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000060 seconds (updated 0 objects)
+[2020.08.15-18.05.35:482][134]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.15-18.05.36:121][171]LogSlate: Took 0.000214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.08.15-18.05.37:959][278]LogAIModule: Creating AISystem for world Traffic
+[2020.08.15-18.05.37:967][278]LogAssetEditorManager: Opening Asset editor for World /Game/levels/Traffic.Traffic
+[2020.08.15-18.05.37:995][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.08.15-18.05.37:996][278]Cmd: MAP LOAD FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/levels/Traffic.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.08.15-18.05.37:996][278]LightingResults: New page: Lighting Build
+[2020.08.15-18.05.37:996][278]LoadErrors: New page: Loading map: Traffic.umap
+[2020.08.15-18.05.37:997][278]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.08.15-18.05.37:997][278]MapCheck: New page: Map Check
+[2020.08.15-18.05.37:997][278]LightingResults: New page: Lighting Build
+[2020.08.15-18.05.38:023][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.08.15-18.05.38:082][278]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.08.15-18.05.38:108][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2020.08.15-18.05.38:114][278]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.15-18.05.38:114][278]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,065ms to complete.
+[2020.08.15-18.05.38:114][278]LogFileHelpers: Loading map 'Traffic' took 0.120
+[2020.08.15-18.05.38:179][280]LogFileCache: Retrieving MD5 hashes for directory 'D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/' took 5.08s
+[2020.08.15-18.05.45:175][699]AssetReimport: New page: Outstanding source content changes 22:05:45
+[2020.08.15-18.05.45:178][699]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/Compteur.png)
+[2020.08.15-18.05.45:455][700]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/pirelli_pzero_255_35_r20_sidewall (1).png)
+[2020.08.15-18.05.45:826][701]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/Shelby1.png)
+[2020.08.15-18.05.48:058][702]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/Shelby_logo.png)
+[2020.08.15-18.05.48:114][703]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/tumblr_mrwhlwvuZv1rhi6xto1_1280.jpg)
+[2020.08.15-18.05.48:542][704]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/AC Cobra/Compteur.png)
+[2020.08.15-18.05.48:800][705]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/AC Cobra/pirelli_pzero_255_35_r20_sidewall (1).png)
+[2020.08.15-18.05.49:183][706]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/AC Cobra/Shelby.fbx)
+[2020.08.15-18.05.49:226][706]LogFbx: Loading FBX Scene from D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/AC Cobra/Shelby.fbx
+[2020.08.15-18.05.49:464][706]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.15-18.05.50:802][706]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.08.15-18.05.51:583][706]LogStaticMesh: Building static mesh Shelby_Circle_012...
+[2020.08.15-18.05.51:706][706]LogStaticMesh: Built static mesh [0.12s] /Game/meshes/AC_Cobra/Shelby_Circle_012.Shelby_Circle_012
+[2020.08.15-18.05.52:401][706]LogStaticMesh: Building static mesh Shelby_Circle_011...
+[2020.08.15-18.05.52:512][706]LogStaticMesh: Built static mesh [0.11s] /Game/meshes/AC_Cobra/Shelby_Circle_011.Shelby_Circle_011
+[2020.08.15-18.05.53:132][706]LogStaticMesh: Building static mesh Shelby_Circle_008...
+[2020.08.15-18.05.53:243][706]LogStaticMesh: Built static mesh [0.11s] /Game/meshes/AC_Cobra/Shelby_Circle_008.Shelby_Circle_008
+[2020.08.15-18.05.53:907][706]LogStaticMesh: Building static mesh Shelby_Circle_007...
+[2020.08.15-18.05.54:029][706]LogStaticMesh: Built static mesh [0.12s] /Game/meshes/AC_Cobra/Shelby_Circle_007.Shelby_Circle_007
+[2020.08.15-18.05.54:680][706]LogStaticMesh: Building static mesh Shelby_Circle_004...
+[2020.08.15-18.05.54:795][706]LogStaticMesh: Built static mesh [0.12s] /Game/meshes/AC_Cobra/Shelby_Circle_004.Shelby_Circle_004
+[2020.08.15-18.05.55:428][706]LogStaticMesh: Building static mesh Shelby_Circle_001...
+[2020.08.15-18.05.55:536][706]LogStaticMesh: Built static mesh [0.11s] /Game/meshes/AC_Cobra/Shelby_Circle_001.Shelby_Circle_001
+[2020.08.15-18.05.56:159][706]LogStaticMesh: Building static mesh Shelby_Plane_008...
+[2020.08.15-18.05.56:234][706]LogStaticMesh: Built static mesh [0.08s] /Game/meshes/AC_Cobra/Shelby_Plane_008.Shelby_Plane_008
+[2020.08.15-18.05.56:496][706]LogStaticMesh: Building static mesh Shelby_Plane_007...
+[2020.08.15-18.05.56:520][706]LogStaticMesh: Built static mesh [0.02s] /Game/meshes/AC_Cobra/Shelby_Plane_007.Shelby_Plane_007
+[2020.08.15-18.05.56:930][706]LogStaticMesh: Building static mesh Shelby_Plane_001...
+[2020.08.15-18.05.56:985][706]LogStaticMesh: Built static mesh [0.06s] /Game/meshes/AC_Cobra/Shelby_Plane_001.Shelby_Plane_001
+[2020.08.15-18.05.57:410][706]LogStaticMesh: Building static mesh Shelby_Plane_004...
+[2020.08.15-18.05.57:465][706]LogStaticMesh: Built static mesh [0.06s] /Game/meshes/AC_Cobra/Shelby_Plane_004.Shelby_Plane_004
+[2020.08.15-18.05.57:694][706]LogStaticMesh: Building static mesh Shelby_Plane_003...
+[2020.08.15-18.05.57:718][706]LogStaticMesh: Built static mesh [0.02s] /Game/meshes/AC_Cobra/Shelby_Plane_003.Shelby_Plane_003
+[2020.08.15-18.05.58:279][706]LogStaticMesh: Building static mesh Shelby_Plane...
+[2020.08.15-18.05.58:359][706]LogStaticMesh: Built static mesh [0.08s] /Game/meshes/AC_Cobra/Shelby_Plane.Shelby_Plane
+[2020.08.15-18.05.59:658][706]LogStaticMesh: Building static mesh Shelby_Circle_030...
+[2020.08.15-18.05.59:860][706]LogStaticMesh: Built static mesh [0.20s] /Game/meshes/AC_Cobra/Shelby_Circle_030.Shelby_Circle_030
+[2020.08.15-18.06.00:248][706]LogStaticMesh: Building static mesh Shelby_Circle_029...
+[2020.08.15-18.06.00:312][706]LogStaticMesh: Built static mesh [0.06s] /Game/meshes/AC_Cobra/Shelby_Circle_029.Shelby_Circle_029
+[2020.08.15-18.06.00:439][706]LogStaticMesh: Building static mesh Shelby_Plane_005...
+[2020.08.15-18.06.00:453][706]LogStaticMesh: Built static mesh [0.01s] /Game/meshes/AC_Cobra/Shelby_Plane_005.Shelby_Plane_005
+[2020.08.15-18.06.00:510][706]LogStaticMesh: Building static mesh Shelby_Carosserie__008...
+[2020.08.15-18.06.00:516][706]LogStaticMesh: Built static mesh [0.01s] /Game/meshes/AC_Cobra/Shelby_Carosserie__008.Shelby_Carosserie__008
+[2020.08.15-18.06.00:932][706]LogStaticMesh: Building static mesh Shelby_Carosserie__007...
+[2020.08.15-18.06.00:991][706]LogStaticMesh: Built static mesh [0.06s] /Game/meshes/AC_Cobra/Shelby_Carosserie__007.Shelby_Carosserie__007
+[2020.08.15-18.06.02:039][706]LogStaticMesh: Building static mesh Shelby_Cylinder...
+[2020.08.15-18.06.02:185][706]LogStaticMesh: Built static mesh [0.15s] /Game/meshes/AC_Cobra/Shelby_Cylinder.Shelby_Cylinder
+[2020.08.15-18.06.02:464][706]LogStaticMesh: Building static mesh Shelby_Carosserie__006...
+[2020.08.15-18.06.02:489][706]LogStaticMesh: Built static mesh [0.02s] /Game/meshes/AC_Cobra/Shelby_Carosserie__006.Shelby_Carosserie__006
+[2020.08.15-18.06.05:462][706]LogStaticMesh: Building static mesh Shelby_Circle_024...
+[2020.08.15-18.06.05:937][706]LogStaticMesh: Built static mesh [0.48s] /Game/meshes/AC_Cobra/Shelby_Circle_024.Shelby_Circle_024
+[2020.08.15-18.06.06:257][706]LogStaticMesh: Building static mesh Shelby_Icosphere_003...
+[2020.08.15-18.06.06:259][706]LogStaticMesh: Built static mesh [0.00s] /Game/meshes/AC_Cobra/Shelby_Icosphere_003.Shelby_Icosphere_003
+[2020.08.15-18.06.06:739][706]LogStaticMesh: Building static mesh Shelby_Cube_002...
+[2020.08.15-18.06.06:820][706]LogStaticMesh: Built static mesh [0.08s] /Game/meshes/AC_Cobra/Shelby_Cube_002.Shelby_Cube_002
+[2020.08.15-18.06.06:908][706]LogStaticMesh: Building static mesh Shelby_Circle_014...
+[2020.08.15-18.06.06:913][706]LogStaticMesh: Built static mesh [0.01s] /Game/meshes/AC_Cobra/Shelby_Circle_014.Shelby_Circle_014
+[2020.08.15-18.06.07:689][706]LogStaticMesh: Building static mesh Shelby_Circle_010...
+[2020.08.15-18.06.07:766][706]LogStaticMesh: Built static mesh [0.08s] /Game/meshes/AC_Cobra/Shelby_Circle_010.Shelby_Circle_010
+[2020.08.15-18.06.09:689][706]LogStaticMesh: Building static mesh Shelby_Circle_013...
+[2020.08.15-18.06.09:990][706]LogStaticMesh: Built static mesh [0.30s] /Game/meshes/AC_Cobra/Shelby_Circle_013.Shelby_Circle_013
+[2020.08.15-18.06.10:674][706]LogStaticMesh: Building static mesh Shelby_Circle_009...
+[2020.08.15-18.06.10:744][706]LogStaticMesh: Built static mesh [0.07s] /Game/meshes/AC_Cobra/Shelby_Circle_009.Shelby_Circle_009
+[2020.08.15-18.06.11:386][706]LogStaticMesh: Building static mesh Shelby_Circle_006...
+[2020.08.15-18.06.11:506][706]LogStaticMesh: Built static mesh [0.12s] /Game/meshes/AC_Cobra/Shelby_Circle_006.Shelby_Circle_006
+[2020.08.15-18.06.11:675][706]LogStaticMesh: Building static mesh Shelby_Text...
+[2020.08.15-18.06.11:704][706]LogStaticMesh: Built static mesh [0.03s] /Game/meshes/AC_Cobra/Shelby_Text.Shelby_Text
+[2020.08.15-18.06.12:077][706]LogStaticMesh: Building static mesh Shelby_Circle_005...
+[2020.08.15-18.06.12:125][706]LogStaticMesh: Built static mesh [0.05s] /Game/meshes/AC_Cobra/Shelby_Circle_005.Shelby_Circle_005
+[2020.08.15-18.06.12:205][706]LogStaticMesh: Building static mesh Shelby_Circle...
+[2020.08.15-18.06.12:211][706]LogStaticMesh: Built static mesh [0.01s] /Game/meshes/AC_Cobra/Shelby_Circle.Shelby_Circle
+[2020.08.15-18.06.12:483][706]LogStaticMesh: Building static mesh Shelby_Carosserie__005...
+[2020.08.15-18.06.12:514][706]LogStaticMesh: Built static mesh [0.03s] /Game/meshes/AC_Cobra/Shelby_Carosserie__005.Shelby_Carosserie__005
+[2020.08.15-18.06.13:584][706]LogStaticMesh: Building static mesh Shelby_Carosserie__004...
+[2020.08.15-18.06.13:962][706]LogStaticMesh: Built static mesh [0.38s] /Game/meshes/AC_Cobra/Shelby_Carosserie__004.Shelby_Carosserie__004
+[2020.08.15-18.06.21:093][706]LogStaticMesh: Building static mesh Shelby_Circle_003...
+[2020.08.15-18.06.22:698][706]LogStaticMesh: Built static mesh [1.61s] /Game/meshes/AC_Cobra/Shelby_Circle_003.Shelby_Circle_003
+[2020.08.15-18.06.23:621][706]LogStaticMesh: Building static mesh Shelby_Carosserie__003...
+[2020.08.15-18.06.23:682][706]LogStaticMesh: Built static mesh [0.06s] /Game/meshes/AC_Cobra/Shelby_Carosserie__003.Shelby_Carosserie__003
+[2020.08.15-18.06.23:747][706]LogStaticMesh: Building static mesh Shelby_Plane_002...
+[2020.08.15-18.06.23:748][706]LogStaticMesh: Built static mesh [0.00s] /Game/meshes/AC_Cobra/Shelby_Plane_002.Shelby_Plane_002
+[2020.08.15-18.06.23:754][706]LogStaticMesh: Building static mesh Shelby_Icosphere_001...
+[2020.08.15-18.06.23:755][706]LogStaticMesh: Built static mesh [0.00s] /Game/meshes/AC_Cobra/Shelby_Icosphere_001.Shelby_Icosphere_001
+[2020.08.15-18.06.23:764][706]LogStaticMesh: Building static mesh Shelby_Icosphere...
+[2020.08.15-18.06.23:765][706]LogStaticMesh: Built static mesh [0.00s] /Game/meshes/AC_Cobra/Shelby_Icosphere.Shelby_Icosphere
+[2020.08.15-18.06.23:820][706]LogStaticMesh: Building static mesh Shelby_Carosserie__001...
+[2020.08.15-18.06.23:826][706]LogStaticMesh: Built static mesh [0.01s] /Game/meshes/AC_Cobra/Shelby_Carosserie__001.Shelby_Carosserie__001
+[2020.08.15-18.06.24:557][706]LogStaticMesh: Building static mesh Shelby_Carosserie__002...
+[2020.08.15-18.06.24:672][706]LogStaticMesh: Built static mesh [0.11s] /Game/meshes/AC_Cobra/Shelby_Carosserie__002.Shelby_Carosserie__002
+[2020.08.15-18.06.24:966][706]LogStaticMesh: Building static mesh Shelby_Coffre...
+[2020.08.15-18.06.24:994][706]LogStaticMesh: Built static mesh [0.03s] /Game/meshes/AC_Cobra/Shelby_Coffre.Shelby_Coffre
+[2020.08.15-18.06.25:348][706]LogStaticMesh: Building static mesh Shelby_Portes...
+[2020.08.15-18.06.25:404][706]LogStaticMesh: Built static mesh [0.06s] /Game/meshes/AC_Cobra/Shelby_Portes.Shelby_Portes
+[2020.08.15-18.06.29:255][706]LogStaticMesh: Building static mesh Shelby_Carosserie_...
+[2020.08.15-18.06.29:884][706]LogStaticMesh: Built static mesh [0.63s] /Game/meshes/AC_Cobra/Shelby_Carosserie_.Shelby_Carosserie_
+[2020.08.15-18.06.30:651][706]LogStaticMesh: Building static mesh Shelby_Capot...
+[2020.08.15-18.06.30:695][706]LogStaticMesh: Built static mesh [0.04s] /Game/meshes/AC_Cobra/Shelby_Capot.Shelby_Capot
+[2020.08.15-18.06.31:328][706]LogStaticMesh: Building static mesh Shelby_Circle_002...
+[2020.08.15-18.06.31:443][706]LogStaticMesh: Built static mesh [0.11s] /Game/meshes/AC_Cobra/Shelby_Circle_002.Shelby_Circle_002
+[2020.08.15-18.06.33:261][707]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/AC Cobra/Shelby.obj)
+[2020.08.15-18.06.33:452][707]LogFbx: Loading FBX Scene from D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/AC Cobra/Shelby.obj
+[2020.08.15-18.06.40:903][707]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.15-18.06.43:388][707]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.08.15-18.07.39:553][707]LogStaticMesh: Building static mesh Shelby...
+[2020.08.15-18.07.41:624][707]LogStaticMesh: Built static mesh [2.07s] /Game/meshes/AC_Cobra/Shelby.Shelby
+[2020.08.15-18.07.42:256][708]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/AC Cobra/Shelby1.png)
+[2020.08.15-18.07.44:776][709]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/AC Cobra/Shelby_logo.png)
+[2020.08.15-18.07.44:827][709]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/AC Cobra/tumblr_mrwhlwvuZv1rhi6xto1_1280.jpg)
+[2020.08.15-18.07.45:598][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/Compteur" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/Compteur.uasset" SILENT=true
+[2020.08.15-18.07.45:769][710]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/Compteur515B0E1C4682A64C73F51FA54487FBC2.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/Compteur.uasset'
+[2020.08.15-18.07.45:949][710]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/pirelli_pzero_255_35_r20_sidewalC6E273A148CECAFB2C7CF3898D2ED49E.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/pirelli_pzero_255_35_r20_sidewall__1_.uasset'
+[2020.08.15-18.07.45:966][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/Shelby1" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/Shelby1.uasset" SILENT=true
+[2020.08.15-18.07.46:237][710]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/Shelby1EBFD055A404A0DBA584DD28209C3451D.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/Shelby1.uasset'
+[2020.08.15-18.07.46:254][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/Shelby_logo" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/Shelby_logo.uasset" SILENT=true
+[2020.08.15-18.07.46:307][710]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/Shelby_logo73127F754CDA7C241611BE8C67B1ED1A.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/Shelby_logo.uasset'
+[2020.08.15-18.07.46:393][710]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/tumblr_mrwhlwvuZv1rhi6xto1_1280278CF20D43A38583333FE5AC7107AA2D.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/tumblr_mrwhlwvuZv1rhi6xto1_1280.uasset'
+[2020.08.15-18.07.46:413][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/AC_Cobra/Compteur" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/AC_Cobra/Compteur.uasset" SILENT=true
+[2020.08.15-18.07.46:579][710]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/Compteur50096B6147E9FBFB547D42841DC07978.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/AC_Cobra/Compteur.uasset'
+[2020.08.15-18.07.46:735][710]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/pirelli_pzero_255_35_r20_sidewal9212CF1B4A348F564177128AEF28768D.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/AC_Cobra/pirelli_pzero_255_35_r20_sidewall__1_.uasset'
+[2020.08.15-18.07.46:770][710]LogD3D11RHI: Error: agsDriverExtensionsDX11_SetDepthBounds(1,0.000000, 1.000000) returned error code 6. **********PLEASE UPDATE YOUR VIDEO DRIVERS*********
+[2020.08.15-18.07.46:801][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/AC_Cobra/Shelby" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/AC_Cobra/Shelby.uasset" SILENT=true
+[2020.08.15-18.07.47:377][710]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/ShelbyA750836644A605A4F0285F9F043303B7.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/AC_Cobra/Shelby.uasset'
+[2020.08.15-18.07.47:388][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/AC_Cobra/Shelby" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/AC_Cobra/Shelby.uasset" SILENT=true
+[2020.08.15-18.07.47:876][710]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/ShelbyA1A5DC8C4CA49CDFCA387D97EE2A4CC4.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/AC_Cobra/Shelby.uasset'
+[2020.08.15-18.07.47:888][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/AC_Cobra/Shelby1" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/AC_Cobra/Shelby1.uasset" SILENT=true
+[2020.08.15-18.07.48:150][710]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/Shelby19946AD484AAFAA955CE7BA8CD9CA4A87.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/AC_Cobra/Shelby1.uasset'
+[2020.08.15-18.07.48:163][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/AC_Cobra/Shelby_logo" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/AC_Cobra/Shelby_logo.uasset" SILENT=true
+[2020.08.15-18.07.48:218][710]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/Shelby_logoE74157904AE2D88E7FE64589E1C9C4D1.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/AC_Cobra/Shelby_logo.uasset'
+[2020.08.15-18.07.48:307][710]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/tumblr_mrwhlwvuZv1rhi6xto1_1280ED1A5B354F53F036837F68ABC003DFFD.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/AC_Cobra/tumblr_mrwhlwvuZv1rhi6xto1_1280.uasset'
+[2020.08.15-18.07.51:418][720]AssetReimport: Importing new asset /Game/meshes/Compteur.
+[2020.08.15-18.07.51:418][720]AssetReimport: Importing new asset /Game/meshes/pirelli_pzero_255_35_r20_sidewall__1_.
+[2020.08.15-18.07.51:418][720]AssetReimport: Importing new asset /Game/meshes/Shelby1.
+[2020.08.15-18.07.51:418][720]AssetReimport: Importing new asset /Game/meshes/Shelby_logo.
+[2020.08.15-18.07.51:418][720]AssetReimport: Importing new asset /Game/meshes/tumblr_mrwhlwvuZv1rhi6xto1_1280.
+[2020.08.15-18.07.51:418][720]AssetReimport: Importing new asset /Game/meshes/AC_Cobra/Compteur.
+[2020.08.15-18.07.51:418][720]AssetReimport: Importing new asset /Game/meshes/AC_Cobra/pirelli_pzero_255_35_r20_sidewall__1_.
+[2020.08.15-18.07.51:418][720]AssetReimport: Importing new asset /Game/meshes/AC_Cobra/Shelby.
+[2020.08.15-18.07.51:418][720]AssetReimport: Importing new asset /Game/meshes/AC_Cobra/Shelby.
+[2020.08.15-18.07.51:418][720]AssetReimport: Importing new asset /Game/meshes/AC_Cobra/Shelby1.
+[2020.08.15-18.07.51:418][720]AssetReimport: Importing new asset /Game/meshes/AC_Cobra/Shelby_logo.
+[2020.08.15-18.07.51:418][720]AssetReimport: Importing new asset /Game/meshes/AC_Cobra/tumblr_mrwhlwvuZv1rhi6xto1_1280.
+[2020.08.15-18.07.59:967][831]LogSlate: Window 'Message Log' being destroyed
+[2020.08.15-18.07.59:970][831]LogSlate: Window 'Message Log' being destroyed
+[2020.08.15-18.08.17:568][218]LogMaterial: Display: Missing cached shader map for material Shelby1_Mat, compiling. 
+[2020.08.15-18.08.17:585][218]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2020.08.15-18.08.17:585][218]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2020.08.15-18.08.17:585][218]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.08.15-18.08.17:598][218]LogMaterial: Display: Material /Game/meshes/AC_Cobra/Shelby1_Mat.Shelby1_Mat needed to have new flag set bUsedWithStaticLighting !
+[2020.08.15-18.08.17:601][218]LogMaterial: Display: Missing cached shader map for material Shelby1_Mat, compiling. 
+[2020.08.15-18.08.19:169][305]Cmd: TRANSACTION UNDO
+[2020.08.15-18.08.19:169][305]LogEditorTransaction: Undo Create Actors
+[2020.08.15-18.08.23:574][454]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 31
+[2020.08.15-18.08.24:107][472]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 21
+[2020.08.15-18.08.27:338][582]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2020.08.15-18.08.30:887][705]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2020.08.15-18.08.31:033][710]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.15-18.08.33:206][791]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.08.15-18.08.33:286][794]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.08.15-18.08.33:861][827]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2020.08.15-18.08.34:266][848]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.08.15-18.09.26:801][848]LogSlate: Window 'Delete Assets' being destroyed
+[2020.08.15-18.09.27:469][848]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.08.15-18.09.36:672][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.08.15-18.09.38:117][301]LogSlate: Window 'Delete Assets' being destroyed
+[2020.08.15-18.09.38:211][301]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2020.08.15-18.10.57:927][714]AssetReimport: New page: Outstanding source content changes 22:10:57
+[2020.08.15-18.10.57:928][714]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLENGER71 BADGING MASK.tga)
+[2020.08.15-18.10.57:969][715]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CARBON.tga)
+[2020.08.15-18.10.58:025][716]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/BREMBO.tga)
+[2020.08.15-18.10.58:057][717]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/BREMBO NORMAL.tga)
+[2020.08.15-18.10.58:095][718]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/BREMBO MIRROR.tga)
+[2020.08.15-18.10.58:128][719]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/BREMBO MIRROR NORMAL.tga)
+[2020.08.15-18.10.58:174][720]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/BRAKDISC.tga)
+[2020.08.15-18.10.58:365][721]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/BOTTOM.tga)
+[2020.08.15-18.10.58:426][722]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/TIRE BUMP.png)
+[2020.08.15-18.10.58:473][723]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/LICENSE MASK.png)
+[2020.08.15-18.10.58:519][724]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/DOORLINE MASK.png)
+[2020.08.15-18.10.58:531][724]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLENGER71.obj)
+[2020.08.15-18.10.58:544][724]LogFbx: Loading FBX Scene from D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLENGER71.obj
+[2020.08.15-18.10.58:833][724]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.15-18.11.00:738][724]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.08.15-18.11.00:760][724]LogLinker: Failed to load '/Game/meshes/meshes': Can't find file.
+[2020.08.15-18.11.00:760][724]LogLinker: Failed to load '/Game/meshes/meshes': Can't find file.
+[2020.08.15-18.11.00:784][724]LogLinker: Failed to load '/Game/meshes/CHALLENGER71_MISC': Can't find file.
+[2020.08.15-18.11.00:784][724]LogLinker: Failed to load '/Game/meshes/CHALLENGER71_MISC': Can't find file.
+[2020.08.15-18.11.01:018][724]LogStaticMesh: Building static mesh CHALLENGER71_Base...
+[2020.08.15-18.11.01:020][724]LogStaticMesh: Built static mesh [0.00s] /Game/meshes/CHALLENGER71_Base.CHALLENGER71_Base
+[2020.08.15-18.11.01:027][724]LogLinker: Failed to load '/Game/meshes/CHALLENGER71_BRAKELIGHT': Can't find file.
+[2020.08.15-18.11.01:028][724]LogLinker: Failed to load '/Game/meshes/CHALLENGER71_BRAKELIGHT': Can't find file.
+[2020.08.15-18.11.01:055][724]LogStaticMesh: Building static mesh CHALLENGER71_BLightL...
+[2020.08.15-18.11.01:056][724]LogStaticMesh: Built static mesh [0.00s] /Game/meshes/CHALLENGER71_BLightL.CHALLENGER71_BLightL
+[2020.08.15-18.11.01:059][724]LogStaticMesh: Building static mesh CHALLENGER71_BLightR...
+[2020.08.15-18.11.01:060][724]LogStaticMesh: Built static mesh [0.00s] /Game/meshes/CHALLENGER71_BLightR.CHALLENGER71_BLightR
+[2020.08.15-18.11.01:359][724]LogLinker: Failed to load '/Game/meshes/CHALLENGER71_BADGING': Can't find file.
+[2020.08.15-18.11.01:359][724]LogLinker: Failed to load '/Game/meshes/CHALLENGER71_BADGING': Can't find file.
+[2020.08.15-18.11.01:416][724]LogStaticMesh: Building static mesh CHALLENGER71_Body...
+[2020.08.15-18.11.01:433][724]LogStaticMesh: Built static mesh [0.02s] /Game/meshes/CHALLENGER71_Body.CHALLENGER71_Body
+[2020.08.15-18.11.01:902][724]LogStaticMesh: Building static mesh CHALLENGER71_BrakeFL...
+[2020.08.15-18.11.01:906][724]LogStaticMesh: Built static mesh [0.00s] /Game/meshes/CHALLENGER71_BrakeFL.CHALLENGER71_BrakeFL
+[2020.08.15-18.11.01:913][724]LogStaticMesh: Building static mesh CHALLENGER71_BrakeFR...
+[2020.08.15-18.11.01:916][724]LogStaticMesh: Built static mesh [0.00s] /Game/meshes/CHALLENGER71_BrakeFR.CHALLENGER71_BrakeFR
+[2020.08.15-18.11.01:922][724]LogStaticMesh: Building static mesh CHALLENGER71_BrakeRL...
+[2020.08.15-18.11.01:925][724]LogStaticMesh: Built static mesh [0.00s] /Game/meshes/CHALLENGER71_BrakeRL.CHALLENGER71_BrakeRL
+[2020.08.15-18.11.01:931][724]LogStaticMesh: Building static mesh CHALLENGER71_BrakeRR...
+[2020.08.15-18.11.01:934][724]LogStaticMesh: Built static mesh [0.00s] /Game/meshes/CHALLENGER71_BrakeRR.CHALLENGER71_BrakeRR
+[2020.08.15-18.11.02:406][724]LogStaticMesh: Building static mesh CHALLENGER71_BumperF...
+[2020.08.15-18.11.02:426][724]LogStaticMesh: Built static mesh [0.02s] /Game/meshes/CHALLENGER71_BumperF.CHALLENGER71_BumperF
+[2020.08.15-18.11.02:576][724]LogStaticMesh: Building static mesh CHALLENGER71_BumperFB...
+[2020.08.15-18.11.02:579][724]LogStaticMesh: Built static mesh [0.00s] /Game/meshes/CHALLENGER71_BumperFB.CHALLENGER71_BumperFB
+[2020.08.15-18.11.02:988][724]LogStaticMesh: Building static mesh CHALLENGER71_BumperR...
+[2020.08.15-18.11.03:005][724]LogStaticMesh: Built static mesh [0.02s] /Game/meshes/CHALLENGER71_BumperR.CHALLENGER71_BumperR
+[2020.08.15-18.11.03:178][724]LogStaticMesh: Building static mesh CHALLENGER71_BumperRB...
+[2020.08.15-18.11.03:181][724]LogStaticMesh: Built static mesh [0.00s] /Game/meshes/CHALLENGER71_BumperRB.CHALLENGER71_BumperRB
+[2020.08.15-18.11.03:210][724]LogStaticMesh: Building static mesh CHALLENGER71_DoorL...
+[2020.08.15-18.11.03:212][724]LogStaticMesh: Built static mesh [0.00s] /Game/meshes/CHALLENGER71_DoorL.CHALLENGER71_DoorL
+[2020.08.15-18.11.03:298][724]LogStaticMesh: Building static mesh CHALLENGER71_DoorLine...
+[2020.08.15-18.11.03:304][724]LogStaticMesh: Built static mesh [0.01s] /Game/meshes/CHALLENGER71_DoorLine.CHALLENGER71_DoorLine
+[2020.08.15-18.11.03:310][724]LogStaticMesh: Building static mesh CHALLENGER71_DoorR...
+[2020.08.15-18.11.03:312][724]LogStaticMesh: Built static mesh [0.00s] /Game/meshes/CHALLENGER71_DoorR.CHALLENGER71_DoorR
+[2020.08.15-18.11.03:376][724]LogStaticMesh: Building static mesh CHALLENGER71_Driver...
+[2020.08.15-18.11.03:397][724]LogStaticMesh: Built static mesh [0.02s] /Game/meshes/CHALLENGER71_Driver.CHALLENGER71_Driver
+[2020.08.15-18.11.03:743][724]LogStaticMesh: Building static mesh CHALLENGER71_Engine...
+[2020.08.15-18.11.03:756][724]LogStaticMesh: Built static mesh [0.01s] /Game/meshes/CHALLENGER71_Engine.CHALLENGER71_Engine
+[2020.08.15-18.11.03:941][724]LogStaticMesh: Building static mesh CHALLENGER71_Exhaust...
+[2020.08.15-18.11.03:942][724]LogStaticMesh: Built static mesh [0.00s] /Game/meshes/CHALLENGER71_Exhaust.CHALLENGER71_Exhaust
+[2020.08.15-18.11.03:955][724]LogLinker: Failed to load '/Game/meshes/CHALLENGER71_HEADLIGHT': Can't find file.
+[2020.08.15-18.11.03:955][724]LogLinker: Failed to load '/Game/meshes/CHALLENGER71_HEADLIGHT': Can't find file.
+[2020.08.15-18.11.03:990][724]LogStaticMesh: Building static mesh CHALLENGER71_HLightL...
+[2020.08.15-18.11.03:993][724]LogStaticMesh: Built static mesh [0.00s] /Game/meshes/CHALLENGER71_HLightL.CHALLENGER71_HLightL
+[2020.08.15-18.11.04:031][724]LogStaticMesh: Building static mesh CHALLENGER71_HLightLG...
+[2020.08.15-18.11.04:034][724]LogStaticMesh: Built static mesh [0.00s] /Game/meshes/CHALLENGER71_HLightLG.CHALLENGER71_HLightLG
+[2020.08.15-18.11.04:037][724]LogStaticMesh: Building static mesh CHALLENGER71_HLightR...
+[2020.08.15-18.11.04:040][724]LogStaticMesh: Built static mesh [0.00s] /Game/meshes/CHALLENGER71_HLightR.CHALLENGER71_HLightR
+[2020.08.15-18.11.04:045][724]LogStaticMesh: Building static mesh CHALLENGER71_HLightRG...
+[2020.08.15-18.11.04:047][724]LogStaticMesh: Built static mesh [0.00s] /Game/meshes/CHALLENGER71_HLightRG.CHALLENGER71_HLightRG
+[2020.08.15-18.11.04:360][724]LogStaticMesh: Building static mesh CHALLENGER71_Hood...
+[2020.08.15-18.11.04:374][724]LogStaticMesh: Built static mesh [0.01s] /Game/meshes/CHALLENGER71_Hood.CHALLENGER71_Hood
+[2020.08.15-18.11.04:383][724]LogLinker: Failed to load '/Game/meshes/CHALLENGER71_Interior': Can't find file.
+[2020.08.15-18.11.04:463][724]LogStaticMesh: Building static mesh CHALLENGER71_Interior...
+[2020.08.15-18.11.04:484][724]LogStaticMesh: Built static mesh [0.02s] /Game/meshes/CHALLENGER71_Interior.CHALLENGER71_Interior
+[2020.08.15-18.11.04:567][724]LogStaticMesh: Building static mesh CHALLENGER71_LicenseF...
+[2020.08.15-18.11.04:568][724]LogStaticMesh: Built static mesh [0.00s] /Game/meshes/CHALLENGER71_LicenseF.CHALLENGER71_LicenseF
+[2020.08.15-18.11.04:572][724]LogStaticMesh: Building static mesh CHALLENGER71_LicenseR...
+[2020.08.15-18.11.04:573][724]LogStaticMesh: Built static mesh [0.00s] /Game/meshes/CHALLENGER71_LicenseR.CHALLENGER71_LicenseR
+[2020.08.15-18.11.04:828][724]LogStaticMesh: Building static mesh CHALLENGER71_MirrorL...
+[2020.08.15-18.11.04:831][724]LogStaticMesh: Built static mesh [0.00s] /Game/meshes/CHALLENGER71_MirrorL.CHALLENGER71_MirrorL
+[2020.08.15-18.11.04:837][724]LogStaticMesh: Building static mesh CHALLENGER71_MirrorR...
+[2020.08.15-18.11.04:840][724]LogStaticMesh: Built static mesh [0.00s] /Game/meshes/CHALLENGER71_MirrorR.CHALLENGER71_MirrorR
+[2020.08.15-18.11.04:955][724]LogStaticMesh: Building static mesh CHALLENGER71_Roof...
+[2020.08.15-18.11.04:964][724]LogStaticMesh: Built static mesh [0.01s] /Game/meshes/CHALLENGER71_Roof.CHALLENGER71_Roof
+[2020.08.15-18.11.05:300][724]LogStaticMesh: Building static mesh CHALLENGER71_Skirt...
+[2020.08.15-18.11.05:307][724]LogStaticMesh: Built static mesh [0.01s] /Game/meshes/CHALLENGER71_Skirt.CHALLENGER71_Skirt
+[2020.08.15-18.11.05:314][724]LogStaticMesh: Building static mesh CHALLENGER71_Spoiler...
+[2020.08.15-18.11.05:315][724]LogStaticMesh: Built static mesh [0.00s] /Game/meshes/CHALLENGER71_Spoiler.CHALLENGER71_Spoiler
+[2020.08.15-18.11.05:408][724]LogLinker: Failed to load '/Game/meshes/CHALLENGER71_RIM': Can't find file.
+[2020.08.15-18.11.05:408][724]LogLinker: Failed to load '/Game/meshes/CHALLENGER71_RIM': Can't find file.
+[2020.08.15-18.11.05:660][724]LogStaticMesh: Building static mesh CHALLENGER71_TireFL...
+[2020.08.15-18.11.05:687][724]LogStaticMesh: Built static mesh [0.03s] /Game/meshes/CHALLENGER71_TireFL.CHALLENGER71_TireFL
+[2020.08.15-18.11.05:698][724]LogStaticMesh: Building static mesh CHALLENGER71_TireFR...
+[2020.08.15-18.11.05:724][724]LogStaticMesh: Built static mesh [0.03s] /Game/meshes/CHALLENGER71_TireFR.CHALLENGER71_TireFR
+[2020.08.15-18.11.05:736][724]LogStaticMesh: Building static mesh CHALLENGER71_TireRL...
+[2020.08.15-18.11.05:762][724]LogStaticMesh: Built static mesh [0.03s] /Game/meshes/CHALLENGER71_TireRL.CHALLENGER71_TireRL
+[2020.08.15-18.11.05:775][724]LogStaticMesh: Building static mesh CHALLENGER71_TireRR...
+[2020.08.15-18.11.05:802][724]LogStaticMesh: Built static mesh [0.03s] /Game/meshes/CHALLENGER71_TireRR.CHALLENGER71_TireRR
+[2020.08.15-18.11.05:831][724]LogStaticMesh: Building static mesh CHALLENGER71_WindF...
+[2020.08.15-18.11.05:832][724]LogStaticMesh: Built static mesh [0.00s] /Game/meshes/CHALLENGER71_WindF.CHALLENGER71_WindF
+[2020.08.15-18.11.05:841][724]LogStaticMesh: Building static mesh CHALLENGER71_WindFL...
+[2020.08.15-18.11.05:842][724]LogStaticMesh: Built static mesh [0.00s] /Game/meshes/CHALLENGER71_WindFL.CHALLENGER71_WindFL
+[2020.08.15-18.11.05:846][724]LogStaticMesh: Building static mesh CHALLENGER71_WindFR...
+[2020.08.15-18.11.05:847][724]LogStaticMesh: Built static mesh [0.00s] /Game/meshes/CHALLENGER71_WindFR.CHALLENGER71_WindFR
+[2020.08.15-18.11.05:875][724]LogStaticMesh: Building static mesh CHALLENGER71_WindR...
+[2020.08.15-18.11.05:876][724]LogStaticMesh: Built static mesh [0.00s] /Game/meshes/CHALLENGER71_WindR.CHALLENGER71_WindR
+[2020.08.15-18.11.05:882][724]LogStaticMesh: Building static mesh CHALLENGER71_WindRL...
+[2020.08.15-18.11.05:883][724]LogStaticMesh: Built static mesh [0.00s] /Game/meshes/CHALLENGER71_WindRL.CHALLENGER71_WindRL
+[2020.08.15-18.11.05:888][724]LogStaticMesh: Building static mesh CHALLENGER71_WindRR...
+[2020.08.15-18.11.05:889][724]LogStaticMesh: Built static mesh [0.00s] /Game/meshes/CHALLENGER71_WindRR.CHALLENGER71_WindRR
+[2020.08.15-18.11.06:035][725]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLENGER71 BADGING NORMAL.tga)
+[2020.08.15-18.11.06:211][726]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLENGER71 BADGING.tga)
+[2020.08.15-18.11.08:840][726]LogSlate: Window 'Message' being destroyed
+[2020.08.15-18.11.09:268][727]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLENGER71 BRAKELIGHT.tga)
+[2020.08.15-18.11.10:515][727]LogSlate: Window 'Message' being destroyed
+[2020.08.15-18.11.10:564][728]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLENGER71 HEADLIGHT GLASS.tga)
+[2020.08.15-18.11.11:193][729]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLENGER71 HEADLIGHT MASK.tga)
+[2020.08.15-18.11.11:230][730]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLENGER71 HEADLIGHT.tga)
+[2020.08.15-18.11.11:789][730]LogSlate: Window 'Message' being destroyed
+[2020.08.15-18.11.11:831][731]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLENGER71 INTERIOR.tga)
+[2020.08.15-18.11.11:920][731]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2020.08.15-18.11.11:994][732]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLENGER71 MISC.tga)
+[2020.08.15-18.11.12:725][732]LogSlate: Window 'Message' being destroyed
+[2020.08.15-18.11.12:809][733]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLENGER71 RIM.tga)
+[2020.08.15-18.11.13:326][733]LogSlate: Window 'Message' being destroyed
+[2020.08.15-18.11.13:376][734]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/DOORLINE MASK.tga)
+[2020.08.15-18.11.13:682][734]LogSlate: Window 'Message' being destroyed
+[2020.08.15-18.11.13:728][735]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/DOORLINE.tga)
+[2020.08.15-18.11.14:996][735]LogSlate: Window 'Message' being destroyed
+[2020.08.15-18.11.15:017][736]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/DRIVER CUTOUT.tga)
+[2020.08.15-18.11.15:064][737]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/DRIVER.tga)
+[2020.08.15-18.11.16:546][737]LogSlate: Window 'Message' being destroyed
+[2020.08.15-18.11.16:568][738]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/ENGINE.tga)
+[2020.08.15-18.11.17:085][738]LogSlate: Window 'Message' being destroyed
+[2020.08.15-18.11.17:106][739]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/LICENSE MASK.tga)
+[2020.08.15-18.11.18:309][739]LogSlate: Window 'Message' being destroyed
+[2020.08.15-18.11.18:357][740]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/TIRE BUMP.tga)
+[2020.08.15-18.11.18:820][740]LogSlate: Window 'Message' being destroyed
+[2020.08.15-18.11.18:875][741]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/TIRE.tga)
+[2020.08.15-18.11.19:985][741]LogSlate: Window 'Message' being destroyed
+[2020.08.15-18.11.20:011][742]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/TIREBACK.tga)
+[2020.08.15-18.11.20:067][743]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/TREAD BUMP.tga)
+[2020.08.15-18.11.20:104][744]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/TREAD.tga)
+[2020.08.15-18.11.20:139][745]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/WDEFROST.tga)
+[2020.08.15-18.11.20:180][746]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/WINDOW FRONT MASK.tga)
+[2020.08.15-18.11.20:261][747]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/LICENSE.tga)
+[2020.08.15-18.11.21:267][747]LogSlate: Window 'Message' being destroyed
+[2020.08.15-18.11.21:286][748]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/WINDOW FRONT.tga)
+[2020.08.15-18.11.21:346][749]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/WINDOW MASK.tga)
+[2020.08.15-18.11.21:396][750]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLEN1.png)
+[2020.08.15-18.11.21:437][751]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLEN2.png)
+[2020.08.15-18.11.21:493][752]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLEN3.png)
+[2020.08.15-18.11.21:552][753]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLEN4.png)
+[2020.08.15-18.11.21:596][754]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLEN5.png)
+[2020.08.15-18.11.21:642][755]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLEN6.png)
+[2020.08.15-18.11.21:736][756]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLEN7.png)
+[2020.08.15-18.11.21:787][757]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLENG.png)
+[2020.08.15-18.11.21:873][758]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/DOORLIN1.png)
+[2020.08.15-18.11.21:915][759]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/LICENSE .png)
+[2020.08.15-18.11.21:990][760]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/TIRE BUM.png)
+[2020.08.15-18.11.22:046][761]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/TIREBACK.png)
+[2020.08.15-18.11.23:473][761]LogSlate: Window 'Message' being destroyed
+[2020.08.15-18.11.23:540][762]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLENGER71 BADGING MASK.png)
+[2020.08.15-18.11.24:130][762]LogSlate: Window 'Message' being destroyed
+[2020.08.15-18.11.24:186][763]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLENGER71 BADGING NORMAL.png)
+[2020.08.15-18.11.24:417][763]LogSlate: Window 'Message' being destroyed
+[2020.08.15-18.11.24:459][764]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLENGER71 BADGING.png)
+[2020.08.15-18.11.27:886][764]LogSlate: Window 'Message' being destroyed
+[2020.08.15-18.11.27:911][765]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLENGER71 BRAKELIGHT.png)
+[2020.08.15-18.11.28:336][765]LogSlate: Window 'Message' being destroyed
+[2020.08.15-18.11.28:363][766]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLENGER71 HEADLIGHT.png)
+[2020.08.15-18.11.30:822][766]LogSlate: Window 'Message' being destroyed
+[2020.08.15-18.11.30:862][767]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLENGER71 MISC.png)
+[2020.08.15-18.11.31:123][767]LogSlate: Window 'Message' being destroyed
+[2020.08.15-18.11.31:143][768]LogEditorFactories: Performing atomic reimport of [D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/BOTTOM.png]
+[2020.08.15-18.11.31:143][768]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/BOTTOM.png)
+[2020.08.15-18.11.31:191][768]LogEditorFactories: -- imported successfully
+[2020.08.15-18.11.31:210][769]LogEditorFactories: Performing atomic reimport of [D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/BRAKDISC.png]
+[2020.08.15-18.11.31:211][769]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/BRAKDISC.png)
+[2020.08.15-18.11.31:407][769]LogEditorFactories: -- imported successfully
+[2020.08.15-18.11.31:430][770]LogEditorFactories: Performing atomic reimport of [D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/DOORLINE.png]
+[2020.08.15-18.11.31:430][770]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/DOORLINE.png)
+[2020.08.15-18.11.31:454][770]LogEditorFactories: -- imported successfully
+[2020.08.15-18.11.31:462][770]LogEditorFactories: Performing atomic reimport of [D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/DOORLINE.png]
+[2020.08.15-18.11.31:462][770]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/DOORLINE.png)
+[2020.08.15-18.11.31:480][770]LogEditorFactories: -- imported successfully
+[2020.08.15-18.11.31:488][770]LogEditorFactories: Performing atomic reimport of [D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/DOORLINE.png]
+[2020.08.15-18.11.31:489][770]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/DOORLINE.png)
+[2020.08.15-18.11.31:507][770]LogEditorFactories: -- imported successfully
+[2020.08.15-18.11.31:514][770]LogEditorFactories: Performing atomic reimport of [D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/DOORLINE.png]
+[2020.08.15-18.11.31:514][770]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/DOORLINE.png)
+[2020.08.15-18.11.31:532][770]LogEditorFactories: -- imported successfully
+[2020.08.15-18.11.31:540][770]LogEditorFactories: Performing atomic reimport of [D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/DOORLINE.png]
+[2020.08.15-18.11.31:540][770]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/DOORLINE.png)
+[2020.08.15-18.11.31:558][770]LogEditorFactories: -- imported successfully
+[2020.08.15-18.11.31:576][771]LogEditorFactories: Performing atomic reimport of [D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/DRIVER.png]
+[2020.08.15-18.11.31:576][771]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/DRIVER.png)
+[2020.08.15-18.11.31:630][771]LogEditorFactories: -- imported successfully
+[2020.08.15-18.11.31:647][772]LogEditorFactories: Performing atomic reimport of [D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/ENGINE.png]
+[2020.08.15-18.11.31:647][772]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/ENGINE.png)
+[2020.08.15-18.11.31:683][772]LogEditorFactories: -- imported successfully
+[2020.08.15-18.11.31:691][772]LogEditorFactories: Performing atomic reimport of [D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/ENGINE.png]
+[2020.08.15-18.11.31:691][772]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/ENGINE.png)
+[2020.08.15-18.11.31:717][772]LogEditorFactories: -- imported successfully
+[2020.08.15-18.11.31:724][772]LogEditorFactories: Performing atomic reimport of [D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/ENGINE.png]
+[2020.08.15-18.11.31:725][772]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/ENGINE.png)
+[2020.08.15-18.11.31:749][772]LogEditorFactories: -- imported successfully
+[2020.08.15-18.11.31:757][772]LogEditorFactories: Performing atomic reimport of [D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/ENGINE.png]
+[2020.08.15-18.11.31:758][772]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/ENGINE.png)
+[2020.08.15-18.11.31:784][772]LogEditorFactories: -- imported successfully
+[2020.08.15-18.11.31:800][773]LogEditorFactories: Performing atomic reimport of [D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/LICENSE.png]
+[2020.08.15-18.11.31:801][773]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/LICENSE.png)
+[2020.08.15-18.11.31:875][773]LogEditorFactories: -- imported successfully
+[2020.08.15-18.11.31:893][774]LogEditorFactories: Performing atomic reimport of [D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/TIRE.png]
+[2020.08.15-18.11.31:894][774]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/TIRE.png)
+[2020.08.15-18.11.31:974][774]LogEditorFactories: -- imported successfully
+[2020.08.15-18.11.31:992][775]LogEditorFactories: Performing atomic reimport of [D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLENGER71 INTERIOR.png]
+[2020.08.15-18.11.31:993][775]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLENGER71 INTERIOR.png)
+[2020.08.15-18.11.32:066][775]LogEditorFactories: -- imported successfully
+[2020.08.15-18.11.32:138][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/CHALLENGER71_BADGING_MASK" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLENGER71_BADGING_MASK.uasset" SILENT=true
+[2020.08.15-18.11.32:150][776]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/CHALLENGER71_BADGING_MASK70E39372484D6E566DE30CAE4F4C5178.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLENGER71_BADGING_MASK.uasset'
+[2020.08.15-18.11.32:169][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/CARBON" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CARBON.uasset" SILENT=true
+[2020.08.15-18.11.32:193][776]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/CARBONE557C8C347F9390BE1DA208AB0CC80ED.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CARBON.uasset'
+[2020.08.15-18.11.32:213][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/BREMBO" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/BREMBO.uasset" SILENT=true
+[2020.08.15-18.11.32:228][776]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/BREMBO45682E8B44891E619FA7288A7D853742.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/BREMBO.uasset'
+[2020.08.15-18.11.32:247][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/BREMBO_NORMAL" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/BREMBO_NORMAL.uasset" SILENT=true
+[2020.08.15-18.11.32:262][776]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/BREMBO_NORMALBA9A05394A5B949E7A95D4ABF9AE3893.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/BREMBO_NORMAL.uasset'
+[2020.08.15-18.11.32:280][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/BREMBO_MIRROR" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/BREMBO_MIRROR.uasset" SILENT=true
+[2020.08.15-18.11.32:296][776]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/BREMBO_MIRROR5DAE2C1F435B399BEEA00C8D62C07600.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/BREMBO_MIRROR.uasset'
+[2020.08.15-18.11.32:313][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/BREMBO_MIRROR_NORMAL" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/BREMBO_MIRROR_NORMAL.uasset" SILENT=true
+[2020.08.15-18.11.32:329][776]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/BREMBO_MIRROR_NORMAL33EADDE649E95520FE08F997BFC00D65.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/BREMBO_MIRROR_NORMAL.uasset'
+[2020.08.15-18.11.32:343][776]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1488
+[2020.08.15-18.11.32:347][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/BRAKDISC" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/BRAKDISC.uasset" SILENT=true
+[2020.08.15-18.11.32:390][776]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/BRAKDISC711E08CA45CEF5FC0C7577B45E3AB57E.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/BRAKDISC.uasset'
+[2020.08.15-18.11.32:410][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/BOTTOM" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/BOTTOM.uasset" SILENT=true
+[2020.08.15-18.11.32:420][776]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/BOTTOM178D35B94D733EB5562317A484C03830.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/BOTTOM.uasset'
+[2020.08.15-18.11.32:440][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/TIRE_BUMP" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/TIRE_BUMP.uasset" SILENT=true
+[2020.08.15-18.11.32:451][776]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/TIRE_BUMP62D59CCB4B71F02D840FF2B100CECAC5.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/TIRE_BUMP.uasset'
+[2020.08.15-18.11.32:467][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/LICENSE_MASK" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/LICENSE_MASK.uasset" SILENT=true
+[2020.08.15-18.11.32:475][776]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/LICENSE_MASKEED55C4B407F0505184A70937C1F18B3.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/LICENSE_MASK.uasset'
+[2020.08.15-18.11.32:487][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/DOORLINE_MASK" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/DOORLINE_MASK.uasset" SILENT=true
+[2020.08.15-18.11.32:491][776]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/DOORLINE_MASK4EBD03FE4399972559B84193B83BE744.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/DOORLINE_MASK.uasset'
+[2020.08.15-18.11.32:499][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/CHALLENGER71" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLENGER71.uasset" SILENT=true
+[2020.08.15-18.11.32:501][776]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/CHALLENGER716D971C3848FCCFC8B5B331BF0E6C2CFE.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLENGER71.uasset'
+[2020.08.15-18.11.32:538][776]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/CHALLENGER71_BADGING_NORMAL1101A97B46EAF9FB1520DD94E21CCC18.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLENGER71_BADGING_NORMAL.uasset'
+[2020.08.15-18.11.32:554][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/CHALLENGER71_BADGING" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLENGER71_BADGING.uasset" SILENT=true
+[2020.08.15-18.11.32:567][776]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/CHALLENGER71_BADGING0BB4F1384B80D70812AF56ACFD9D178C.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLENGER71_BADGING.uasset'
+[2020.08.15-18.11.32:581][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/CHALLENGER71_BRAKELIGHT" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLENGER71_BRAKELIGHT.uasset" SILENT=true
+[2020.08.15-18.11.32:587][776]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/CHALLENGER71_BRAKELIGHT99E7B3734B9E63F25C9E1188A9553475.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLENGER71_BRAKELIGHT.uasset'
+[2020.08.15-18.11.32:602][776]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/CHALLENGER71_HEADLIGHT_GLASS4B68D00645CD99B32A16CD9E0BBB8828.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLENGER71_HEADLIGHT_GLASS.uasset'
+[2020.08.15-18.11.32:620][776]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/CHALLENGER71_HEADLIGHT_MASK4D8384884072CABFF1AE9C9E92C7FF10.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLENGER71_HEADLIGHT_MASK.uasset'
+[2020.08.15-18.11.32:632][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/CHALLENGER71_HEADLIGHT" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLENGER71_HEADLIGHT.uasset" SILENT=true
+[2020.08.15-18.11.32:635][776]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/CHALLENGER71_HEADLIGHT7FA45023473D9101995A61A418F3372F.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLENGER71_HEADLIGHT.uasset'
+[2020.08.15-18.11.32:652][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/CHALLENGER71_Interior" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLENGER71_Interior.uasset" SILENT=true
+[2020.08.15-18.11.32:686][776]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/CHALLENGER71_Interior7C1BEE484A9081921F3A1F932CA26F6F.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLENGER71_Interior.uasset'
+[2020.08.15-18.11.32:704][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/CHALLENGER71_MISC" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLENGER71_MISC.uasset" SILENT=true
+[2020.08.15-18.11.32:724][776]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/CHALLENGER71_MISCF934C25546084E1727CC97AD4F41EE30.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLENGER71_MISC.uasset'
+[2020.08.15-18.11.32:741][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/CHALLENGER71_RIM" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLENGER71_RIM.uasset" SILENT=true
+[2020.08.15-18.11.32:757][776]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/CHALLENGER71_RIM9974F221486F868529A38997B07762D2.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLENGER71_RIM.uasset'
+[2020.08.15-18.11.32:765][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/DOORLINE_MASK" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/DOORLINE_MASK.uasset" SILENT=true
+[2020.08.15-18.11.32:768][776]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/DOORLINE_MASK5BFB936542DCBEC6E60EADAB57FD746D.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/DOORLINE_MASK.uasset'
+[2020.08.15-18.11.32:788][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/DRIVER_CUTOUT" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/DRIVER_CUTOUT.uasset" SILENT=true
+[2020.08.15-18.11.32:795][776]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/DRIVER_CUTOUT800ED8694794F0D8E6AD318FC5F0B33F.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/DRIVER_CUTOUT.uasset'
+[2020.08.15-18.11.32:805][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/LICENSE_MASK" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/LICENSE_MASK.uasset" SILENT=true
+[2020.08.15-18.11.32:809][776]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/LICENSE_MASK1D8A4D214F6B22CD4B633F958D39E4EF.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/LICENSE_MASK.uasset'
+[2020.08.15-18.11.32:818][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/TIRE_BUMP" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/TIRE_BUMP.uasset" SILENT=true
+[2020.08.15-18.11.32:823][776]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/TIRE_BUMP6A1375BF4AB44FE5B92295984F3DCE85.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/TIRE_BUMP.uasset'
+[2020.08.15-18.11.32:839][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/TIREBACK" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/TIREBACK.uasset" SILENT=true
+[2020.08.15-18.11.32:855][776]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/TIREBACKE9E01A584B8C18AC004ACEA74CF63B35.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/TIREBACK.uasset'
+[2020.08.15-18.11.32:868][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/TREAD_BUMP" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/TREAD_BUMP.uasset" SILENT=true
+[2020.08.15-18.11.32:874][776]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/TREAD_BUMPD919607A48ACCFA03083828FC6557331.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/TREAD_BUMP.uasset'
+[2020.08.15-18.11.32:887][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/TREAD" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/TREAD.uasset" SILENT=true
+[2020.08.15-18.11.32:894][776]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/TREAD431A6A0344E5B955CB1C9AAF742FDCC3.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/TREAD.uasset'
+[2020.08.15-18.11.32:910][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/WDEFROST" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/WDEFROST.uasset" SILENT=true
+[2020.08.15-18.11.32:913][776]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/WDEFROST610013D34AE6C9565B4CCAAFC195E43B.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/WDEFROST.uasset'
+[2020.08.15-18.11.32:931][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/WINDOW_FRONT_MASK" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/WINDOW_FRONT_MASK.uasset" SILENT=true
+[2020.08.15-18.11.32:956][776]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/WINDOW_FRONT_MASK9C8FCA4F41088CA615B923A937F92F02.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/WINDOW_FRONT_MASK.uasset'
+[2020.08.15-18.11.32:973][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/WINDOW_FRONT" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/WINDOW_FRONT.uasset" SILENT=true
+[2020.08.15-18.11.32:997][776]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/WINDOW_FRONT472A662944C9E322EF192BBB55290830.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/WINDOW_FRONT.uasset'
+[2020.08.15-18.11.33:009][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/WINDOW_MASK" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/WINDOW_MASK.uasset" SILENT=true
+[2020.08.15-18.11.33:011][776]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/WINDOW_MASK7E75F96B4E61842478FEA6A0EF6A7FCA.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/WINDOW_MASK.uasset'
+[2020.08.15-18.11.33:025][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/CHALLEN1" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLEN1.uasset" SILENT=true
+[2020.08.15-18.11.33:030][776]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/CHALLEN1B967F205451F0C10F2899680981D9B96.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLEN1.uasset'
+[2020.08.15-18.11.33:047][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/CHALLEN2" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLEN2.uasset" SILENT=true
+[2020.08.15-18.11.33:060][776]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/CHALLEN2917224C3483D16995DE720B60B2DC2C7.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLEN2.uasset'
+[2020.08.15-18.11.33:078][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/CHALLEN3" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLEN3.uasset" SILENT=true
+[2020.08.15-18.11.33:095][776]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/CHALLEN3AEC89862419D5F711273018C4F3493DD.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLEN3.uasset'
+[2020.08.15-18.11.33:113][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/CHALLEN4" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLEN4.uasset" SILENT=true
+[2020.08.15-18.11.33:125][776]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/CHALLEN4990B8BE1439461DC97BC3CA7F128DC40.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLEN4.uasset'
+[2020.08.15-18.11.33:137][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/CHALLEN5" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLEN5.uasset" SILENT=true
+[2020.08.15-18.11.33:140][776]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/CHALLEN577E6FB83416ACE0EAC89D88B88F32291.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLEN5.uasset'
+[2020.08.15-18.11.33:156][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/CHALLEN6" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLEN6.uasset" SILENT=true
+[2020.08.15-18.11.33:203][776]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/CHALLEN6DE65DB4F4653FE3C8C7422B03142F7E0.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLEN6.uasset'
+[2020.08.15-18.11.33:219][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/CHALLEN7" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLEN7.uasset" SILENT=true
+[2020.08.15-18.11.33:235][776]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/CHALLEN75106789045056D0594CDF486C5FF1F7A.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLEN7.uasset'
+[2020.08.15-18.11.33:324][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/CHALLENG" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLENG.uasset" SILENT=true
+[2020.08.15-18.11.33:347][776]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/CHALLENGDA2086FE4A22B965DA8D8F9D8A57F771.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLENG.uasset'
+[2020.08.15-18.11.33:377][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/DOORLIN1" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/DOORLIN1.uasset" SILENT=true
+[2020.08.15-18.11.33:379][776]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/DOORLIN13297E7144BF1F4DDFBC16AB1172E6413.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/DOORLIN1.uasset'
+[2020.08.15-18.11.33:396][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/LICENSE_" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/LICENSE_.uasset" SILENT=true
+[2020.08.15-18.11.33:404][776]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/LICENSE_E4E2BB0F43A3B964AC5CDE901BB1CD2E.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/LICENSE_.uasset'
+[2020.08.15-18.11.33:419][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/TIRE_BUM" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/TIRE_BUM.uasset" SILENT=true
+[2020.08.15-18.11.33:443][776]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/TIRE_BUMD4E201E14334775CEF67418A7560AC2A.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/TIRE_BUM.uasset'
+[2020.08.15-18.11.33:452][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/TIREBACK" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/TIREBACK.uasset" SILENT=true
+[2020.08.15-18.11.33:458][776]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/TIREBACKE63D1E9A466F5B148E4968AC57EE938D.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/TIREBACK.uasset'
+[2020.08.15-18.11.33:467][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/CHALLENGER71_BADGING_MASK" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLENGER71_BADGING_MASK.uasset" SILENT=true
+[2020.08.15-18.11.33:472][776]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/CHALLENGER71_BADGING_MASK5703E39F40AEF7274EB2BA9B7E88F917.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLENGER71_BADGING_MASK.uasset'
+[2020.08.15-18.11.33:488][776]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/CHALLENGER71_BADGING_NORMALEEE81B954F7E47E9C5DD05B5F95A2B37.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLENGER71_BADGING_NORMAL.uasset'
+[2020.08.15-18.11.33:500][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/CHALLENGER71_HEADLIGHT" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLENGER71_HEADLIGHT.uasset" SILENT=true
+[2020.08.15-18.11.33:504][776]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/CHALLENGER71_HEADLIGHT8DBB9AA04F83C58B233C479D06D28D24.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLENGER71_HEADLIGHT.uasset'
+[2020.08.15-18.11.35:089][846]LogSlate: Window 'Message Log' being destroyed
+[2020.08.15-18.11.35:096][846]LogSlate: Window 'Message Log' being destroyed
+[2020.08.15-18.11.36:528][902]AssetReimport: Importing new asset /Game/meshes/CHALLENGER71_BADGING_MASK.
+[2020.08.15-18.11.36:528][902]AssetReimport: Importing new asset /Game/meshes/CARBON.
+[2020.08.15-18.11.36:528][902]AssetReimport: Importing new asset /Game/meshes/BREMBO.
+[2020.08.15-18.11.36:528][902]AssetReimport: Importing new asset /Game/meshes/BREMBO_NORMAL.
+[2020.08.15-18.11.36:528][902]AssetReimport: Importing new asset /Game/meshes/BREMBO_MIRROR.
+[2020.08.15-18.11.36:528][902]AssetReimport: Importing new asset /Game/meshes/BREMBO_MIRROR_NORMAL.
+[2020.08.15-18.11.36:528][902]AssetReimport: Importing new asset /Game/meshes/BRAKDISC.
+[2020.08.15-18.11.36:528][902]AssetReimport: Importing new asset /Game/meshes/BOTTOM.
+[2020.08.15-18.11.36:528][902]AssetReimport: Importing new asset /Game/meshes/TIRE_BUMP.
+[2020.08.15-18.11.36:528][902]AssetReimport: Importing new asset /Game/meshes/LICENSE_MASK.
+[2020.08.15-18.11.36:528][902]AssetReimport: Importing new asset /Game/meshes/DOORLINE_MASK.
+[2020.08.15-18.11.36:528][902]AssetReimport: Importing new asset /Game/meshes/CHALLENGER71.
+[2020.08.15-18.11.36:528][902]AssetReimport: Importing new asset /Game/meshes/CHALLENGER71_BADGING_NORMAL.
+[2020.08.15-18.11.36:528][902]AssetReimport: Importing new asset /Game/meshes/CHALLENGER71_BADGING.
+[2020.08.15-18.11.36:528][902]AssetReimport: Importing new asset /Game/meshes/CHALLENGER71_BRAKELIGHT.
+[2020.08.15-18.11.36:528][902]AssetReimport: Importing new asset /Game/meshes/CHALLENGER71_HEADLIGHT_GLASS.
+[2020.08.15-18.11.36:528][902]AssetReimport: Importing new asset /Game/meshes/CHALLENGER71_HEADLIGHT_MASK.
+[2020.08.15-18.11.36:528][902]AssetReimport: Importing new asset /Game/meshes/CHALLENGER71_HEADLIGHT.
+[2020.08.15-18.11.36:528][902]AssetReimport: Importing new asset /Game/meshes/CHALLENGER71_INTERIOR.
+[2020.08.15-18.11.36:528][902]AssetReimport: Importing new asset /Game/meshes/CHALLENGER71_MISC.
+[2020.08.15-18.11.36:528][902]AssetReimport: Importing new asset /Game/meshes/CHALLENGER71_RIM.
+[2020.08.15-18.11.36:528][902]AssetReimport: Importing new asset /Game/meshes/DOORLINE_MASK.
+[2020.08.15-18.11.36:528][902]AssetReimport: Importing new asset /Game/meshes/DOORLINE.
+[2020.08.15-18.11.36:528][902]AssetReimport: Error: There was an error unloading a package: The following assets have been modified and cannot be unloaded:
+    /Game/meshes/DoorLine
+Saving these assets will allow them to be unloaded..
+[2020.08.15-18.11.36:528][902]AssetReimport: Failed to import file D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/DOORLINE.tga.
+[2020.08.15-18.11.36:528][902]AssetReimport: Importing new asset /Game/meshes/DRIVER_CUTOUT.
+[2020.08.15-18.11.36:529][902]AssetReimport: Importing new asset /Game/meshes/DRIVER.
+[2020.08.15-18.11.36:529][902]AssetReimport: Error: There was an error unloading a package: The following assets have been modified and cannot be unloaded:
+    /Game/meshes/Driver
+Saving these assets will allow them to be unloaded..
+[2020.08.15-18.11.36:529][902]AssetReimport: Failed to import file D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/DRIVER.tga.
+[2020.08.15-18.11.36:529][902]AssetReimport: Importing new asset /Game/meshes/ENGINE.
+[2020.08.15-18.11.36:529][902]AssetReimport: Error: There was an error unloading a package: The following assets have been modified and cannot be unloaded:
+    /Game/meshes/Engine
+Saving these assets will allow them to be unloaded..
+[2020.08.15-18.11.36:529][902]AssetReimport: Failed to import file D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/ENGINE.tga.
+[2020.08.15-18.11.36:529][902]AssetReimport: Importing new asset /Game/meshes/LICENSE_MASK.
+[2020.08.15-18.11.36:529][902]AssetReimport: Importing new asset /Game/meshes/TIRE_BUMP.
+[2020.08.15-18.11.36:529][902]AssetReimport: Importing new asset /Game/meshes/TIRE.
+[2020.08.15-18.11.36:529][902]AssetReimport: Error: There was an error unloading a package: The following assets have been modified and cannot be unloaded:
+    /Game/meshes/Tire
+Saving these assets will allow them to be unloaded..
+[2020.08.15-18.11.36:529][902]AssetReimport: Failed to import file D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/TIRE.tga.
+[2020.08.15-18.11.36:529][902]AssetReimport: Importing new asset /Game/meshes/TIREBACK.
+[2020.08.15-18.11.36:529][902]AssetReimport: Importing new asset /Game/meshes/TREAD_BUMP.
+[2020.08.15-18.11.36:529][902]AssetReimport: Importing new asset /Game/meshes/TREAD.
+[2020.08.15-18.11.36:529][902]AssetReimport: Importing new asset /Game/meshes/WDEFROST.
+[2020.08.15-18.11.36:529][902]AssetReimport: Importing new asset /Game/meshes/WINDOW_FRONT_MASK.
+[2020.08.15-18.11.36:529][902]AssetReimport: Importing new asset /Game/meshes/LICENSE.
+[2020.08.15-18.11.36:529][902]AssetReimport: Error: There was an error unloading a package: The following assets have been modified and cannot be unloaded:
+    /Game/meshes/License
+Saving these assets will allow them to be unloaded..
+[2020.08.15-18.11.36:529][902]AssetReimport: Failed to import file D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/LICENSE.tga.
+[2020.08.15-18.11.36:529][902]AssetReimport: Importing new asset /Game/meshes/WINDOW_FRONT.
+[2020.08.15-18.11.36:529][902]AssetReimport: Importing new asset /Game/meshes/WINDOW_MASK.
+[2020.08.15-18.11.36:529][902]AssetReimport: Importing new asset /Game/meshes/CHALLEN1.
+[2020.08.15-18.11.36:529][902]AssetReimport: Importing new asset /Game/meshes/CHALLEN2.
+[2020.08.15-18.11.36:529][902]AssetReimport: Importing new asset /Game/meshes/CHALLEN3.
+[2020.08.15-18.11.36:529][902]AssetReimport: Importing new asset /Game/meshes/CHALLEN4.
+[2020.08.15-18.11.36:529][902]AssetReimport: Importing new asset /Game/meshes/CHALLEN5.
+[2020.08.15-18.11.36:529][902]AssetReimport: Importing new asset /Game/meshes/CHALLEN6.
+[2020.08.15-18.11.36:529][902]AssetReimport: Importing new asset /Game/meshes/CHALLEN7.
+[2020.08.15-18.11.36:529][902]AssetReimport: Importing new asset /Game/meshes/CHALLENG.
+[2020.08.15-18.11.36:529][902]AssetReimport: Importing new asset /Game/meshes/DOORLIN1.
+[2020.08.15-18.11.36:529][902]AssetReimport: Importing new asset /Game/meshes/LICENSE_.
+[2020.08.15-18.11.36:529][902]AssetReimport: Importing new asset /Game/meshes/TIRE_BUM.
+[2020.08.15-18.11.36:529][902]AssetReimport: Importing new asset /Game/meshes/TIREBACK.
+[2020.08.15-18.11.36:529][902]AssetReimport: Importing new asset /Game/meshes/CHALLENGER71_BADGING_MASK.
+[2020.08.15-18.11.36:529][902]AssetReimport: Importing new asset /Game/meshes/CHALLENGER71_BADGING_NORMAL.
+[2020.08.15-18.11.36:529][902]AssetReimport: Importing new asset /Game/meshes/CHALLENGER71_BADGING.
+[2020.08.15-18.11.36:529][902]AssetReimport: Error: There was an error unloading a package: The following assets have been modified and cannot be unloaded:
+    /Game/meshes/CHALLENGER71_BADGING
+Saving these assets will allow them to be unloaded..
+[2020.08.15-18.11.36:529][902]AssetReimport: Failed to import file D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLENGER71 BADGING.png.
+[2020.08.15-18.11.36:529][902]AssetReimport: Importing new asset /Game/meshes/CHALLENGER71_BRAKELIGHT.
+[2020.08.15-18.11.36:529][902]AssetReimport: Error: There was an error unloading a package: The following assets have been modified and cannot be unloaded:
+    /Game/meshes/CHALLENGER71_BRAKELIGHT
+Saving these assets will allow them to be unloaded..
+[2020.08.15-18.11.36:529][902]AssetReimport: Failed to import file D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLENGER71 BRAKELIGHT.png.
+[2020.08.15-18.11.36:529][902]AssetReimport: Importing new asset /Game/meshes/CHALLENGER71_HEADLIGHT.
+[2020.08.15-18.11.36:529][902]AssetReimport: Importing new asset /Game/meshes/CHALLENGER71_MISC.
+[2020.08.15-18.11.36:529][902]AssetReimport: Error: There was an error unloading a package: The following assets have been modified and cannot be unloaded:
+    /Game/meshes/CHALLENGER71_MISC
+Saving these assets will allow them to be unloaded..
+[2020.08.15-18.11.36:529][902]AssetReimport: Failed to import file D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLENGER71 MISC.png.
+[2020.08.15-18.11.36:529][902]AssetReimport: Reimported asset BOTTOM from D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/BOTTOM.png.
+[2020.08.15-18.11.36:529][902]AssetReimport: Reimported asset BRAKDISC from D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/BRAKDISC.png.
+[2020.08.15-18.11.36:529][902]AssetReimport: Reimported asset DOORLINE1 from D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/DOORLINE.png.
+[2020.08.15-18.11.36:529][902]AssetReimport: Reimported asset DOORLINE2 from D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/DOORLINE.png.
+[2020.08.15-18.11.36:529][902]AssetReimport: Reimported asset DOORLINE4 from D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/DOORLINE.png.
+[2020.08.15-18.11.36:529][902]AssetReimport: Reimported asset DOORLINE6 from D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/DOORLINE.png.
+[2020.08.15-18.11.36:529][902]AssetReimport: Reimported asset DOORLINE8 from D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/DOORLINE.png.
+[2020.08.15-18.11.36:529][902]AssetReimport: Reimported asset DRIVER1 from D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/DRIVER.png.
+[2020.08.15-18.11.36:529][902]AssetReimport: Reimported asset ENGINE1 from D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/ENGINE.png.
+[2020.08.15-18.11.36:529][902]AssetReimport: Reimported asset ENGINE2 from D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/ENGINE.png.
+[2020.08.15-18.11.36:529][902]AssetReimport: Reimported asset ENGINE3 from D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/ENGINE.png.
+[2020.08.15-18.11.36:529][902]AssetReimport: Reimported asset ENGINE4 from D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/ENGINE.png.
+[2020.08.15-18.11.36:530][902]AssetReimport: Reimported asset LICENSE1 from D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/LICENSE.png.
+[2020.08.15-18.11.36:530][902]AssetReimport: Reimported asset TIRE1 from D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/TIRE.png.
+[2020.08.15-18.11.36:530][902]AssetReimport: Reimported asset CHALLENGER71_INTERIOR1 from D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/CHALLENGER71 INTERIOR.png.
+[2020.08.15-18.11.40:418][ 36]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1478
+[2020.08.15-18.11.41:413][ 74]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1468
+[2020.08.15-18.11.45:778][232]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1458
+[2020.08.15-18.11.49:464][383]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1448
+[2020.08.15-18.11.53:308][534]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1438
+[2020.08.15-18.11.56:455][635]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.08.15-18.11.58:889][635]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1428
+[2020.08.15-18.12.03:005][635]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1418
+[2020.08.15-18.12.05:700][635]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1408
+[2020.08.15-18.12.07:619][635]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1398
+[2020.08.15-18.12.14:658][635]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1388
+[2020.08.15-18.12.16:645][635]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1378
+[2020.08.15-18.12.19:542][635]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1368
+[2020.08.15-18.12.19:653][635]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1358
+[2020.08.15-18.12.25:444][635]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1348
+[2020.08.15-18.12.25:913][635]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1338
+[2020.08.15-18.12.27:811][635]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1328
+[2020.08.15-18.12.30:813][635]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1318
+[2020.08.15-18.12.32:478][635]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1308
+[2020.08.15-18.12.34:914][635]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1298
+[2020.08.15-18.12.37:372][635]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1288
+[2020.08.15-18.12.39:957][635]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1278
+[2020.08.15-18.12.41:160][635]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1268
+[2020.08.15-18.12.43:231][635]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1258
+[2020.08.15-18.12.44:762][635]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1248
+[2020.08.15-18.12.46:884][635]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1238
+[2020.08.15-18.12.47:171][635]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1228
+[2020.08.15-18.12.49:805][635]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1218
+[2020.08.15-18.12.51:384][635]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1208
+[2020.08.15-18.12.52:105][635]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1198
+[2020.08.15-18.12.56:520][635]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1188
+[2020.08.15-18.12.57:477][635]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1178
+[2020.08.15-18.13.00:827][635]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1168
+[2020.08.15-18.13.01:025][635]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1158
+[2020.08.15-18.13.01:397][635]LogSlate: Window 'Delete Assets' being destroyed
+[2020.08.15-18.13.02:423][635]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2020.08.15-18.13.02:452][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.08.15-18.13.02:485][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.08.15-18.13.02:510][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.08.15-18.13.02:535][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.08.15-18.13.02:559][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.08.15-18.13.02:581][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.08.15-18.13.02:604][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.08.15-18.13.02:629][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.08.15-18.13.02:658][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.08.15-18.13.02:710][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.08.15-18.13.02:735][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.08.15-18.13.02:772][635]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2020.08.15-18.13.02:799][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.08.15-18.13.02:838][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.08.15-18.13.02:864][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.08.15-18.13.02:912][635]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.08.15-18.13.02:937][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.08.15-18.13.02:978][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.08.15-18.13.03:003][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.08.15-18.13.03:027][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.08.15-18.13.03:053][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.08.15-18.13.03:082][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.08.15-18.13.03:109][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.08.15-18.13.03:135][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.08.15-18.13.03:160][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.08.15-18.13.03:184][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.08.15-18.13.03:209][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.08.15-18.13.03:243][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.08.15-18.13.03:280][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.08.15-18.13.03:308][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.08.15-18.13.03:331][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.08.15-18.13.03:355][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.08.15-18.13.03:379][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.08.15-18.13.03:403][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.08.15-18.13.03:429][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.08.15-18.13.03:453][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.08.15-18.13.03:480][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.08.15-18.13.03:509][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.08.15-18.13.03:539][635]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.08.15-18.13.03:592][635]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.08.15-18.13.08:483][761]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1148
+[2020.08.15-18.13.09:189][768]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1138
+[2020.08.15-18.13.12:945][831]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1128
+[2020.08.15-18.13.15:973][987]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1118
+[2020.08.15-18.13.18:494][106]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1108
+[2020.08.15-18.13.20:518][151]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1098
+[2020.08.15-18.13.23:082][217]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1088
+[2020.08.15-18.13.25:448][301]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1078
+[2020.08.15-18.13.25:946][315]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1068
+[2020.08.15-18.13.30:110][407]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1058
+[2020.08.15-18.13.30:800][420]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1048
+[2020.08.15-18.13.33:905][490]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1038
+[2020.08.15-18.13.34:394][497]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1028
+[2020.08.15-18.13.39:148][585]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1018
+[2020.08.15-18.13.39:769][601]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1008
+[2020.08.15-18.13.41:551][647]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 998
+[2020.08.15-18.13.45:171][722]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 988
+[2020.08.15-18.13.46:145][748]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 978
+[2020.08.15-18.13.50:149][799]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 968
+[2020.08.15-18.13.52:580][853]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 958
+[2020.08.15-18.13.55:365][910]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 948
+[2020.08.15-18.13.55:486][913]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 938
+[2020.08.15-18.14.02:725][  4]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 928
+[2020.08.15-18.14.03:442][ 23]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 918
+[2020.08.15-18.14.06:514][ 85]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 908
+[2020.08.15-18.14.08:599][128]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 898
+[2020.08.15-18.14.11:561][186]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 888
+[2020.08.15-18.14.13:239][218]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 878
+[2020.08.15-18.14.15:799][268]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 868
+[2020.08.15-18.14.17:877][315]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 858
+[2020.08.15-18.14.18:542][328]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 848
+[2020.08.15-18.14.22:185][467]AssetReimport: New page: Outstanding source content changes 22:14:22
+[2020.08.15-18.14.22:186][467]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/car-r0.png)
+[2020.08.15-18.14.22:228][468]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/car-c.png)
+[2020.08.15-18.14.22:268][469]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/car1.fbx)
+[2020.08.15-18.14.22:277][469]LogFbx: Loading FBX Scene from D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/car1.fbx
+[2020.08.15-18.14.22:290][469]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.15-18.14.24:432][469]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.08.15-18.14.24:472][469]LogStaticMesh: Building static mesh car1_Cube...
+[2020.08.15-18.14.24:473][469]LogStaticMesh: Built static mesh [0.00s] /Game/meshes/car1_Cube.car1_Cube
+[2020.08.15-18.14.24:558][469]LogStaticMesh: Building static mesh car1_Cylinder...
+[2020.08.15-18.14.24:568][469]LogStaticMesh: Built static mesh [0.01s] /Game/meshes/car1_Cylinder.car1_Cylinder
+[2020.08.15-18.14.24:620][470]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/car1.obj)
+[2020.08.15-18.14.24:632][470]LogFbx: Loading FBX Scene from D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/car1.obj
+[2020.08.15-18.14.24:640][470]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.15-18.14.25:970][470]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.08.15-18.14.26:036][470]LogStaticMesh: Building static mesh car1...
+[2020.08.15-18.14.26:054][470]LogStaticMesh: Built static mesh [0.02s] /Game/meshes/car1.car1
+[2020.08.15-18.14.26:130][471]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/car-r0" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/car-r0.uasset" SILENT=true
+[2020.08.15-18.14.26:150][471]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/car-r04ECAE8F94CDC2BDB986ADEB50A0F7A62.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/car-r0.uasset'
+[2020.08.15-18.14.26:166][471]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/car-c" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/car-c.uasset" SILENT=true
+[2020.08.15-18.14.26:186][471]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/car-cF7D9E0B0497918BDD8D1408AE181A4ED.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/car-c.uasset'
+[2020.08.15-18.14.26:236][471]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/car1" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/car1.uasset" SILENT=true
+[2020.08.15-18.14.26:252][471]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/car1F5B5DA1844AD79FBEC2BE79655849A8E.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/car1.uasset'
+[2020.08.15-18.14.26:261][471]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/car1" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/car1.uasset" SILENT=true
+[2020.08.15-18.14.26:271][471]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/car1C2C813164C81A7F0829DDF92201DB83E.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/car1.uasset'
+[2020.08.15-18.14.27:074][503]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 862
+[2020.08.15-18.14.28:250][551]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 852
+[2020.08.15-18.14.29:235][606]LogSlate: Window 'Message Log' being destroyed
+[2020.08.15-18.14.29:239][606]LogSlate: Window 'Message Log' being destroyed
+[2020.08.15-18.14.29:283][608]AssetReimport: Importing new asset /Game/meshes/car-r0.
+[2020.08.15-18.14.29:283][608]AssetReimport: Importing new asset /Game/meshes/car-c.
+[2020.08.15-18.14.29:283][608]AssetReimport: Importing new asset /Game/meshes/car1.
+[2020.08.15-18.14.29:283][608]AssetReimport: Importing new asset /Game/meshes/car1.
+[2020.08.15-18.14.33:887][840]LogMaterial: Display: Missing cached shader map for material car-c_Mat, compiling. 
+[2020.08.15-18.14.33:909][840]LogMaterial: Display: Material /Game/meshes/car-c_Mat.car-c_Mat needed to have new flag set bUsedWithStaticLighting !
+[2020.08.15-18.14.33:913][840]LogMaterial: Display: Missing cached shader map for material car-c_Mat, compiling. 
+[2020.08.15-18.14.35:104][908]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 895
+[2020.08.15-18.14.35:536][932]Cmd: TRANSACTION UNDO
+[2020.08.15-18.14.35:536][932]LogEditorTransaction: Undo Create Actors
+[2020.08.15-18.14.37:086][ 14]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 885
+[2020.08.15-18.14.37:179][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.15-18.14.37:370][ 27]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/meshes/car-c.car-c
+[2020.08.15-18.14.37:398][ 27]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.08.15-18.14.41:024][233]LogSlate: Window 'car-c' being destroyed
+[2020.08.15-18.14.43:946][378]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 875
+[2020.08.15-18.14.48:665][642]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 865
+[2020.08.15-18.14.50:752][763]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 855
+[2020.08.15-18.14.52:928][884]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.08.15-18.14.53:848][935]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.08.15-18.14.55:388][ 23]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 845
+[2020.08.15-18.15.04:612][249]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 835
+[2020.08.15-18.15.11:555][299]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 825
+[2020.08.15-18.15.16:691][322]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 815
+[2020.08.15-18.15.24:223][533]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.15-18.15.28:211][661]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 805
+[2020.08.15-18.15.29:331][681]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 795
+[2020.08.15-18.15.33:420][714]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 785
+[2020.08.15-18.15.36:788][803]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.15-18.15.36:947][806]AssetReimport: New page: Outstanding source content changes 22:15:36
+[2020.08.15-18.15.36:948][806]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.08.15-18.15.37:716][806]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.767 s
+[2020.08.15-18.15.37:716][806]LogOutputDevice: Error: === Handled ensure: ===
+[2020.08.15-18.15.37:716][806]LogOutputDevice: Error: 
+[2020.08.15-18.15.37:716][806]LogOutputDevice: Error: Ensure condition failed: ExpectedWorkThisFrame <= 1.01f * TotalAmountOfWork - CompletedWork [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Core/Private/Misc/SlowTask.cpp] [Line: 100]
+[2020.08.15-18.15.37:716][806]LogOutputDevice: Error: Work overflow in slow task. Please revise call-site to account for entire progress range.
+[2020.08.15-18.15.37:716][806]LogOutputDevice: Error: Stack: 
+[2020.08.15-18.15.37:716][806]LogOutputDevice: Error: [Callstack] 0x00007ffcd6c06b36 UE4Editor-Core.dll!UnknownFunction []
+[2020.08.15-18.15.37:716][806]LogOutputDevice: Error: [Callstack] 0x00007ffcd68bbed5 UE4Editor-Core.dll!UnknownFunction []
+[2020.08.15-18.15.37:716][806]LogOutputDevice: Error: [Callstack] 0x00007ffccf8b3294 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.08.15-18.15.37:716][806]LogOutputDevice: Error: [Callstack] 0x00007ffccf868437 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.08.15-18.15.37:716][806]LogOutputDevice: Error: [Callstack] 0x00007ffccf8d010c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.08.15-18.15.37:716][806]LogOutputDevice: Error: [Callstack] 0x00007ffccf8d1db0 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.08.15-18.15.37:716][806]LogOutputDevice: Error: [Callstack] 0x00007ffccf8172ad UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.08.15-18.15.37:716][806]LogOutputDevice: Error: [Callstack] 0x00007ffccfbdd437 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.08.15-18.15.37:716][806]LogOutputDevice: Error: [Callstack] 0x00007ffcd0434b16 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.08.15-18.15.37:716][806]LogOutputDevice: Error: [Callstack] 0x00007ff6f8b37b0a UE4Editor.exe!UnknownFunction []
+[2020.08.15-18.15.37:716][806]LogOutputDevice: Error: [Callstack] 0x00007ff6f8b4a91c UE4Editor.exe!UnknownFunction []
+[2020.08.15-18.15.37:716][806]LogOutputDevice: Error: [Callstack] 0x00007ff6f8b4a9fa UE4Editor.exe!UnknownFunction []
+[2020.08.15-18.15.37:716][806]LogOutputDevice: Error: [Callstack] 0x00007ff6f8b5b92c UE4Editor.exe!UnknownFunction []
+[2020.08.15-18.15.37:716][806]LogOutputDevice: Error: [Callstack] 0x00007ff6f8b5e60e UE4Editor.exe!UnknownFunction []
+[2020.08.15-18.15.37:716][806]LogOutputDevice: Error: [Callstack] 0x00007ffd15947bd4 KERNEL32.DLL!UnknownFunction []
+[2020.08.15-18.15.37:716][806]LogOutputDevice: Error: [Callstack] 0x00007ffd1724ce51 ntdll.dll!UnknownFunction []
+[2020.08.15-18.15.37:716][806]LogOutputDevice: Error: 
+[2020.08.15-18.15.37:718][806]LogStats:                SubmitErrorReport -  0.000 s

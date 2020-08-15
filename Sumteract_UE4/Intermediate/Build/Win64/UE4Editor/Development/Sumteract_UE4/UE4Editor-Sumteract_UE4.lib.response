@@ -7,8 +7,10 @@
 /IGNORE:4221
 /NODEFAULTLIB
 "D:\simterac-ue4 task\simteract---ue4-task\Sumteract_UE4\Intermediate\Build\Win64\Sumteract_UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\simterac-ue4 task\simteract---ue4-task\Sumteract_UE4\Intermediate\Build\Win64\UE4Editor\Development\Sumteract_UE4\Car.cpp.obj"
 "D:\simterac-ue4 task\simteract---ue4-task\Sumteract_UE4\Intermediate\Build\Win64\UE4Editor\Development\Sumteract_UE4\Sumteract_UE4.cpp.obj"
 "D:\simterac-ue4 task\simteract---ue4-task\Sumteract_UE4\Intermediate\Build\Win64\UE4Editor\Development\Sumteract_UE4\Sumteract_UE4GameModeBase.cpp.obj"
+"D:\simterac-ue4 task\simteract---ue4-task\Sumteract_UE4\Intermediate\Build\Win64\UE4Editor\Development\Sumteract_UE4\Car.gen.cpp.obj"
 "D:\simterac-ue4 task\simteract---ue4-task\Sumteract_UE4\Intermediate\Build\Win64\UE4Editor\Development\Sumteract_UE4\Sumteract_UE4.init.gen.cpp.obj"
 "D:\simterac-ue4 task\simteract---ue4-task\Sumteract_UE4\Intermediate\Build\Win64\UE4Editor\Development\Sumteract_UE4\Sumteract_UE4GameModeBase.gen.cpp.obj"
 "D:\simterac-ue4 task\simteract---ue4-task\Sumteract_UE4\Intermediate\Build\Win64\UE4Editor\Development\Sumteract_UE4\Default.rc2.res"

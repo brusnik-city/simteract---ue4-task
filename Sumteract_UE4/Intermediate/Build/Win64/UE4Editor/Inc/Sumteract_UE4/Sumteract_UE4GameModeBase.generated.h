@@ -13,9 +13,9 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define SUMTERACT_UE4_Sumteract_UE4GameModeBase_generated_h
 
-#define Sumteract_UE4_Source_Sumteract_UE4_Sumteract_UE4GameModeBase_h_15_RPC_WRAPPERS
-#define Sumteract_UE4_Source_Sumteract_UE4_Sumteract_UE4GameModeBase_h_15_RPC_WRAPPERS_NO_PURE_DECLS
-#define Sumteract_UE4_Source_Sumteract_UE4_Sumteract_UE4GameModeBase_h_15_INCLASS_NO_PURE_DECLS \
+#define Sumteract_UE4_Source_Sumteract_UE4_Sumteract_UE4GameModeBase_h_18_RPC_WRAPPERS
+#define Sumteract_UE4_Source_Sumteract_UE4_Sumteract_UE4GameModeBase_h_18_RPC_WRAPPERS_NO_PURE_DECLS
+#define Sumteract_UE4_Source_Sumteract_UE4_Sumteract_UE4GameModeBase_h_18_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesASumteract_UE4GameModeBase(); \
 	friend struct Z_Construct_UClass_ASumteract_UE4GameModeBase_Statics; \
@@ -24,7 +24,7 @@ public: \
 	DECLARE_SERIALIZER(ASumteract_UE4GameModeBase)
 
 
-#define Sumteract_UE4_Source_Sumteract_UE4_Sumteract_UE4GameModeBase_h_15_INCLASS \
+#define Sumteract_UE4_Source_Sumteract_UE4_Sumteract_UE4GameModeBase_h_18_INCLASS \
 private: \
 	static void StaticRegisterNativesASumteract_UE4GameModeBase(); \
 	friend struct Z_Construct_UClass_ASumteract_UE4GameModeBase_Statics; \
@@ -33,7 +33,7 @@ public: \
 	DECLARE_SERIALIZER(ASumteract_UE4GameModeBase)
 
 
-#define Sumteract_UE4_Source_Sumteract_UE4_Sumteract_UE4GameModeBase_h_15_STANDARD_CONSTRUCTORS \
+#define Sumteract_UE4_Source_Sumteract_UE4_Sumteract_UE4GameModeBase_h_18_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API ASumteract_UE4GameModeBase(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ASumteract_UE4GameModeBase) \
@@ -46,7 +46,7 @@ private: \
 public:
 
 
-#define Sumteract_UE4_Source_Sumteract_UE4_Sumteract_UE4GameModeBase_h_15_ENHANCED_CONSTRUCTORS \
+#define Sumteract_UE4_Source_Sumteract_UE4_Sumteract_UE4GameModeBase_h_18_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API ASumteract_UE4GameModeBase(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -59,26 +59,26 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ASumteract_UE4GameModeBase); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ASumteract_UE4GameModeBase)
 
 
-#define Sumteract_UE4_Source_Sumteract_UE4_Sumteract_UE4GameModeBase_h_15_PRIVATE_PROPERTY_OFFSET
-#define Sumteract_UE4_Source_Sumteract_UE4_Sumteract_UE4GameModeBase_h_12_PROLOG
-#define Sumteract_UE4_Source_Sumteract_UE4_Sumteract_UE4GameModeBase_h_15_GENERATED_BODY_LEGACY \
+#define Sumteract_UE4_Source_Sumteract_UE4_Sumteract_UE4GameModeBase_h_18_PRIVATE_PROPERTY_OFFSET
+#define Sumteract_UE4_Source_Sumteract_UE4_Sumteract_UE4GameModeBase_h_15_PROLOG
+#define Sumteract_UE4_Source_Sumteract_UE4_Sumteract_UE4GameModeBase_h_18_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Sumteract_UE4_Source_Sumteract_UE4_Sumteract_UE4GameModeBase_h_15_PRIVATE_PROPERTY_OFFSET \
-	Sumteract_UE4_Source_Sumteract_UE4_Sumteract_UE4GameModeBase_h_15_RPC_WRAPPERS \
-	Sumteract_UE4_Source_Sumteract_UE4_Sumteract_UE4GameModeBase_h_15_INCLASS \
-	Sumteract_UE4_Source_Sumteract_UE4_Sumteract_UE4GameModeBase_h_15_STANDARD_CONSTRUCTORS \
+	Sumteract_UE4_Source_Sumteract_UE4_Sumteract_UE4GameModeBase_h_18_PRIVATE_PROPERTY_OFFSET \
+	Sumteract_UE4_Source_Sumteract_UE4_Sumteract_UE4GameModeBase_h_18_RPC_WRAPPERS \
+	Sumteract_UE4_Source_Sumteract_UE4_Sumteract_UE4GameModeBase_h_18_INCLASS \
+	Sumteract_UE4_Source_Sumteract_UE4_Sumteract_UE4GameModeBase_h_18_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define Sumteract_UE4_Source_Sumteract_UE4_Sumteract_UE4GameModeBase_h_15_GENERATED_BODY \
+#define Sumteract_UE4_Source_Sumteract_UE4_Sumteract_UE4GameModeBase_h_18_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Sumteract_UE4_Source_Sumteract_UE4_Sumteract_UE4GameModeBase_h_15_PRIVATE_PROPERTY_OFFSET \
-	Sumteract_UE4_Source_Sumteract_UE4_Sumteract_UE4GameModeBase_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
-	Sumteract_UE4_Source_Sumteract_UE4_Sumteract_UE4GameModeBase_h_15_INCLASS_NO_PURE_DECLS \
-	Sumteract_UE4_Source_Sumteract_UE4_Sumteract_UE4GameModeBase_h_15_ENHANCED_CONSTRUCTORS \
+	Sumteract_UE4_Source_Sumteract_UE4_Sumteract_UE4GameModeBase_h_18_PRIVATE_PROPERTY_OFFSET \
+	Sumteract_UE4_Source_Sumteract_UE4_Sumteract_UE4GameModeBase_h_18_RPC_WRAPPERS_NO_PURE_DECLS \
+	Sumteract_UE4_Source_Sumteract_UE4_Sumteract_UE4GameModeBase_h_18_INCLASS_NO_PURE_DECLS \
+	Sumteract_UE4_Source_Sumteract_UE4_Sumteract_UE4GameModeBase_h_18_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 

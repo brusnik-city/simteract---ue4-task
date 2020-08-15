@@ -1,0 +1,15 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (D:\simterac-ue4 task\simteract---ue4-task).
+  Parsing headers for Sumteract_UE4Editor
+    Running UnrealHeaderTool "D:\simterac-ue4 task\simteract---ue4-task\Sumteract_UE4\Sumteract_UE4.uproject" "D:\simterac-ue4 task\simteract---ue4-task\Sumteract_UE4\Intermediate\Build\Win64\Sumteract_UE4Editor\Development\Sumteract_UE4Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for Sumteract_UE4Editor in 6,5350143 seconds
+  Using Visual Studio 2017 14.16.27023 toolchain (D:\VisualStudio 2017\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 5 actions with 4 processes...
+    [1/5] Sumteract_UE4GameModeBase.gen.cpp
+    [2/5] Sumteract_UE4GameModeBase.cpp
+    [3/5] UE4Editor-Sumteract_UE4.lib
+       Creating library D:\simterac-ue4 task\simteract---ue4-task\Sumteract_UE4\Intermediate\Build\Win64\UE4Editor\Development\Sumteract_UE4\UE4Editor-Sumteract_UE4.lib and object D:\simterac-ue4 task\simteract---ue4-task\Sumteract_UE4\Intermediate\Build\Win64\UE4Editor\Development\Sumteract_UE4\UE4Editor-Sumteract_UE4.exp
+    [4/5] UE4Editor-Sumteract_UE4.dll
+       Creating library D:\simterac-ue4 task\simteract---ue4-task\Sumteract_UE4\Intermediate\Build\Win64\UE4Editor\Development\Sumteract_UE4\UE4Editor-Sumteract_UE4.suppressed.lib and object D:\simterac-ue4 task\simteract---ue4-task\Sumteract_UE4\Intermediate\Build\Win64\UE4Editor\Development\Sumteract_UE4\UE4Editor-Sumteract_UE4.suppressed.exp
+    [5/5] Sumteract_UE4Editor.target
+  Total time in Parallel executor: 17,86 seconds
+  Total execution time: 25,24 seconds

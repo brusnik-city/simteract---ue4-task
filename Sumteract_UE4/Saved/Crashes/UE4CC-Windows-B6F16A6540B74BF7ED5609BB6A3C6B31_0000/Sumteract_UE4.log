@@ -1,0 +1,1147 @@
+﻿Log file open, 08/15/20 18:59:53
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Sumteract_UE4
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.126099
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.08.15-16.59.53:755][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.08.15-16.59.53:755][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.08.15-16.59.53:755][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/Config/Windows/Engine.ini]
+[2020.08.15-16.59.53:755][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.08.15-16.59.53:755][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.08.15-16.59.53:755][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/Config/Windows/Engine.ini]
+[2020.08.15-16.59.53:755][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/Config/Windows/Engine.ini]
+[2020.08.15-16.59.53:755][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.08.15-16.59.53:755][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.08.15-16.59.53:755][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.08.15-16.59.53:755][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.08.15-16.59.53:755][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.08.15-16.59.53:755][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.08.15-16.59.53:755][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.08.15-16.59.53:755][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.08.15-16.59.53:755][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.08.15-16.59.53:755][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.08.15-16.59.53:755][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.08.15-16.59.53:755][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.08.15-16.59.53:755][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.08.15-16.59.53:755][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/Config/Windows/Engine.ini]
+[2020.08.15-16.59.53:755][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.08.15-16.59.53:755][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.08.15-16.59.53:755][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.08.15-16.59.53:755][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.08.15-16.59.53:755][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.08.15-16.59.53:755][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.08.15-16.59.53:755][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.08.15-16.59.53:755][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.08.15-16.59.53:755][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.08.15-16.59.53:755][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.08.15-16.59.53:755][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.08.15-16.59.53:755][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.08.15-16.59.53:755][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.08.15-16.59.53:756][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/Config/Windows/Engine.ini]
+[2020.08.15-16.59.53:756][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/Config/Windows/Engine.ini]
+[2020.08.15-16.59.53:758][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/Config/Windows/Scalability.ini]
+[2020.08.15-16.59.53:758][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.08.15-16.59.53:758][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.08.15-16.59.53:758][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/Config/Windows/Scalability.ini]
+[2020.08.15-16.59.53:758][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.08.15-16.59.53:758][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/Config/Windows/Scalability.ini]
+[2020.08.15-16.59.53:758][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.08.15-16.59.53:759][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.08.15-16.59.53:759][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.08.15-16.59.53:759][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.08.15-16.59.53:759][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.08.15-16.59.53:759][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.08.15-16.59.53:759][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.08.15-16.59.53:759][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.08.15-16.59.53:759][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.08.15-16.59.53:759][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.08.15-16.59.53:759][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.08.15-16.59.53:759][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.08.15-16.59.53:759][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.08.15-16.59.53:759][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.08.15-16.59.53:759][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.08.15-16.59.53:759][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.08.15-16.59.53:759][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.08.15-16.59.53:759][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.08.15-16.59.53:759][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/Config/Windows/Scalability.ini]
+[2020.08.15-16.59.53:759][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.08.15-16.59.53:759][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.08.15-16.59.53:759][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.08.15-16.59.53:759][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.08.15-16.59.53:759][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.08.15-16.59.53:759][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.08.15-16.59.53:759][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.08.15-16.59.53:759][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.08.15-16.59.53:759][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.08.15-16.59.53:759][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.08.15-16.59.53:759][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.08.15-16.59.53:759][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.08.15-16.59.53:759][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.08.15-16.59.53:759][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.08.15-16.59.53:759][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.08.15-16.59.53:759][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.08.15-16.59.53:759][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.08.15-16.59.53:759][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.08.15-16.59.53:759][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.08.15-16.59.53:759][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.08.15-16.59.53:759][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.08.15-16.59.53:759][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.08.15-16.59.53:759][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.08.15-16.59.53:759][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.08.15-16.59.53:759][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.08.15-16.59.53:759][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.08.15-16.59.53:759][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.08.15-16.59.53:759][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.08.15-16.59.53:759][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.08.15-16.59.53:759][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.08.15-16.59.53:759][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/Config/Windows/Scalability.ini]
+[2020.08.15-16.59.53:759][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.08.15-16.59.53:759][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.08.15-16.59.53:759][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.08.15-16.59.53:759][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.08.15-16.59.53:759][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.08.15-16.59.53:759][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.08.15-16.59.53:759][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.08.15-16.59.53:759][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.08.15-16.59.53:760][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/Config/Windows/Scalability.ini]
+[2020.08.15-16.59.53:760][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.08.15-16.59.53:760][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.08.15-16.59.53:760][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.08.15-16.59.53:760][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.08.15-16.59.53:760][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.08.15-16.59.53:760][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.08.15-16.59.53:760][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.08.15-16.59.53:760][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.08.15-16.59.53:760][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.08.15-16.59.53:760][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.08.15-16.59.53:760][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.08.15-16.59.53:760][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.08.15-16.59.53:760][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.08.15-16.59.53:760][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/Config/Windows/Scalability.ini]
+[2020.08.15-16.59.53:760][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.08.15-16.59.53:760][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.08.15-16.59.53:760][  0]LogInit: Selected Device Profile: [Windows]
+[2020.08.15-16.59.53:760][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.08.15-16.59.53:765][  0]LogHAL: Display: Platform has ~ 8 GB [8459030528 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.08.15-16.59.53:765][  0]LogInit: Going up to parent DeviceProfile []
+[2020.08.15-16.59.53:765][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/Config/Windows/Scalability.ini]
+[2020.08.15-16.59.53:766][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.08.15-16.59.53:766][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.08.15-16.59.53:766][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/Config/Windows/Scalability.ini]
+[2020.08.15-16.59.53:766][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.08.15-16.59.53:766][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/Config/Windows/Scalability.ini]
+[2020.08.15-16.59.53:766][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.08.15-16.59.53:766][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.08.15-16.59.53:766][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.08.15-16.59.53:766][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.08.15-16.59.53:766][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.08.15-16.59.53:766][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.08.15-16.59.53:766][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.08.15-16.59.53:766][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.08.15-16.59.53:766][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.08.15-16.59.53:766][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.08.15-16.59.53:766][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.08.15-16.59.53:766][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.08.15-16.59.53:766][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.08.15-16.59.53:766][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.08.15-16.59.53:766][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.08.15-16.59.53:766][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.08.15-16.59.53:766][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.08.15-16.59.53:766][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.08.15-16.59.53:766][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/Config/Windows/Scalability.ini]
+[2020.08.15-16.59.53:766][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.08.15-16.59.53:766][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.08.15-16.59.53:766][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.08.15-16.59.53:766][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.08.15-16.59.53:766][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.08.15-16.59.53:766][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.08.15-16.59.53:766][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.08.15-16.59.53:766][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.08.15-16.59.53:766][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.08.15-16.59.53:766][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.08.15-16.59.53:766][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.08.15-16.59.53:766][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.08.15-16.59.53:766][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.08.15-16.59.53:766][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.08.15-16.59.53:766][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.08.15-16.59.53:766][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.08.15-16.59.53:766][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.08.15-16.59.53:766][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.08.15-16.59.53:766][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.08.15-16.59.53:766][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.08.15-16.59.53:766][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.08.15-16.59.53:766][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.08.15-16.59.53:766][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.08.15-16.59.53:766][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.08.15-16.59.53:766][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.08.15-16.59.53:766][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.08.15-16.59.53:766][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.08.15-16.59.53:766][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.08.15-16.59.53:766][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.08.15-16.59.53:766][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.08.15-16.59.53:766][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/Config/Windows/Scalability.ini]
+[2020.08.15-16.59.53:766][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.08.15-16.59.53:766][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.08.15-16.59.53:766][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.08.15-16.59.53:766][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.08.15-16.59.53:766][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.08.15-16.59.53:767][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.08.15-16.59.53:767][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.08.15-16.59.53:767][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.08.15-16.59.53:767][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/Config/Windows/Scalability.ini]
+[2020.08.15-16.59.53:767][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.08.15-16.59.53:767][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.08.15-16.59.53:767][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.08.15-16.59.53:767][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.08.15-16.59.53:767][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.08.15-16.59.53:767][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.08.15-16.59.53:767][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.08.15-16.59.53:767][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.08.15-16.59.53:767][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.08.15-16.59.53:767][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.08.15-16.59.53:767][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.08.15-16.59.53:767][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.08.15-16.59.53:767][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.08.15-16.59.53:767][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/Config/Windows/Scalability.ini]
+[2020.08.15-16.59.53:767][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.08.15-16.59.53:767][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.08.15-16.59.53:767][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.08.15-16.59.53:767][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.08.15-16.59.53:767][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.08.15-16.59.53:767][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/Config/Windows/Engine.ini]
+[2020.08.15-16.59.53:767][  0]LogInit: Computer: DESKTOP-HGEI2AA
+[2020.08.15-16.59.53:767][  0]LogInit: User: bru
+[2020.08.15-16.59.53:767][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.08.15-16.59.53:767][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.08.15-16.59.53:768][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.08.15-16.59.53:768][  0]LogMemory: Platform Memory Stats for Windows
+[2020.08.15-16.59.53:768][  0]LogMemory: Process Physical Memory: 99.57 MB used, 99.58 MB peak
+[2020.08.15-16.59.53:768][  0]LogMemory: Process Virtual Memory: 98.32 MB used, 98.32 MB peak
+[2020.08.15-16.59.53:768][  0]LogMemory: Physical Memory: 5679.39 MB used,  2387.77 MB free, 8067.16 MB total
+[2020.08.15-16.59.53:768][  0]LogMemory: Virtual Memory: 4653.98 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2020.08.15-16.59.53:771][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.08.15-16.59.53:807][  0]LogInit: Using OS detected language (pl-PL).
+[2020.08.15-16.59.53:807][  0]LogInit: Using OS detected locale (pl-PL).
+[2020.08.15-16.59.53:809][  0]LogTextLocalizationManager: No specific localization for 'pl-PL' exists, so the 'pl' localization will be used.
+[2020.08.15-16.59.53:811][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/pl/Editor.locres' could not be opened for reading!
+[2020.08.15-16.59.53:811][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/pl/EditorTutorials.locres' could not be opened for reading!
+[2020.08.15-16.59.53:812][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/pl/Keywords.locres' could not be opened for reading!
+[2020.08.15-16.59.53:812][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/pl/Category.locres' could not be opened for reading!
+[2020.08.15-16.59.53:812][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/pl/ToolTips.locres' could not be opened for reading!
+[2020.08.15-16.59.53:813][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/pl/PropertyNames.locres' could not be opened for reading!
+[2020.08.15-16.59.53:813][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/pl/Engine.locres' could not be opened for reading!
+[2020.08.15-16.59.53:814][  0]LogInit: Setting process to per monitor DPI aware
+[2020.08.15-16.59.53:849][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.08.15-16.59.53:849][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.08.15-16.59.54:230][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.08.15-16.59.54:230][  0]LogD3D11RHI: D3D11 adapters:
+[2020.08.15-16.59.54:292][  0]LogD3D11RHI:    0. 'AMD Radeon(TM) RX 560' (Feature Level 11_0)
+[2020.08.15-16.59.54:292][  0]LogD3D11RHI:       4044/0/4033 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2020.08.15-16.59.54:310][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2020.08.15-16.59.54:310][  0]LogD3D11RHI:       128/0/4033 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.08.15-16.59.54:317][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.08.15-16.59.54:317][  0]LogD3D11RHI:       0/0/4033 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.08.15-16.59.54:317][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.08.15-16.59.54:327][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.08.15-16.59.54:329][  0]LogD3D11RHI:     GPU DeviceId: 0x67ef (for the marketing name, search the web for "GPU Device Id")
+[2020.08.15-16.59.54:329][  0]LogWindows: EnumDisplayDevices:
+[2020.08.15-16.59.54:329][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2020.08.15-16.59.54:329][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.08.15-16.59.54:329][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.08.15-16.59.54:329][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.08.15-16.59.54:329][  0]LogD3D11RHI:     Adapter Name: AMD Radeon(TM) RX 560
+[2020.08.15-16.59.54:329][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.08.15-16.59.54:329][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.08.15-16.59.54:329][  0]LogRHI: Texture pool is 2831 MB (70% of 4044 MB)
+[2020.08.15-16.59.54:388][  0]LogD3D11RHI: Async texture creation enabled
+[2020.08.15-16.59.54:411][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2020.08.15-16.59.54:998][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.08.15-16.59.55:007][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.08.15-16.59.55:019][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.08.15-16.59.55:031][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.08.15-16.59.55:041][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.08.15-16.59.55:052][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.08.15-16.59.55:065][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.08.15-16.59.55:074][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.08.15-16.59.55:081][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.08.15-16.59.55:129][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.08.15-16.59.55:129][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.08.15-16.59.55:129][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.08.15-16.59.55:129][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.08.15-16.59.55:129][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.08.15-16.59.55:129][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.08.15-16.59.55:129][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.08.15-16.59.55:129][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.08.15-16.59.55:129][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.08.15-16.59.55:129][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.08.15-16.59.55:129][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.08.15-16.59.55:129][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.08.15-16.59.55:129][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.08.15-16.59.55:129][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.08.15-16.59.55:129][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.08.15-16.59.55:129][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.08.15-16.59.55:129][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.08.15-16.59.55:129][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.08.15-16.59.55:132][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.08.15-16.59.55:155][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.08.15-16.59.55:155][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.08.15-16.59.55:173][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.08.15-16.59.55:173][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.08.15-16.59.55:185][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.08.15-16.59.55:196][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.08.15-16.59.55:207][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.08.15-16.59.55:220][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.08.15-16.59.55:254][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.08.15-16.59.55:254][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.08.15-16.59.55:254][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.08.15-16.59.55:268][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.08.15-16.59.55:335][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Intermediate/Shaders/WorkingDirectory/5436/).
+[2020.08.15-16.59.55:336][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/bru/AppData/Local/Temp/UnrealShaderWorkingDir/7CAAF3F645A0D1C8FBD5A9BE7D04C5DB/'.
+[2020.08.15-16.59.55:338][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.08.15-16.59.55:338][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.08.15-16.59.55:338][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.08.15-16.59.56:391][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.08.15-16.59.56:562][  0]LogDerivedDataCache: Loaded boot cache 0.17s 73MB C:/Users/bru/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.08.15-16.59.56:562][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/bru/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.08.15-16.59.56:562][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.08.15-16.59.56:562][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.08.15-16.59.56:562][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.08.15-16.59.56:562][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.08.15-16.59.56:579][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.08.15-16.59.56:579][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.08.15-16.59.56:579][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.08.15-16.59.56:581][  0]LogDerivedDataCache: Using Local data cache path C:/Users/bru/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.08.15-16.59.56:581][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.08.15-16.59.56:581][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.08.15-16.59.56:612][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.08.15-16.59.56:614][  0]LogSlate: Using FreeType 2.6.0
+[2020.08.15-16.59.56:615][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.08.15-16.59.56:770][  0]LogAssetRegistry: FAssetRegistry took 0.0158 seconds to start up
+[2020.08.15-16.59.57:163][  0]LogInit: Selected Device Profile: [Windows]
+[2020.08.15-16.59.57:381][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.08.15-16.59.57:381][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.08.15-16.59.57:381][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.08.15-16.59.57:381][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.08.15-16.59.57:381][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.08.15-16.59.57:391][  0]LogNetVersion: Sumteract_UE4 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2866633504)
+[2020.08.15-16.59.57:995][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.053637 seconds
+[2020.08.15-16.59.58:005][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2020.08.15-16.59.58:005][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2020.08.15-16.59.58:005][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.08.15-16.59.59:996][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.08.15-17.00.00:038][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.08.15-17.00.00:161][  0]SourceControl: Source control is disabled
+[2020.08.15-17.00.00:161][  0]SourceControl: Source control is disabled
+[2020.08.15-17.00.00:164][  0]SourceControl: Source control is disabled
+[2020.08.15-17.00.00:166][  0]SourceControl: Source control is disabled
+[2020.08.15-17.00.00:321][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.08.15-17.00.00:543][  0]LogOcInput: OculusInput pre-init called
+[2020.08.15-17.00.00:551][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.08.15-17.00.00:551][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.08.15-17.00.00:640][  0]LogEngine: Initializing Engine...
+[2020.08.15-17.00.00:641][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.08.15-17.00.00:642][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.08.15-17.00.00:987][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.08.15-17.00.01:009][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.08.15-17.00.01:056][  0]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.08.15-17.00.01:100][  0]LogInit: FAudioDevice initialized.
+[2020.08.15-17.00.01:100][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.08.15-17.00.01:213][  0]LogDerivedDataCache: Saved boot cache 0.11s 73MB C:/Users/bru/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.08.15-17.00.01:217][  0]LogInit: Texture streaming: Enabled
+[2020.08.15-17.00.01:247][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.08.15-17.00.01:298][  0]LogInit: Transaction tracking system initialized
+[2020.08.15-17.00.01:337][  0]BlueprintLog: New page: Editor Load
+[2020.08.15-17.00.01:447][  0]LocalizationService: Localization service is disabled
+[2020.08.15-17.00.01:746][  0]LogFileCache: Scanning file cache for directory 'D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/' took 0.00s
+[2020.08.15-17.00.01:746][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.08.15-17.00.01:746][  0]LogCook: Display: Mobile HDR setting 1
+[2020.08.15-17.00.01:987][  0]SourceControl: Source control is disabled
+[2020.08.15-17.00.01:987][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.08.15-17.00.01:987][  0]LightingResults: New page: Lighting Build
+[2020.08.15-17.00.01:990][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.08.15-17.00.01:991][  0]MapCheck: New page: Map Check
+[2020.08.15-17.00.01:991][  0]LightingResults: New page: Lighting Build
+[2020.08.15-17.00.02:035][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.08.15-17.00.02:121][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2020.08.15-17.00.02:127][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.08.15-17.00.02:157][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2020.08.15-17.00.02:158][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.15-17.00.02:158][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,131ms to complete.
+[2020.08.15-17.00.02:158][  0]LogFileHelpers: Loading map 'Template_Default' took 0.171
+[2020.08.15-17.00.02:288][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.15-17.00.02:296][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.15-17.00.02:304][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.15-17.00.02:313][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.15-17.00.02:325][  0]LogCollectionManager: Loaded 0 collections in 0.001004 seconds
+[2020.08.15-17.00.02:358][  0]LogFileCache: Scanning file cache for directory 'D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/Collections/' took 0.00s
+[2020.08.15-17.00.02:358][  0]LogFileCache: Scanning file cache for directory 'D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/Developers/bru/Collections/' took 0.00s
+[2020.08.15-17.00.02:358][  0]LogFileCache: Scanning file cache for directory 'D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/Collections/' took 0.00s
+[2020.08.15-17.00.02:358][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000003 seconds
+[2020.08.15-17.00.02:373][  0]LogContentBrowser: Native class hierarchy populated in 0.0108 seconds. Added 2864 classes and 682 folders.
+[2020.08.15-17.00.02:398][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.08.15-17.00.02:566][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.08.15-17.00.02:579][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.08.15-17.00.02:737][  0]LogSlate: Took 0.000706 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.08.15-17.00.02:739][  0]LogSlate: Took 0.000725 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.08.15-17.00.02:748][  0]LogSlate: Took 0.000597 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.08.15-17.00.02:830][  0]LogRenderer: Reallocating scene render targets to support 1200x512 Format 10 NumSamples 1 (Frame:1).
+[2020.08.15-17.00.03:451][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.08.15-17.00.03:451][  0]LogLoad: (Engine Initialization) Total time: 11.15 seconds
+[2020.08.15-17.00.03:451][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.08.15-17.00.03:510][  0]LogAssetRegistry: Asset discovery search completed in 6.7541 seconds
+[2020.08.15-17.00.03:515][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000006 seconds (found 0 objects)
+[2020.08.15-17.00.03:515][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000076 seconds (updated 0 objects)
+[2020.08.15-17.00.03:517][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.08.15-17.00.03:534][  0]LogSlate: Took 0.000824 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.08.15-17.00.10:847][100]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.08.15-17.00.11:033][102]LogD3D11RHI: Error: agsDriverExtensionsDX11_SetDepthBounds(1,0.000000, 1.000000) returned error code 6. **********PLEASE UPDATE YOUR VIDEO DRIVERS*********
+[2020.08.15-17.00.12:770][172]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.08.15-17.00.12:791][172]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.08.15-17.00.18:139][389]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.15-17.00.18:411][405]LogActorFactory: Actor Factory created Plane
+[2020.08.15-17.00.20:093][503]LogActorFactory: Actor Factory created Plane
+[2020.08.15-17.00.21:956][599]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.15-17.00.48:006][  8]LogSlate: Took 0.000845 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.08.15-17.00.48:582][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.15-17.01.01:580][662]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.08.15-17.01.02:117][691]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.08.15-17.01.11:746][196]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.08.15-17.01.17:198][414]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.08.15-17.01.28:771][ 71]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.08.15-17.01.29:950][134]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.08.15-17.01.33:713][351]Cmd: TRANSACTION UNDO
+[2020.08.15-17.01.33:714][351]LogEditorTransaction: Undo Move Actors
+[2020.08.15-17.01.34:920][418]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.08.15-17.01.35:807][467]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2020.08.15-17.01.37:945][590]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.08.15-17.01.40:288][726]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.08.15-17.01.41:245][779]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.15-17.01.41:331][784]LogTemp: Repeating last play command: Selected Viewport
+[2020.08.15-17.01.41:338][784]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2020.08.15-17.01.41:340][784]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.08.15-17.01.41:345][784]PIE: New page: PIE session: Untitled_1 (15 sie 2020, 21:01:41)
+[2020.08.15-17.01.41:347][784]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.08.15-17.01.41:349][784]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2020.08.15-17.01.41:354][784]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004436s)
+[2020.08.15-17.01.41:355][784]LogAIModule: Creating AISystem for world Untitled_1
+[2020.08.15-17.01.41:356][784]LogPlayLevel: PIE: World Init took: (0.001912s)
+[2020.08.15-17.01.41:356][784]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.006689s)
+[2020.08.15-17.01.41:382][784]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2020.08.15-17.01.41:397][784]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.08.15-17.01.41:417][784]LogInit: FAudioDevice initialized.
+[2020.08.15-17.01.41:429][784]LogLoad: Game class is 'GameModeBase'
+[2020.08.15-17.01.41:436][784]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2020.08.15-19.01.41
+[2020.08.15-17.01.41:437][784]LogWorld: Bringing up level for play took: 0.001644
+[2020.08.15-17.01.41:439][784]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2020.08.15-17.01.41:460][784]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2020.08.15-17.01.41:467][784]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0,494
+[2020.08.15-17.01.41:467][784]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2020.08.15-17.01.42:874][862]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2020.08.15-17.01.42:875][862]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.15-17.01.42:876][862]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2020.08.15-17.01.42:876][862]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.08.15-17.01.42:887][862]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.08.15-17.01.42:888][862]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2020.08.15-17.01.42:918][862]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.15-17.01.42:921][862]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2020.08.15-17.01.42:983][865]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.08.15-17.01.49:252][234]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.08.15-17.02.05:422][234]LogSlate: Window 'Save Level As' being destroyed
+[2020.08.15-17.02.05:440][234]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.08.15-17.02.05:500][234]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2020.08.15-17.02.05:503][234]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/Traffic" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/levels/Traffic.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.15-17.02.05:533][234]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2020.08.15-17.02.05:670][234]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/Traffic2C7F1A764D85ED5AB49A19971A71C7AB.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/levels/Traffic.umap'
+[2020.08.15-17.02.05:683][234]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/Traffic_BuiltData" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/levels/Traffic_BuiltData.uasset" SILENT=true
+[2020.08.15-17.02.05:695][234]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/Traffic_BuiltDataA35003A641192DADA39C268B4104D5A7.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/levels/Traffic_BuiltData.uasset'
+[2020.08.15-17.02.05:702][234]LogFileHelpers: Saving map 'Traffic' took 0.274
+[2020.08.15-17.02.06:912][301]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.15-17.02.07:503][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/Traffic" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/levels/Traffic.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.15-17.02.07:530][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.08.15-17.02.07:636][335]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/Traffic69DE5DD34762D9E7960896AB7BD87604.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/levels/Traffic.umap'
+[2020.08.15-17.02.07:645][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/Traffic_BuiltData" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/levels/Traffic_BuiltData.uasset" SILENT=true
+[2020.08.15-17.02.07:657][335]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/Traffic_BuiltData2A7C1F974F3FDC91C566439E0D25F4AA.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/levels/Traffic_BuiltData.uasset'
+[2020.08.15-17.02.09:699][452]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.08.15-17.03.16:140][292]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.08.15-17.03.16:157][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/Traffic" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/levels/Traffic.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.08.15-17.03.16:186][292]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2020.08.15-17.03.16:290][292]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/Traffic10FC311644A1D92079BC27B10C591709.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/levels/Traffic.umap'
+[2020.08.15-17.03.16:299][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/Traffic_BuiltData" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/levels/Traffic_BuiltData.uasset" SILENT=true
+[2020.08.15-17.03.16:307][292]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/Traffic_BuiltData231F95914C8C71062D79548FDF926233.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/levels/Traffic_BuiltData.uasset'
+[2020.08.15-17.11.24:548][203]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.15-17.12.00:605][272]LogSlate: Took 0.012027 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.08.15-17.12.28:895][938]Candidate modules for hot reload:
+[2020.08.15-17.12.28:895][938]  Sumteract_UE4
+[2020.08.15-17.12.28:895][938]Launching UnrealBuildTool... [D:/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Sumteract_UE4,826 Win64 Development -TargetType=Editor -Project="D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Sumteract_UE4.uproject" "D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Sumteract_UE4.uproject"  -IgnoreJunk]
+[2020.08.15-17.12.49:078][938]CompilerResultsLog: New page: Compilation - 15 sie 2020, 21:12:49
+[2020.08.15-17.12.49:078][938]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\simterac-ue4 task\simteract---ue4-task).
+[2020.08.15-17.12.49:078][938]CompilerResultsLog: Creating makefile for Sumteract_UE4Editor (.uproject file is newer)
+[2020.08.15-17.12.49:078][938]CompilerResultsLog: Parsing headers for Sumteract_UE4Editor
+[2020.08.15-17.12.49:078][938]CompilerResultsLog:   Running UnrealHeaderTool "D:\simterac-ue4 task\simteract---ue4-task\Sumteract_UE4\Sumteract_UE4.uproject" "D:\simterac-ue4 task\simteract---ue4-task\Sumteract_UE4\Intermediate\Build\Win64\Sumteract_UE4Editor\Development\Sumteract_UE4Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.08.15-17.12.49:078][938]CompilerResultsLog: Reflection code generated for Sumteract_UE4Editor in 7,8722939 seconds
+[2020.08.15-17.12.49:078][938]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (D:\VisualStudio 2017\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.08.15-17.12.49:078][938]CompilerResultsLog: Building 9 actions with 4 processes...
+[2020.08.15-17.12.49:079][938]CompilerResultsLog:   [1/9] Car.cpp
+[2020.08.15-17.12.49:079][938]CompilerResultsLog:   [2/9] Sumteract_UE4.cpp
+[2020.08.15-17.12.49:079][938]CompilerResultsLog:   [3/9] Sumteract_UE4GameModeBase.cpp
+[2020.08.15-17.12.49:079][938]CompilerResultsLog:   [4/9] Car.gen.cpp
+[2020.08.15-17.12.49:079][938]CompilerResultsLog:   [5/9] Sumteract_UE4.init.gen.cpp
+[2020.08.15-17.12.49:079][938]CompilerResultsLog:   [6/9] Sumteract_UE4GameModeBase.gen.cpp
+[2020.08.15-17.12.49:079][938]CompilerResultsLog:   [7/9] UE4Editor-Sumteract_UE4-0826.lib
+[2020.08.15-17.12.49:079][938]CompilerResultsLog:      Creating library D:\simterac-ue4 task\simteract---ue4-task\Sumteract_UE4\Intermediate\Build\Win64\UE4Editor\Development\Sumteract_UE4\UE4Editor-Sumteract_UE4-0826.lib and object D:\simterac-ue4 task\simteract---ue4-task\Sumteract_UE4\Intermediate\Build\Win64\UE4Editor\Development\Sumteract_UE4\UE4Editor-Sumteract_UE4-0826.exp
+[2020.08.15-17.12.49:079][938]CompilerResultsLog:   [8/9] UE4Editor-Sumteract_UE4-0826.dll
+[2020.08.15-17.12.49:079][938]CompilerResultsLog:      Creating library D:\simterac-ue4 task\simteract---ue4-task\Sumteract_UE4\Intermediate\Build\Win64\UE4Editor\Development\Sumteract_UE4\UE4Editor-Sumteract_UE4-0826.suppressed.lib and object D:\simterac-ue4 task\simteract---ue4-task\Sumteract_UE4\Intermediate\Build\Win64\UE4Editor\Development\Sumteract_UE4\UE4Editor-Sumteract_UE4-0826.suppressed.exp
+[2020.08.15-17.12.49:079][938]CompilerResultsLog:   [9/9] Sumteract_UE4Editor.target
+[2020.08.15-17.12.49:079][938]CompilerResultsLog: Total time in Parallel executor: 9,67 seconds
+[2020.08.15-17.12.49:079][938]CompilerResultsLog: Total execution time: 20,04 seconds
+[2020.08.15-17.12.49:079][938]LogMainFrame: MainFrame: Module compiling took 20.190 seconds
+[2020.08.15-17.12.49:121][938]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.08.15-17.12.49:139][938]LogContentBrowser: Native class hierarchy populated in 0.0110 seconds. Added 2865 classes and 684 folders.
+[2020.08.15-17.12.49:142][938]Display: HotReload took 20.3s.
+[2020.08.15-17.12.49:144][938]Warning: HotReload operation took 20.3s.
+[2020.08.15-17.12.50:991][938]LogVSAccessor: Warning: Couldn't goto line number '1' in 'D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Source/Sumteract_UE4/Car.h'
+[2020.08.15-17.12.51:187][938]LogSlate: Window 'Add C++ Class' being destroyed
+[2020.08.15-17.12.51:209][938]LogHotReload: New module detected: UE4Editor-Sumteract_UE4-0826.dll
+[2020.08.15-17.12.51:327][939]LogHotReload: Starting Hot-Reload from IDE
+[2020.08.15-17.12.51:424][939]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.08.15-17.12.51:434][939]LogClass: Could not find existing class Car in package /Script/Sumteract_UE4 for HotReload, assuming new class
+[2020.08.15-17.12.51:439][939]LogContentBrowser: Native class hierarchy updated for 'Sumteract_UE4' in 0.0006 seconds. Added 2 classes and 2 folders.
+[2020.08.15-17.12.51:442][939]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.08.15-17.12.51:513][939]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.08.15-17.12.51:527][939]LogContentBrowser: Native class hierarchy populated in 0.0091 seconds. Added 2866 classes and 684 folders.
+[2020.08.15-17.12.51:530][939]Display: HotReload took  0.2s.
+[2020.08.15-17.13.39:021][129]LogHotReload: New module detected: UE4Editor-Sumteract_UE4-0002.dll
+[2020.08.15-17.13.40:048][133]LogHotReload: Starting Hot-Reload from IDE
+[2020.08.15-17.13.40:097][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.08.15-17.13.40:113][133]LogContentBrowser: Native class hierarchy updated for 'Sumteract_UE4' in 0.0004 seconds. Added 2 classes and 2 folders.
+[2020.08.15-17.13.40:116][133]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.08.15-17.13.40:182][133]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2020.08.15-17.13.40:196][133]LogContentBrowser: Native class hierarchy populated in 0.0089 seconds. Added 2866 classes and 684 folders.
+[2020.08.15-17.13.40:199][133]Display: HotReload took  0.2s.
+[2020.08.15-17.41.08:288][538]LogHotReload: New module detected: UE4Editor-Sumteract_UE4-0003.dll
+[2020.08.15-17.41.09:332][542]LogHotReload: Starting Hot-Reload from IDE
+[2020.08.15-17.41.09:420][542]LogUObjectHash: Compacting FUObjectHashTables data took   5.42ms
+[2020.08.15-17.41.09:436][542]LogClass: Could not find existing class Car in package /Script/Sumteract_UE4 for HotReload, assuming new class
+[2020.08.15-17.41.09:443][542]LogHotReload: Re-instancing Car after hot-reload.
+[2020.08.15-17.41.09:563][542]LogContentBrowser: Native class hierarchy updated for 'Sumteract_UE4' in 0.0012 seconds. Added 2 classes and 2 folders.
+[2020.08.15-17.41.09:566][542]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.08.15-17.41.09:631][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2020.08.15-17.41.09:649][542]LogContentBrowser: Native class hierarchy populated in 0.0115 seconds. Added 2866 classes and 684 folders.
+[2020.08.15-17.41.09:651][542]Display: HotReload took  0.3s.
+[2020.08.15-17.41.16:185][836]LogEditor: Attempting to add actor of class 'Car' to level at -490.00,-200.00,20.00
+[2020.08.15-17.41.16:666][860]LogEditor: Attempting to add actor of class 'Car' to level at -370.00,-220.00,20.00
+[2020.08.15-17.41.19:242][ 10]Cmd: DELETE
+[2020.08.15-17.41.19:242][ 10]Cmd: ACTOR DELETE
+[2020.08.15-17.41.19:264][ 10]LogEditorActor: Deleted Actor: Car
+[2020.08.15-17.41.19:290][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.08.15-17.41.19:290][ 10]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2020.08.15-17.41.46:120][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.08.15-17.41.46:252][238]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/Traffic_Auto15684A53548638E0CC1FEFFB3F67F3A12.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/Autosaves/Game/levels/Traffic_Auto1.umap'
+[2020.08.15-17.41.46:255][238]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/levels/Traffic' took 0.162
+[2020.08.15-17.41.46:255][238]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.162
+[2020.08.15-17.47.28:339][260]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.08.15-17.48.18:345][256]LogWindows: LaunchURL http://docs.unrealengine.com/latest/POL/Engine/Actors/StaticMeshActor/index.html?utm_source=editor&utm_medium=docs&utm_campaign=doc_anchors
+[2020.08.15-17.55.49:973][832]AssetReimport: New page: Outstanding source content changes 21:55:49
+[2020.08.15-17.55.49:980][832]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/Chevrolet Camaro.fbx)
+[2020.08.15-17.55.50:018][832]LogFbx: Loading FBX Scene from D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/Chevrolet Camaro.fbx
+[2020.08.15-17.55.50:054][832]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.15-17.55.51:410][832]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.08.15-17.55.51:864][832]LogStaticMesh: Building static mesh Chevrolet_Camaro_Cube...
+[2020.08.15-17.55.51:911][832]LogStaticMesh: Built static mesh [0.05s] /Game/meshes/Chevrolet_Camaro_Cube.Chevrolet_Camaro_Cube
+[2020.08.15-17.55.52:013][832]LogStaticMesh: Building static mesh Chevrolet_Camaro_Cylinder_002...
+[2020.08.15-17.55.52:026][832]LogStaticMesh: Built static mesh [0.01s] /Game/meshes/Chevrolet_Camaro_Cylinder_002.Chevrolet_Camaro_Cylinder_002
+[2020.08.15-17.55.52:142][832]LogStaticMesh: Building static mesh Chevrolet_Camaro_Vidro...
+[2020.08.15-17.55.52:156][832]LogStaticMesh: Built static mesh [0.01s] /Game/meshes/Chevrolet_Camaro_Vidro.Chevrolet_Camaro_Vidro
+[2020.08.15-17.55.52:177][832]LogStaticMesh: Building static mesh Chevrolet_Camaro_Cube_002...
+[2020.08.15-17.55.52:179][832]LogStaticMesh: Built static mesh [0.00s] /Game/meshes/Chevrolet_Camaro_Cube_002.Chevrolet_Camaro_Cube_002
+[2020.08.15-17.55.52:193][832]LogStaticMesh: Building static mesh Chevrolet_Camaro_Cube_001...
+[2020.08.15-17.55.52:194][832]LogStaticMesh: Built static mesh [0.00s] /Game/meshes/Chevrolet_Camaro_Cube_001.Chevrolet_Camaro_Cube_001
+[2020.08.15-17.55.52:215][832]LogStaticMesh: Building static mesh Chevrolet_Camaro_Cylinder_001...
+[2020.08.15-17.55.52:219][832]LogStaticMesh: Built static mesh [0.00s] /Game/meshes/Chevrolet_Camaro_Cylinder_001.Chevrolet_Camaro_Cylinder_001
+[2020.08.15-17.55.52:243][832]LogStaticMesh: Building static mesh Chevrolet_Camaro_Cylinder...
+[2020.08.15-17.55.52:246][832]LogStaticMesh: Built static mesh [0.00s] /Game/meshes/Chevrolet_Camaro_Cylinder.Chevrolet_Camaro_Cylinder
+[2020.08.15-17.55.52:267][832]LogStaticMesh: Building static mesh Chevrolet_Camaro_Maneta...
+[2020.08.15-17.55.52:269][832]LogStaticMesh: Built static mesh [0.00s] /Game/meshes/Chevrolet_Camaro_Maneta.Chevrolet_Camaro_Maneta
+[2020.08.15-17.55.52:352][832]LogStaticMesh: Building static mesh Chevrolet_Camaro_Frente...
+[2020.08.15-17.55.52:358][832]LogStaticMesh: Built static mesh [0.01s] /Game/meshes/Chevrolet_Camaro_Frente.Chevrolet_Camaro_Frente
+[2020.08.15-17.55.53:708][832]LogStaticMesh: Building static mesh Chevrolet_Camaro_Farol...
+[2020.08.15-17.55.53:886][832]LogStaticMesh: Built static mesh [0.18s] /Game/meshes/Chevrolet_Camaro_Farol.Chevrolet_Camaro_Farol
+[2020.08.15-17.55.54:032][832]LogStaticMesh: Building static mesh Chevrolet_Camaro_Plane...
+[2020.08.15-17.55.54:032][832]LogStaticMesh: Built static mesh [0.00s] /Game/meshes/Chevrolet_Camaro_Plane.Chevrolet_Camaro_Plane
+[2020.08.15-17.55.54:172][832]LogStaticMesh: Building static mesh Chevrolet_Camaro_pneu_001...
+[2020.08.15-17.55.54:187][832]LogStaticMesh: Built static mesh [0.02s] /Game/meshes/Chevrolet_Camaro_pneu_001.Chevrolet_Camaro_pneu_001
+[2020.08.15-17.55.54:287][832]LogStaticMesh: Building static mesh Chevrolet_Camaro_aro_001...
+[2020.08.15-17.55.54:298][832]LogStaticMesh: Built static mesh [0.01s] /Game/meshes/Chevrolet_Camaro_aro_001.Chevrolet_Camaro_aro_001
+[2020.08.15-17.55.54:365][832]LogStaticMesh: Building static mesh Chevrolet_Camaro_aro...
+[2020.08.15-17.55.54:377][832]LogStaticMesh: Built static mesh [0.01s] /Game/meshes/Chevrolet_Camaro_aro.Chevrolet_Camaro_aro
+[2020.08.15-17.55.54:519][832]LogStaticMesh: Building static mesh Chevrolet_Camaro_pneu...
+[2020.08.15-17.55.54:534][832]LogStaticMesh: Built static mesh [0.01s] /Game/meshes/Chevrolet_Camaro_pneu.Chevrolet_Camaro_pneu
+[2020.08.15-17.55.54:711][832]LogStaticMesh: Building static mesh Chevrolet_Camaro_Portas...
+[2020.08.15-17.55.54:727][832]LogStaticMesh: Built static mesh [0.02s] /Game/meshes/Chevrolet_Camaro_Portas.Chevrolet_Camaro_Portas
+[2020.08.15-17.55.55:238][832]LogStaticMesh: Building static mesh Chevrolet_Camaro_lataria...
+[2020.08.15-17.55.55:298][832]LogStaticMesh: Built static mesh [0.06s] /Game/meshes/Chevrolet_Camaro_lataria.Chevrolet_Camaro_lataria
+[2020.08.15-17.55.55:631][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/Chevrolet_Camaro" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/Chevrolet_Camaro.uasset" SILENT=true
+[2020.08.15-17.55.55:633][833]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/Chevrolet_Camaro2F8216F149862D6B07AAE098C82C8432.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/Chevrolet_Camaro.uasset'
+[2020.08.15-17.55.58:629][974]LogSlate: Window 'Message Log' being destroyed
+[2020.08.15-17.55.58:634][974]LogSlate: Window 'Message Log' being destroyed
+[2020.08.15-17.55.58:645][974]AssetReimport: Importing new asset /Game/meshes/Chevrolet_Camaro.
+[2020.08.15-17.56.00:568][ 56]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 220
+[2020.08.15-17.56.00:945][ 70]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 210
+[2020.08.15-17.56.04:021][180]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 200
+[2020.08.15-17.56.07:294][294]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 190
+[2020.08.15-17.56.09:999][388]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 180
+[2020.08.15-17.56.12:006][441]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 170
+[2020.08.15-17.56.16:672][585]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 160
+[2020.08.15-17.56.17:337][607]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 150
+[2020.08.15-17.56.20:930][722]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 140
+[2020.08.15-17.56.23:911][807]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 130
+[2020.08.15-17.56.25:635][878]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 120
+[2020.08.15-17.56.29:635][ 18]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 110
+[2020.08.15-17.56.30:987][ 45]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 100
+[2020.08.15-17.56.34:666][145]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 90
+[2020.08.15-17.56.35:631][179]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 80
+[2020.08.15-17.56.37:126][241]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2020.08.15-17.56.39:465][241]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 70
+[2020.08.15-17.56.40:170][241]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 60
+[2020.08.15-17.56.40:402][241]LogSlate: Window 'Delete Assets' being destroyed
+[2020.08.15-17.56.43:709][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.08.15-17.56.45:015][359]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 50
+[2020.08.15-17.56.46:150][359]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 40
+[2020.08.15-17.56.47:731][359]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 30
+[2020.08.15-17.56.48:563][359]LogSlate: Window 'Delete Assets' being destroyed
+[2020.08.15-17.56.48:821][359]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2020.08.15-17.56.51:960][541]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 20
+[2020.08.15-17.56.54:592][646]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2020.08.15-17.56.55:614][671]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2020.08.15-17.56.57:190][744]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.08.15-17.56.58:598][773]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.08.15-17.56.58:639][775]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.08.15-17.57.00:800][835]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\simterac-ue4 task\simteract---ue4-task\Sumteract_UE4\Content\meshes\Chevrolet Camaro.fbx)
+[2020.08.15-17.57.00:814][835]LogFbx: Loading FBX Scene from D:\simterac-ue4 task\simteract---ue4-task\Sumteract_UE4\Content\meshes\Chevrolet Camaro.fbx
+[2020.08.15-17.57.00:845][835]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.15-17.57.03:329][835]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.08.15-17.57.03:351][835]LogMaterial: Display: Missing cached shader map for material Lataria, compiling. 
+[2020.08.15-17.57.03:379][835]LogMaterial: Display: Missing cached shader map for material Chroma, compiling. 
+[2020.08.15-17.57.03:404][835]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2020.08.15-17.57.03:404][835]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2020.08.15-17.57.03:404][835]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2020.08.15-17.57.03:404][835]LogFbx: Display: Triangulating static mesh Cube
+[2020.08.15-17.57.03:446][835]LogStaticMesh: Building static mesh Chevrolet_Camaro_Cube...
+[2020.08.15-17.57.03:453][835]LogStaticMesh: Built static mesh [0.01s] /Game/meshes/Chevrolet_Camaro_Cube.Chevrolet_Camaro_Cube
+[2020.08.15-17.57.03:454][835]LogStaticMesh: Warning: Chevrolet_Camaro_Cube has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.08.15-17.57.03:454][835]LogStaticMesh: Warning: Chevrolet_Camaro_Cube has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.08.15-17.57.03:459][835]LogFbx: Display: Triangulating static mesh Cylinder.002
+[2020.08.15-17.57.03:567][835]LogStaticMesh: Building static mesh Chevrolet_Camaro_Cylinder_002...
+[2020.08.15-17.57.03:578][835]LogStaticMesh: Built static mesh [0.01s] /Game/meshes/Chevrolet_Camaro_Cylinder_002.Chevrolet_Camaro_Cylinder_002
+[2020.08.15-17.57.03:596][835]LogMaterial: Display: Missing cached shader map for material Vidro, compiling. 
+[2020.08.15-17.57.03:625][835]LogFbx: Display: Triangulating static mesh Vidro
+[2020.08.15-17.57.03:731][835]LogStaticMesh: Building static mesh Chevrolet_Camaro_Vidro...
+[2020.08.15-17.57.03:757][835]LogStaticMesh: Built static mesh [0.03s] /Game/meshes/Chevrolet_Camaro_Vidro.Chevrolet_Camaro_Vidro
+[2020.08.15-17.57.03:770][835]LogFbx: Display: Triangulating static mesh Cube.002
+[2020.08.15-17.57.03:778][835]LogStaticMesh: Building static mesh Chevrolet_Camaro_Cube_002...
+[2020.08.15-17.57.03:779][835]LogStaticMesh: Built static mesh [0.00s] /Game/meshes/Chevrolet_Camaro_Cube_002.Chevrolet_Camaro_Cube_002
+[2020.08.15-17.57.03:785][835]LogFbx: Display: Triangulating static mesh Cube.001
+[2020.08.15-17.57.03:793][835]LogStaticMesh: Building static mesh Chevrolet_Camaro_Cube_001...
+[2020.08.15-17.57.03:794][835]LogStaticMesh: Built static mesh [0.00s] /Game/meshes/Chevrolet_Camaro_Cube_001.Chevrolet_Camaro_Cube_001
+[2020.08.15-17.57.03:802][835]LogFbx: Display: Triangulating static mesh Cylinder.001
+[2020.08.15-17.57.03:817][835]LogStaticMesh: Building static mesh Chevrolet_Camaro_Cylinder_001...
+[2020.08.15-17.57.03:820][835]LogStaticMesh: Built static mesh [0.00s] /Game/meshes/Chevrolet_Camaro_Cylinder_001.Chevrolet_Camaro_Cylinder_001
+[2020.08.15-17.57.03:826][835]LogFbx: Display: Triangulating static mesh Cylinder
+[2020.08.15-17.57.03:841][835]LogStaticMesh: Building static mesh Chevrolet_Camaro_Cylinder...
+[2020.08.15-17.57.03:844][835]LogStaticMesh: Built static mesh [0.00s] /Game/meshes/Chevrolet_Camaro_Cylinder.Chevrolet_Camaro_Cylinder
+[2020.08.15-17.57.03:851][835]LogFbx: Display: Triangulating static mesh Maneta
+[2020.08.15-17.57.03:880][835]LogStaticMesh: Building static mesh Chevrolet_Camaro_Maneta...
+[2020.08.15-17.57.03:882][835]LogStaticMesh: Built static mesh [0.00s] /Game/meshes/Chevrolet_Camaro_Maneta.Chevrolet_Camaro_Maneta
+[2020.08.15-17.57.03:895][835]LogMaterial: Display: Missing cached shader map for material Material_002, compiling. 
+[2020.08.15-17.57.03:910][835]LogFbx: Display: Triangulating static mesh Frente
+[2020.08.15-17.57.03:951][835]LogStaticMesh: Building static mesh Chevrolet_Camaro_Frente...
+[2020.08.15-17.57.03:957][835]LogStaticMesh: Built static mesh [0.01s] /Game/meshes/Chevrolet_Camaro_Frente.Chevrolet_Camaro_Frente
+[2020.08.15-17.57.03:959][835]LogStaticMesh: Warning: Chevrolet_Camaro_Frente has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.08.15-17.57.03:959][835]LogStaticMesh: Warning: Chevrolet_Camaro_Frente has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.08.15-17.57.03:984][835]LogMaterial: Display: Missing cached shader map for material Farol_001, compiling. 
+[2020.08.15-17.57.04:007][835]LogMaterial: Display: Missing cached shader map for material Lamp, compiling. 
+[2020.08.15-17.57.04:022][835]LogFbx: Display: Triangulating static mesh Farol
+[2020.08.15-17.57.05:281][835]LogStaticMesh: Building static mesh Chevrolet_Camaro_Farol...
+[2020.08.15-17.57.05:469][835]LogStaticMesh: Built static mesh [0.19s] /Game/meshes/Chevrolet_Camaro_Farol.Chevrolet_Camaro_Farol
+[2020.08.15-17.57.05:537][835]LogStaticMesh: Warning: Chevrolet_Camaro_Farol has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.08.15-17.57.05:537][835]LogStaticMesh: Warning: Chevrolet_Camaro_Farol has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.08.15-17.57.05:606][835]LogMaterial: Display: Missing cached shader map for material Material_001, compiling. 
+[2020.08.15-17.57.05:638][835]LogFbx: Display: Triangulating static mesh Plane
+[2020.08.15-17.57.05:639][835]LogStaticMesh: Building static mesh Chevrolet_Camaro_Plane...
+[2020.08.15-17.57.05:640][835]LogStaticMesh: Built static mesh [0.00s] /Game/meshes/Chevrolet_Camaro_Plane.Chevrolet_Camaro_Plane
+[2020.08.15-17.57.05:640][835]LogStaticMesh: Warning: Chevrolet_Camaro_Plane has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.08.15-17.57.05:640][835]LogStaticMesh: Warning: Chevrolet_Camaro_Plane has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.08.15-17.57.05:654][835]LogMaterial: Display: Missing cached shader map for material Pneu, compiling. 
+[2020.08.15-17.57.05:669][835]LogFbx: Display: Triangulating static mesh pneu.001
+[2020.08.15-17.57.05:832][835]LogStaticMesh: Building static mesh Chevrolet_Camaro_pneu_001...
+[2020.08.15-17.57.05:847][835]LogStaticMesh: Built static mesh [0.02s] /Game/meshes/Chevrolet_Camaro_pneu_001.Chevrolet_Camaro_pneu_001
+[2020.08.15-17.57.05:882][835]LogMaterial: Display: Missing cached shader map for material Aro, compiling. 
+[2020.08.15-17.57.05:897][835]LogFbx: Display: Triangulating static mesh aro.001
+[2020.08.15-17.57.05:988][835]LogStaticMesh: Building static mesh Chevrolet_Camaro_aro_001...
+[2020.08.15-17.57.05:998][835]LogStaticMesh: Built static mesh [0.01s] /Game/meshes/Chevrolet_Camaro_aro_001.Chevrolet_Camaro_aro_001
+[2020.08.15-17.57.06:002][835]LogStaticMesh: Warning: Chevrolet_Camaro_aro_001 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.08.15-17.57.06:002][835]LogStaticMesh: Warning: Chevrolet_Camaro_aro_001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.08.15-17.57.06:019][835]LogFbx: Display: Triangulating static mesh aro
+[2020.08.15-17.57.06:095][835]LogStaticMesh: Building static mesh Chevrolet_Camaro_aro...
+[2020.08.15-17.57.06:105][835]LogStaticMesh: Built static mesh [0.01s] /Game/meshes/Chevrolet_Camaro_aro.Chevrolet_Camaro_aro
+[2020.08.15-17.57.06:108][835]LogStaticMesh: Warning: Chevrolet_Camaro_aro has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.08.15-17.57.06:108][835]LogStaticMesh: Warning: Chevrolet_Camaro_aro has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.08.15-17.57.06:115][835]LogFbx: Display: Triangulating static mesh pneu
+[2020.08.15-17.57.06:246][835]LogStaticMesh: Building static mesh Chevrolet_Camaro_pneu...
+[2020.08.15-17.57.06:266][835]LogStaticMesh: Built static mesh [0.02s] /Game/meshes/Chevrolet_Camaro_pneu.Chevrolet_Camaro_pneu
+[2020.08.15-17.57.06:283][835]LogFbx: Display: Triangulating static mesh Portas
+[2020.08.15-17.57.06:433][835]LogStaticMesh: Building static mesh Chevrolet_Camaro_Portas...
+[2020.08.15-17.57.06:464][835]LogStaticMesh: Built static mesh [0.03s] /Game/meshes/Chevrolet_Camaro_Portas.Chevrolet_Camaro_Portas
+[2020.08.15-17.57.06:491][835]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.08.15-17.57.06:515][835]LogMaterial: Display: Missing cached shader map for material Preto, compiling. 
+[2020.08.15-17.57.06:540][835]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 198
+[2020.08.15-17.57.06:540][835]LogFbx: Display: Triangulating static mesh lataria
+[2020.08.15-17.57.07:045][835]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 210
+[2020.08.15-17.57.07:047][835]LogStaticMesh: Building static mesh Chevrolet_Camaro_lataria...
+[2020.08.15-17.57.07:122][835]LogStaticMesh: Built static mesh [0.08s] /Game/meshes/Chevrolet_Camaro_lataria.Chevrolet_Camaro_lataria
+[2020.08.15-17.57.07:137][835]LogStaticMesh: Warning: Chevrolet_Camaro_lataria has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.08.15-17.57.07:137][835]LogStaticMesh: Warning: Chevrolet_Camaro_lataria has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.08.15-17.57.07:360][835]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.08.15-17.57.07:360][835]FBXImport: Warning: Chevrolet_Camaro_Cube has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.08.15-17.57.07:360][835]FBXImport: Warning: Chevrolet_Camaro_Cube has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.08.15-17.57.07:360][835]FBXImport: Warning: Chevrolet_Camaro_Frente has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.08.15-17.57.07:360][835]FBXImport: Warning: Chevrolet_Camaro_Frente has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.08.15-17.57.07:360][835]FBXImport: Warning: Chevrolet_Camaro_Farol has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.08.15-17.57.07:361][835]FBXImport: Warning: Chevrolet_Camaro_Farol has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.08.15-17.57.07:361][835]FBXImport: Warning: Chevrolet_Camaro_Plane has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.08.15-17.57.07:361][835]FBXImport: Warning: Chevrolet_Camaro_Plane has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.08.15-17.57.07:361][835]FBXImport: Warning: Chevrolet_Camaro_aro_001 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.08.15-17.57.07:361][835]FBXImport: Warning: Chevrolet_Camaro_aro_001 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.08.15-17.57.07:361][835]FBXImport: Warning: Chevrolet_Camaro_aro has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.08.15-17.57.07:361][835]FBXImport: Warning: Chevrolet_Camaro_aro has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.08.15-17.57.07:361][835]FBXImport: Warning: Chevrolet_Camaro_lataria has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.08.15-17.57.07:361][835]FBXImport: Warning: Chevrolet_Camaro_lataria has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.08.15-17.57.09:936][944]LogSlate: Window 'Message Log' being destroyed
+[2020.08.15-17.57.09:940][944]LogSlate: Window 'Message Log' being destroyed
+[2020.08.15-17.57.11:387][ 15]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 200
+[2020.08.15-17.57.13:837][ 99]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 190
+[2020.08.15-17.57.17:694][234]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 180
+[2020.08.15-17.57.18:033][244]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.08.15-17.57.19:591][244]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 170
+[2020.08.15-17.57.22:419][244]LogSlate: Window 'Delete Assets' being destroyed
+[2020.08.15-17.57.22:520][244]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 160
+[2020.08.15-17.57.22:645][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.08.15-17.57.23:267][281]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 150
+[2020.08.15-17.57.26:452][371]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 140
+[2020.08.15-17.57.29:019][421]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 130
+[2020.08.15-17.57.30:279][450]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 120
+[2020.08.15-17.57.33:209][512]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 110
+[2020.08.15-17.57.34:413][544]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 100
+[2020.08.15-17.57.39:369][780]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 90
+[2020.08.15-17.57.39:843][793]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 80
+[2020.08.15-17.57.43:323][869]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 70
+[2020.08.15-17.57.44:126][888]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 60
+[2020.08.15-17.57.47:912][958]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 50
+[2020.08.15-17.57.48:625][976]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 40
+[2020.08.15-17.57.52:136][ 23]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 30
+[2020.08.15-17.57.54:605][ 75]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 20
+[2020.08.15-17.57.55:623][ 97]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2020.08.15-17.57.57:469][134]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2020.08.15-17.57.58:583][160]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2020.08.15-17.58.00:423][186]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2020.08.15-17.58.00:740][191]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.08.15-17.59.07:027][516]AssetReimport: New page: Outstanding source content changes 21:59:07
+[2020.08.15-17.59.07:132][516]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/Shelby.obj)
+[2020.08.15-17.59.07:246][516]LogFbx: Loading FBX Scene from D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/Shelby.obj
+[2020.08.15-17.59.12:021][516]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.15-17.59.13:398][516]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.08.15-17.59.43:772][516]LogStaticMesh: Building static mesh Shelby...
+[2020.08.15-17.59.45:378][516]LogStaticMesh: Built static mesh [1.62s] /Game/meshes/Shelby.Shelby
+[2020.08.15-17.59.45:873][517]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/Shelby" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/Shelby.uasset" SILENT=true
+[2020.08.15-17.59.46:419][517]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/ShelbyA31077D548473CA8552FF79D66DAA25D.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/Shelby.uasset'
+[2020.08.15-17.59.49:519][527]AssetReimport: Importing new asset /Game/meshes/Shelby.
+[2020.08.15-18.00.04:568][661]LogSlate: Window 'Message Log' being destroyed
+[2020.08.15-18.00.04:575][661]LogSlate: Window 'Message Log' being destroyed
+[2020.08.15-18.00.06:908][789]LogActorFactory: Actor Factory created Shelby
+[2020.08.15-18.00.07:106][800]LogActorFactory: Actor Factory created Shelby
+[2020.08.15-18.00.09:783][956]Cmd: DELETE
+[2020.08.15-18.00.09:783][956]Cmd: ACTOR DELETE
+[2020.08.15-18.00.09:793][956]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.08.15-18.00.09:819][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.08.15-18.00.09:820][956]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.08.15-18.00.10:535][996]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.15-18.00.11:052][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.08.15-18.00.13:200][ 22]LogSlate: Window 'Delete Assets' being destroyed
+[2020.08.15-18.00.13:810][ 52]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/meshes/Shelby.Shelby
+[2020.08.15-18.00.14:489][ 52]LogRenderer: Reallocating scene render targets to support 1432x920 Format 10 NumSamples 1 (Frame:1).
+[2020.08.15-18.00.27:359][739]LogSlate: Window 'Shelby' being destroyed
+[2020.08.15-18.00.27:367][739]LogSlate: Window 'Shelby' being destroyed
+[2020.08.15-18.00.27:374][739]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.08.15-18.00.31:371][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2020.08.15-18.00.32:556][943]LogSlate: Window 'Delete Assets' being destroyed
+[2020.08.15-18.00.32:735][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2020.08.15-18.00.32:765][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2020.08.15-18.00.32:789][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.08.15-18.00.33:539][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.08.15-18.00.34:614][987]LogSlate: Window 'Delete Assets' being destroyed
+[2020.08.15-18.00.34:706][987]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2020.08.15-18.00.49:295][118]AssetReimport: New page: Outstanding source content changes 22:00:49
+[2020.08.15-18.00.49:298][118]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/Chevrolet Camaro.fbx)
+[2020.08.15-18.00.49:309][118]LogFbx: Loading FBX Scene from D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/Chevrolet Camaro.fbx
+[2020.08.15-18.00.49:341][118]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.15-18.00.50:639][118]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.08.15-18.00.50:742][118]LogStaticMesh: Building static mesh Chevrolet_Camaro_Cube...
+[2020.08.15-18.00.50:746][118]LogStaticMesh: Built static mesh [0.00s] /Game/meshes/Chevrolet_Camaro_Cube.Chevrolet_Camaro_Cube
+[2020.08.15-18.00.50:837][118]LogStaticMesh: Building static mesh Chevrolet_Camaro_Cylinder_002...
+[2020.08.15-18.00.50:850][118]LogStaticMesh: Built static mesh [0.01s] /Game/meshes/Chevrolet_Camaro_Cylinder_002.Chevrolet_Camaro_Cylinder_002
+[2020.08.15-18.00.50:969][118]LogStaticMesh: Building static mesh Chevrolet_Camaro_Vidro...
+[2020.08.15-18.00.50:978][118]LogStaticMesh: Built static mesh [0.01s] /Game/meshes/Chevrolet_Camaro_Vidro.Chevrolet_Camaro_Vidro
+[2020.08.15-18.00.50:997][118]LogStaticMesh: Building static mesh Chevrolet_Camaro_Cube_002...
+[2020.08.15-18.00.50:999][118]LogStaticMesh: Built static mesh [0.00s] /Game/meshes/Chevrolet_Camaro_Cube_002.Chevrolet_Camaro_Cube_002
+[2020.08.15-18.00.51:012][118]LogStaticMesh: Building static mesh Chevrolet_Camaro_Cube_001...
+[2020.08.15-18.00.51:013][118]LogStaticMesh: Built static mesh [0.00s] /Game/meshes/Chevrolet_Camaro_Cube_001.Chevrolet_Camaro_Cube_001
+[2020.08.15-18.00.51:033][118]LogStaticMesh: Building static mesh Chevrolet_Camaro_Cylinder_001...
+[2020.08.15-18.00.51:036][118]LogStaticMesh: Built static mesh [0.00s] /Game/meshes/Chevrolet_Camaro_Cylinder_001.Chevrolet_Camaro_Cylinder_001
+[2020.08.15-18.00.51:057][118]LogStaticMesh: Building static mesh Chevrolet_Camaro_Cylinder...
+[2020.08.15-18.00.51:060][118]LogStaticMesh: Built static mesh [0.00s] /Game/meshes/Chevrolet_Camaro_Cylinder.Chevrolet_Camaro_Cylinder
+[2020.08.15-18.00.51:077][118]LogStaticMesh: Building static mesh Chevrolet_Camaro_Maneta...
+[2020.08.15-18.00.51:079][118]LogStaticMesh: Built static mesh [0.00s] /Game/meshes/Chevrolet_Camaro_Maneta.Chevrolet_Camaro_Maneta
+[2020.08.15-18.00.51:145][118]LogStaticMesh: Building static mesh Chevrolet_Camaro_Frente...
+[2020.08.15-18.00.51:150][118]LogStaticMesh: Built static mesh [0.01s] /Game/meshes/Chevrolet_Camaro_Frente.Chevrolet_Camaro_Frente
+[2020.08.15-18.00.52:299][118]LogStaticMesh: Building static mesh Chevrolet_Camaro_Farol...
+[2020.08.15-18.00.52:460][118]LogStaticMesh: Built static mesh [0.16s] /Game/meshes/Chevrolet_Camaro_Farol.Chevrolet_Camaro_Farol
+[2020.08.15-18.00.52:593][118]LogStaticMesh: Building static mesh Chevrolet_Camaro_Plane...
+[2020.08.15-18.00.52:594][118]LogStaticMesh: Built static mesh [0.00s] /Game/meshes/Chevrolet_Camaro_Plane.Chevrolet_Camaro_Plane
+[2020.08.15-18.00.52:745][118]LogStaticMesh: Building static mesh Chevrolet_Camaro_pneu_001...
+[2020.08.15-18.00.52:761][118]LogStaticMesh: Built static mesh [0.02s] /Game/meshes/Chevrolet_Camaro_pneu_001.Chevrolet_Camaro_pneu_001
+[2020.08.15-18.00.52:864][118]LogStaticMesh: Building static mesh Chevrolet_Camaro_aro_001...
+[2020.08.15-18.00.52:874][118]LogStaticMesh: Built static mesh [0.01s] /Game/meshes/Chevrolet_Camaro_aro_001.Chevrolet_Camaro_aro_001
+[2020.08.15-18.00.52:940][118]LogStaticMesh: Building static mesh Chevrolet_Camaro_aro...
+[2020.08.15-18.00.52:950][118]LogStaticMesh: Built static mesh [0.01s] /Game/meshes/Chevrolet_Camaro_aro.Chevrolet_Camaro_aro
+[2020.08.15-18.00.53:065][118]LogStaticMesh: Building static mesh Chevrolet_Camaro_pneu...
+[2020.08.15-18.00.53:080][118]LogStaticMesh: Built static mesh [0.02s] /Game/meshes/Chevrolet_Camaro_pneu.Chevrolet_Camaro_pneu
+[2020.08.15-18.00.53:198][118]LogStaticMesh: Building static mesh Chevrolet_Camaro_Portas...
+[2020.08.15-18.00.53:213][118]LogStaticMesh: Built static mesh [0.01s] /Game/meshes/Chevrolet_Camaro_Portas.Chevrolet_Camaro_Portas
+[2020.08.15-18.00.53:628][118]LogStaticMesh: Building static mesh Chevrolet_Camaro_lataria...
+[2020.08.15-18.00.53:682][118]LogStaticMesh: Built static mesh [0.05s] /Game/meshes/Chevrolet_Camaro_lataria.Chevrolet_Camaro_lataria
+[2020.08.15-18.00.54:010][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/Chevrolet_Camaro" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/Chevrolet_Camaro.uasset" SILENT=true
+[2020.08.15-18.00.54:012][119]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/Chevrolet_CamaroD8F8AD8B4176656D6C04CEAF39D5723A.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/Chevrolet_Camaro.uasset'
+[2020.08.15-18.00.56:716][240]LogSlate: Window 'Message Log' being destroyed
+[2020.08.15-18.00.56:723][240]LogSlate: Window 'Message Log' being destroyed
+[2020.08.15-18.00.57:028][256]AssetReimport: Importing new asset /Game/meshes/Chevrolet_Camaro.
+[2020.08.15-18.01.05:278][570]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 220
+[2020.08.15-18.01.05:278][570]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 210
+[2020.08.15-18.01.10:120][664]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 200
+[2020.08.15-18.01.11:554][692]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 190
+[2020.08.15-18.01.14:749][757]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 180
+[2020.08.15-18.01.15:474][773]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 170
+[2020.08.15-18.01.19:458][856]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 160
+[2020.08.15-18.01.20:234][874]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 150
+[2020.08.15-18.01.22:060][915]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 140
+[2020.08.15-18.01.25:799][ 29]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 130
+[2020.08.15-18.01.28:134][105]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 120
+[2020.08.15-18.01.30:605][215]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 110
+[2020.08.15-18.01.34:512][371]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 100
+[2020.08.15-18.01.37:745][503]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 90
+[2020.08.15-18.01.39:609][567]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 80
+[2020.08.15-18.01.45:073][792]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 70
+[2020.08.15-18.01.48:233][907]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 60
+[2020.08.15-18.01.50:492][962]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 50
+[2020.08.15-18.01.51:405][982]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 40
+[2020.08.15-18.01.54:266][ 52]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 30
+[2020.08.15-18.01.56:787][115]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 20
+[2020.08.15-18.01.58:760][183]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2020.08.15-18.02.01:680][306]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2020.08.15-18.02.04:164][387]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2020.08.15-18.02.06:303][459]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.08.15-18.02.06:489][470]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2020.08.15-18.02.06:878][491]AssetReimport: New page: Outstanding source content changes 22:02:06
+[2020.08.15-18.02.06:910][491]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/Shelby.fbx)
+[2020.08.15-18.02.06:948][491]LogFbx: Loading FBX Scene from D:/simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/Shelby.fbx
+[2020.08.15-18.02.07:207][491]LogFbx: FBX Scene Loaded Succesfully
+[2020.08.15-18.02.08:753][491]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.08.15-18.02.09:380][491]LogStaticMesh: Building static mesh Shelby_Circle_012...
+[2020.08.15-18.02.09:492][491]LogStaticMesh: Built static mesh [0.11s] /Game/meshes/Shelby_Circle_012.Shelby_Circle_012
+[2020.08.15-18.02.10:172][491]LogStaticMesh: Building static mesh Shelby_Circle_011...
+[2020.08.15-18.02.10:285][491]LogStaticMesh: Built static mesh [0.11s] /Game/meshes/Shelby_Circle_011.Shelby_Circle_011
+[2020.08.15-18.02.10:942][491]LogStaticMesh: Building static mesh Shelby_Circle_008...
+[2020.08.15-18.02.11:071][491]LogStaticMesh: Built static mesh [0.13s] /Game/meshes/Shelby_Circle_008.Shelby_Circle_008
+[2020.08.15-18.02.11:743][491]LogStaticMesh: Building static mesh Shelby_Circle_007...
+[2020.08.15-18.02.11:856][491]LogStaticMesh: Built static mesh [0.12s] /Game/meshes/Shelby_Circle_007.Shelby_Circle_007
+[2020.08.15-18.02.12:520][491]LogStaticMesh: Building static mesh Shelby_Circle_004...
+[2020.08.15-18.02.12:635][491]LogStaticMesh: Built static mesh [0.12s] /Game/meshes/Shelby_Circle_004.Shelby_Circle_004
+[2020.08.15-18.02.13:270][491]LogStaticMesh: Building static mesh Shelby_Circle_001...
+[2020.08.15-18.02.13:412][491]LogStaticMesh: Built static mesh [0.14s] /Game/meshes/Shelby_Circle_001.Shelby_Circle_001
+[2020.08.15-18.02.14:087][491]LogStaticMesh: Building static mesh Shelby_Plane_008...
+[2020.08.15-18.02.14:164][491]LogStaticMesh: Built static mesh [0.08s] /Game/meshes/Shelby_Plane_008.Shelby_Plane_008
+[2020.08.15-18.02.14:454][491]LogStaticMesh: Building static mesh Shelby_Plane_007...
+[2020.08.15-18.02.14:485][491]LogStaticMesh: Built static mesh [0.03s] /Game/meshes/Shelby_Plane_007.Shelby_Plane_007
+[2020.08.15-18.02.14:912][491]LogStaticMesh: Building static mesh Shelby_Plane_001...
+[2020.08.15-18.02.14:967][491]LogStaticMesh: Built static mesh [0.05s] /Game/meshes/Shelby_Plane_001.Shelby_Plane_001
+[2020.08.15-18.02.15:416][491]LogStaticMesh: Building static mesh Shelby_Plane_004...
+[2020.08.15-18.02.15:473][491]LogStaticMesh: Built static mesh [0.06s] /Game/meshes/Shelby_Plane_004.Shelby_Plane_004
+[2020.08.15-18.02.15:705][491]LogStaticMesh: Building static mesh Shelby_Plane_003...
+[2020.08.15-18.02.15:733][491]LogStaticMesh: Built static mesh [0.03s] /Game/meshes/Shelby_Plane_003.Shelby_Plane_003
+[2020.08.15-18.02.16:336][491]LogStaticMesh: Building static mesh Shelby_Plane...
+[2020.08.15-18.02.16:417][491]LogStaticMesh: Built static mesh [0.08s] /Game/meshes/Shelby_Plane.Shelby_Plane
+[2020.08.15-18.02.17:760][491]LogStaticMesh: Building static mesh Shelby_Circle_030...
+[2020.08.15-18.02.17:955][491]LogStaticMesh: Built static mesh [0.20s] /Game/meshes/Shelby_Circle_030.Shelby_Circle_030
+[2020.08.15-18.02.18:320][491]LogStaticMesh: Building static mesh Shelby_Circle_029...
+[2020.08.15-18.02.18:388][491]LogStaticMesh: Built static mesh [0.07s] /Game/meshes/Shelby_Circle_029.Shelby_Circle_029
+[2020.08.15-18.02.18:515][491]LogStaticMesh: Building static mesh Shelby_Plane_005...
+[2020.08.15-18.02.18:528][491]LogStaticMesh: Built static mesh [0.01s] /Game/meshes/Shelby_Plane_005.Shelby_Plane_005
+[2020.08.15-18.02.18:586][491]LogStaticMesh: Building static mesh Shelby_Carosserie__008...
+[2020.08.15-18.02.18:592][491]LogStaticMesh: Built static mesh [0.01s] /Game/meshes/Shelby_Carosserie__008.Shelby_Carosserie__008
+[2020.08.15-18.02.18:990][491]LogStaticMesh: Building static mesh Shelby_Carosserie__007...
+[2020.08.15-18.02.19:044][491]LogStaticMesh: Built static mesh [0.06s] /Game/meshes/Shelby_Carosserie__007.Shelby_Carosserie__007
+[2020.08.15-18.02.20:086][491]LogStaticMesh: Building static mesh Shelby_Cylinder...
+[2020.08.15-18.02.20:242][491]LogStaticMesh: Built static mesh [0.16s] /Game/meshes/Shelby_Cylinder.Shelby_Cylinder
+[2020.08.15-18.02.20:517][491]LogStaticMesh: Building static mesh Shelby_Carosserie__006...
+[2020.08.15-18.02.20:541][491]LogStaticMesh: Built static mesh [0.02s] /Game/meshes/Shelby_Carosserie__006.Shelby_Carosserie__006
+[2020.08.15-18.02.23:429][491]LogStaticMesh: Building static mesh Shelby_Circle_024...
+[2020.08.15-18.02.23:876][491]LogStaticMesh: Built static mesh [0.45s] /Game/meshes/Shelby_Circle_024.Shelby_Circle_024
+[2020.08.15-18.02.24:150][491]LogStaticMesh: Building static mesh Shelby_Icosphere_003...
+[2020.08.15-18.02.24:150][491]LogStaticMesh: Built static mesh [0.00s] /Game/meshes/Shelby_Icosphere_003.Shelby_Icosphere_003
+[2020.08.15-18.02.24:549][491]LogStaticMesh: Building static mesh Shelby_Cube_002...
+[2020.08.15-18.02.24:600][491]LogStaticMesh: Built static mesh [0.05s] /Game/meshes/Shelby_Cube_002.Shelby_Cube_002
+[2020.08.15-18.02.24:673][491]LogStaticMesh: Building static mesh Shelby_Circle_014...
+[2020.08.15-18.02.24:678][491]LogStaticMesh: Built static mesh [0.00s] /Game/meshes/Shelby_Circle_014.Shelby_Circle_014
+[2020.08.15-18.02.25:190][491]LogStaticMesh: Building static mesh Shelby_Circle_010...
+[2020.08.15-18.02.25:257][491]LogStaticMesh: Built static mesh [0.07s] /Game/meshes/Shelby_Circle_010.Shelby_Circle_010
+[2020.08.15-18.02.27:007][491]LogStaticMesh: Building static mesh Shelby_Circle_013...
+[2020.08.15-18.02.27:296][491]LogStaticMesh: Built static mesh [0.29s] /Game/meshes/Shelby_Circle_013.Shelby_Circle_013
+[2020.08.15-18.02.27:956][491]LogStaticMesh: Building static mesh Shelby_Circle_009...
+[2020.08.15-18.02.28:031][491]LogStaticMesh: Built static mesh [0.08s] /Game/meshes/Shelby_Circle_009.Shelby_Circle_009
+[2020.08.15-18.02.28:697][491]LogStaticMesh: Building static mesh Shelby_Circle_006...
+[2020.08.15-18.02.28:826][491]LogStaticMesh: Built static mesh [0.13s] /Game/meshes/Shelby_Circle_006.Shelby_Circle_006
+[2020.08.15-18.02.28:993][491]LogStaticMesh: Building static mesh Shelby_Text...
+[2020.08.15-18.02.29:022][491]LogStaticMesh: Built static mesh [0.03s] /Game/meshes/Shelby_Text.Shelby_Text
+[2020.08.15-18.02.29:555][491]LogStaticMesh: Building static mesh Shelby_Circle_005...
+[2020.08.15-18.02.29:602][491]LogStaticMesh: Built static mesh [0.05s] /Game/meshes/Shelby_Circle_005.Shelby_Circle_005
+[2020.08.15-18.02.29:707][491]LogStaticMesh: Building static mesh Shelby_Circle...
+[2020.08.15-18.02.29:714][491]LogStaticMesh: Built static mesh [0.01s] /Game/meshes/Shelby_Circle.Shelby_Circle
+[2020.08.15-18.02.30:016][491]LogStaticMesh: Building static mesh Shelby_Carosserie__005...
+[2020.08.15-18.02.30:052][491]LogStaticMesh: Built static mesh [0.04s] /Game/meshes/Shelby_Carosserie__005.Shelby_Carosserie__005
+[2020.08.15-18.02.31:245][491]LogStaticMesh: Building static mesh Shelby_Carosserie__004...
+[2020.08.15-18.02.31:599][491]LogStaticMesh: Built static mesh [0.36s] /Game/meshes/Shelby_Carosserie__004.Shelby_Carosserie__004
+[2020.08.15-18.02.38:635][491]LogStaticMesh: Building static mesh Shelby_Circle_003...
+[2020.08.15-18.02.40:175][491]LogStaticMesh: Built static mesh [1.54s] /Game/meshes/Shelby_Circle_003.Shelby_Circle_003
+[2020.08.15-18.02.41:037][491]LogStaticMesh: Building static mesh Shelby_Carosserie__003...
+[2020.08.15-18.02.41:101][491]LogStaticMesh: Built static mesh [0.06s] /Game/meshes/Shelby_Carosserie__003.Shelby_Carosserie__003
+[2020.08.15-18.02.41:153][491]LogStaticMesh: Building static mesh Shelby_Plane_002...
+[2020.08.15-18.02.41:153][491]LogStaticMesh: Built static mesh [0.00s] /Game/meshes/Shelby_Plane_002.Shelby_Plane_002
+[2020.08.15-18.02.41:261][491]LogStaticMesh: Building static mesh Shelby_Icosphere_001...
+[2020.08.15-18.02.41:262][491]LogStaticMesh: Built static mesh [0.02s] /Game/meshes/Shelby_Icosphere_001.Shelby_Icosphere_001
+[2020.08.15-18.02.41:291][491]LogStaticMesh: Building static mesh Shelby_Icosphere...
+[2020.08.15-18.02.41:292][491]LogStaticMesh: Built static mesh [0.02s] /Game/meshes/Shelby_Icosphere.Shelby_Icosphere
+[2020.08.15-18.02.41:380][491]LogStaticMesh: Building static mesh Shelby_Carosserie__001...
+[2020.08.15-18.02.41:387][491]LogStaticMesh: Built static mesh [0.01s] /Game/meshes/Shelby_Carosserie__001.Shelby_Carosserie__001
+[2020.08.15-18.02.42:376][491]LogStaticMesh: Building static mesh Shelby_Carosserie__002...
+[2020.08.15-18.02.42:534][491]LogStaticMesh: Built static mesh [0.16s] /Game/meshes/Shelby_Carosserie__002.Shelby_Carosserie__002
+[2020.08.15-18.02.42:861][491]LogStaticMesh: Building static mesh Shelby_Coffre...
+[2020.08.15-18.02.42:887][491]LogStaticMesh: Built static mesh [0.05s] /Game/meshes/Shelby_Coffre.Shelby_Coffre
+[2020.08.15-18.02.43:262][491]LogStaticMesh: Building static mesh Shelby_Portes...
+[2020.08.15-18.02.43:316][491]LogStaticMesh: Built static mesh [0.05s] /Game/meshes/Shelby_Portes.Shelby_Portes
+[2020.08.15-18.02.47:263][491]LogStaticMesh: Building static mesh Shelby_Carosserie_...
+[2020.08.15-18.02.47:922][491]LogStaticMesh: Built static mesh [0.66s] /Game/meshes/Shelby_Carosserie_.Shelby_Carosserie_
+[2020.08.15-18.02.48:761][491]LogStaticMesh: Building static mesh Shelby_Capot...
+[2020.08.15-18.02.48:806][491]LogStaticMesh: Built static mesh [0.04s] /Game/meshes/Shelby_Capot.Shelby_Capot
+[2020.08.15-18.02.49:588][491]LogStaticMesh: Building static mesh Shelby_Circle_002...
+[2020.08.15-18.02.49:735][491]LogStaticMesh: Built static mesh [0.15s] /Game/meshes/Shelby_Circle_002.Shelby_Circle_002
+[2020.08.15-18.02.53:053][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/meshes/Shelby" FILE="../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/Shelby.uasset" SILENT=true
+[2020.08.15-18.02.53:476][492]LogSavePackage: Moving '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Saved/Shelby3288725343C7260D6721A0AE6B5B4366.tmp' to '../../../../simterac-ue4 task/simteract---ue4-task/Sumteract_UE4/Content/meshes/Shelby.uasset'
+[2020.08.15-18.02.53:750][492]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 160
+[2020.08.15-18.02.53:784][493]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 150
+[2020.08.15-18.02.56:774][557]AssetReimport: Importing new asset /Game/meshes/Shelby.
+[2020.08.15-18.03.01:200][678]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 140
+[2020.08.15-18.03.03:020][760]LogSlate: Window 'Message Log' being destroyed
+[2020.08.15-18.03.03:024][760]LogSlate: Window 'Message Log' being destroyed
+[2020.08.15-18.03.06:985][897]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 130
+[2020.08.15-18.03.08:453][944]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 120
+[2020.08.15-18.03.11:797][ 52]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 110
+[2020.08.15-18.03.14:383][135]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 100
+[2020.08.15-18.03.18:188][252]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 90
+[2020.08.15-18.03.18:437][256]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 80
+[2020.08.15-18.03.23:092][392]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 70
+[2020.08.15-18.03.23:602][403]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 60
+[2020.08.15-18.03.26:040][461]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 50
+[2020.08.15-18.03.27:578][512]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 40
+[2020.08.15-18.03.30:068][611]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 30
+[2020.08.15-18.03.31:396][640]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2020.08.15-18.03.33:547][701]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2020.08.15-18.03.35:243][782]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2020.08.15-18.03.37:476][807]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2020.08.15-18.03.38:277][815]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2020.08.15-18.03.39:417][828]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2020.08.15-18.04.06:947][922]LogHotReload: New module detected: UE4Editor-Sumteract_UE4-0004.dll
+[2020.08.15-18.04.07:981][926]LogHotReload: Starting Hot-Reload from IDE
+[2020.08.15-18.04.08:062][926]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2020.08.15-18.04.08:096][926]LogClass: Could not find existing class Car in package /Script/Sumteract_UE4 for HotReload, assuming new class
+[2020.08.15-18.04.08:103][926]LogHotReload: Re-instancing Car after hot-reload.
+[2020.08.15-18.04.08:208][926]LogContentBrowser: Native class hierarchy updated for 'Sumteract_UE4' in 0.0026 seconds. Added 2 classes and 2 folders.
+[2020.08.15-18.04.08:211][926]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.08.15-18.04.08:275][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2020.08.15-18.04.08:292][926]LogContentBrowser: Native class hierarchy populated in 0.0097 seconds. Added 2866 classes and 684 folders.
+[2020.08.15-18.04.08:297][926]Display: HotReload took  0.3s.
+[2020.08.15-18.04.18:755][404]LogEditor: Attempting to add actor of class 'Car' to level at -470.00,-230.00,20.00
+[2020.08.15-18.04.20:382][500]LogEditor: Attempting to add actor of class 'Car' to level at 50.00,-210.00,20.00
+[2020.08.15-18.04.25:287][791]Cmd: DELETE
+[2020.08.15-18.04.25:287][791]Cmd: ACTOR DELETE
+[2020.08.15-18.04.25:292][791]LogEditorActor: Deleted Actor: Car
+[2020.08.15-18.04.25:319][791]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2020.08.15-18.04.25:319][791]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.08.15-18.04.26:611][869]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.08.15-18.04.31:575][ 66]LogD3D11RHI: Error: Result failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Query.cpp:348 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_HUNG
+[2020.08.15-18.04.31:575][ 66]LogD3D11RHI: [Aftermath] GDynamicRHI=000001832C87E0C0, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2020.08.15-18.04.31:575][ 66]LogWindows: Windows GetLastError: Operacja ukończona pomyślnie. (0)
