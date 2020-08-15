@@ -1,0 +1,9 @@
+D:\simterac-ue4 task\simteract---ue4-task\Sumteract_UE4\Intermediate\Build\Win64\UE4Editor\Development\Sumteract_UE4\Definitions.Sumteract_UE4.h
+D:\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\simterac-ue4 task\simteract---ue4-task\Sumteract_UE4\Source\Sumteract_UE4/Sumteract_UE4GameModeBase.h
+D:\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+d:\simterac-ue4 task\simteract---ue4-task\sumteract_ue4\intermediate\build\win64\ue4editor\inc\sumteract_ue4\Sumteract_UE4GameModeBase.generated.h

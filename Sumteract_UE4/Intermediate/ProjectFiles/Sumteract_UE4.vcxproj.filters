@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Sumteract_UE4.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{6164A311-7DB4-4786-9267-DCA4FC13F5D7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Sumteract_UE4.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Sumteract_UE4Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{827A61EB-7A15-4318-A964-0CFF91314052}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\Android">
+      <UniqueIdentifier>{44CB46F7-8F97-4FED-B3B2-1269083571F2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Android\AndroidEngine.ini">
+      <Filter>Config\Android</Filter>
+    </None>
+    <Filter Include="Config\IOS">
+      <UniqueIdentifier>{C386F6BD-A5C9-4C48-ABFE-A521C9D18484}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\IOS\IOSEngine.ini">
+      <Filter>Config\IOS</Filter>
+    </None>
+    <Filter Include="Config\Linux">
+      <UniqueIdentifier>{DC7EA049-923C-4F88-B0AD-4DCEF34CE796}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Linux\LinuxEngine.ini">
+      <Filter>Config\Linux</Filter>
+    </None>
+    <Filter Include="Config\Mac">
+      <UniqueIdentifier>{71936EF8-002D-43D5-BB9D-9BF1A03657BE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Mac\MacEngine.ini">
+      <Filter>Config\Mac</Filter>
+    </None>
+    <Filter Include="Config\PS4">
+      <UniqueIdentifier>{27B512DA-D815-4281-AB4F-1CA9D0566C65}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\PS4\PS4Engine.ini">
+      <Filter>Config\PS4</Filter>
+    </None>
+    <Filter Include="Config\Switch">
+      <UniqueIdentifier>{DCE47A88-7E13-430F-BBE1-10BDF042C6A8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Switch\SwitchEngine.ini">
+      <Filter>Config\Switch</Filter>
+    </None>
+    <Filter Include="Config\Windows">
+      <UniqueIdentifier>{45DD6D92-FBE1-426E-9090-F22559B71B75}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Windows\WindowsEngine.ini">
+      <Filter>Config\Windows</Filter>
+    </None>
+    <Filter Include="Config\XboxOne">
+      <UniqueIdentifier>{2C77069B-3C0D-4D71-9287-A831A763A329}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\XboxOne\XboxOneEngine.ini">
+      <Filter>Config\XboxOne</Filter>
+    </None>
+    <Filter Include="Source\Sumteract_UE4">
+      <UniqueIdentifier>{2574EE62-DE58-4DB6-9C1A-B18072550C7D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Sumteract_UE4\Sumteract_UE4.Build.cs">
+      <Filter>Source\Sumteract_UE4</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Sumteract_UE4\Sumteract_UE4.cpp">
+      <Filter>Source\Sumteract_UE4</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sumteract_UE4\Sumteract_UE4.h">
+      <Filter>Source\Sumteract_UE4</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Sumteract_UE4\Sumteract_UE4GameModeBase.cpp">
+      <Filter>Source\Sumteract_UE4</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sumteract_UE4\Sumteract_UE4GameModeBase.h">
+      <Filter>Source\Sumteract_UE4</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

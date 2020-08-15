@@ -1,0 +1,2 @@
+D:\simterac-ue4 task\simteract---ue4-task\Sumteract_UE4\Intermediate\Build\Win64\UE4Editor\Development\Sumteract_UE4\Definitions.Sumteract_UE4.h
+d:\simterac-ue4 task\simteract---ue4-task\sumteract_ue4\source\sumteract_ue4\Sumteract_UE4.h
